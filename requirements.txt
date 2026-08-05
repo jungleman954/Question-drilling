@@ -1,0 +1,4 @@
+opencv-python-headless==5.0.0.93
+pillow==12.3.0
+pypdf==6.14.2
+rapidocr_onnxruntime==1.4.4

@@ -1,0 +1,6 @@
+.venv/
+node_modules/
+dist/
+tmp/
+reports/raw_ocr/
+*.log
