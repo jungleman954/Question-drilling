@@ -27,3 +27,10 @@ export interface PracticeState {
   totalAttempts: number
   correctAttempts: number
 }
+
+export interface ExamState {
+  questionIds: string[]
+  answers: Record<string, string[]>
+  submitted: boolean
+  startedAt: string | null
+}
