@@ -9,6 +9,8 @@
 - `reports/extraction_report.md`：完整性校验报告
 - `reports/unresolved_questions.json`：待确认题目清单
 
+网站支持顺序、随机和错题练习，可按题型筛选。答题卡可直接跳转到任意已答或未答题目；单选题和多选题的选项内容会在每次浏览器练习会话中重新乱序，并在刷新时保持稳定。
+
 ## 启动网站
 
 ```powershell

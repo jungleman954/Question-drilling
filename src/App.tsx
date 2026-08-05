@@ -6,6 +6,7 @@ import {
   ChevronLeft,
   ChevronRight,
   CircleAlert,
+  Grid3X3,
   Image as ImageIcon,
   ListOrdered,
   RotateCcw,
@@ -33,6 +34,53 @@ const MODE_LABELS: Record<PracticeMode, string> = {
   wrong: '错题重练',
 }
 
+const OPTION_SEED_KEY = 'question-drilling-option-seed-v1'
+
+function getOptionSeed() {
+  try {
+    const existing = sessionStorage.getItem(OPTION_SEED_KEY)
+    if (existing) return existing
+    const created = `${Date.now()}-${Math.random()}`
+    sessionStorage.setItem(OPTION_SEED_KEY, created)
+    return created
+  } catch {
+    return `${Date.now()}-${Math.random()}`
+  }
+}
+
+function stringHash(value: string) {
+  let hash = 2166136261
+  for (let index = 0; index < value.length; index += 1) {
+    hash ^= value.charCodeAt(index)
+    hash = Math.imul(hash, 16777619)
+  }
+  return hash >>> 0
+}
+
+function shuffledOptionKeys(question: Question, seed: string) {
+  const original = Object.keys(question.options)
+  if (question.type === 'judgment' || original.length < 2) return original
+
+  const shuffled = [...original]
+  let state = stringHash(`${seed}:${question.id}`) || 1
+  const random = () => {
+    state ^= state << 13
+    state ^= state >>> 17
+    state ^= state << 5
+    return (state >>> 0) / 4294967296
+  }
+
+  for (let index = shuffled.length - 1; index > 0; index -= 1) {
+    const target = Math.floor(random() * (index + 1))
+    ;[shuffled[index], shuffled[target]] = [shuffled[target], shuffled[index]]
+  }
+
+  if (shuffled.every((letter, index) => letter === original[index])) {
+    shuffled.push(shuffled.shift()!)
+  }
+  return shuffled
+}
+
 function shuffle<T>(items: T[]) {
   const copy = [...items]
   for (let index = copy.length - 1; index > 0; index -= 1) {
@@ -58,6 +106,8 @@ export default function App() {
   const [submitted, setSubmitted] = useState(false)
   const [lastResult, setLastResult] = useState<boolean | null>(null)
   const [showSource, setShowSource] = useState(true)
+  const [showAnswerSheet, setShowAnswerSheet] = useState(true)
+  const [optionSeed] = useState(getOptionSeed)
 
   useEffect(() => {
     fetch('/questions.json')
@@ -95,6 +145,25 @@ export default function App() {
   }, [mode, modeFiltered, randomOrder])
 
   const current = orderedQuestions[currentIndex]
+
+  const currentOptions = useMemo(() => {
+    if (!current) return []
+    return shuffledOptionKeys(current, optionSeed).map((originalLetter, index) => ({
+      originalLetter,
+      displayLetter: String.fromCharCode(65 + index),
+      text: current.options[originalLetter],
+    }))
+  }, [current, optionSeed])
+
+  const displayedCorrectAnswer = useMemo(
+    () => current?.correctAnswer
+      .split('')
+      .map((originalLetter) => currentOptions.find((option) => option.originalLetter === originalLetter)?.displayLetter)
+      .filter(Boolean)
+      .sort()
+      .join('、') ?? '',
+    [current, currentOptions],
+  )
 
   useEffect(() => {
     setCurrentIndex(0)
@@ -155,6 +224,22 @@ export default function App() {
   const goTo = (nextIndex: number) => {
     if (!orderedQuestions.length) return
     setCurrentIndex(Math.max(0, Math.min(orderedQuestions.length - 1, nextIndex)))
+  }
+
+  const jumpToQuestion = (questionId: string) => {
+    const nextIndex = orderedQuestions.findIndex((question) => question.id === questionId)
+    if (nextIndex < 0) return
+    goTo(nextIndex)
+    window.requestAnimationFrame(() => {
+      document.querySelector('.question-card')?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    })
+  }
+
+  const answerSheetLabel = (question: Question) => {
+    if (question.id === current?.id) return `第 ${question.originalNumber} 题，当前题`
+    const answer = practice.answers[question.id]
+    if (!answer) return `第 ${question.originalNumber} 题，未作答`
+    return `第 ${question.originalNumber} 题，${answer.correct ? '回答正确' : '回答错误'}`
   }
 
   const switchMode = (nextMode: PracticeMode) => {
@@ -272,6 +357,7 @@ export default function App() {
                   <span className={`type-badge ${current.type}`}>{TYPE_LABELS[current.type]}</span>
                   <span>原题第 {current.originalNumber} 题</span>
                   <span>PDF 第 {current.sourcePages.join('、')} 页</span>
+                  {current.type !== 'judgment' && <span className="shuffle-note"><Shuffle size={12} />选项已乱序</span>}
                 </div>
                 <span className="counter">{currentIndex + 1} / {orderedQuestions.length}</span>
               </div>
@@ -283,19 +369,19 @@ export default function App() {
               )}
 
               <div className="options" role="group" aria-label="题目选项">
-                {Object.entries(current.options).map(([letter, text]) => {
-                  const chosen = selected.includes(letter)
-                  const isAnswer = submitted && current.correctAnswer.includes(letter)
-                  const isWrongChoice = submitted && chosen && !current.correctAnswer.includes(letter)
+                {currentOptions.map(({ originalLetter, displayLetter, text }) => {
+                  const chosen = selected.includes(originalLetter)
+                  const isAnswer = submitted && current.correctAnswer.includes(originalLetter)
+                  const isWrongChoice = submitted && chosen && !current.correctAnswer.includes(originalLetter)
                   return (
                     <button
-                      key={letter}
+                      key={originalLetter}
                       className={`option ${chosen ? 'selected' : ''} ${isAnswer ? 'correct' : ''} ${isWrongChoice ? 'wrong' : ''}`}
-                      onClick={() => selectOption(letter)}
+                      onClick={() => selectOption(originalLetter)}
                       disabled={submitted}
                     >
                       <span className="option-letter">
-                        {isAnswer ? <Check size={16} /> : isWrongChoice ? <X size={16} /> : letter}
+                        {isAnswer ? <Check size={16} /> : isWrongChoice ? <X size={16} /> : displayLetter}
                       </span>
                       <span>{text}</span>
                     </button>
@@ -308,7 +394,7 @@ export default function App() {
                   {lastResult ? <CheckCircle2 size={21} /> : <XCircle size={21} />}
                   <div>
                     <strong>{lastResult ? '回答正确' : '回答错误'}</strong>
-                    <span>正确答案：{current.correctAnswer.split('').join('、')}</span>
+                    <span>正确答案：{displayedCorrectAnswer}</span>
                   </div>
                 </div>
               )}
@@ -332,27 +418,69 @@ export default function App() {
               </div>
             </article>
 
-            <aside className="source-card">
-              <button className="source-heading" onClick={() => setShowSource((value) => !value)}>
-                <span><ImageIcon size={17} />原题影像</span>
-                <em>{showSource ? '收起' : '展开'}</em>
-              </button>
-              {showSource && (
-                <div className="source-images">
-                  {current.images.map((source) => (
-                    <a key={source} href={source} target="_blank" rel="noreferrer" title="打开原图">
-                      <img src={source} alt={`第 ${current.originalNumber} 题原题图`} />
-                    </a>
-                  ))}
-                </div>
-              )}
-              <p>图片直接裁自源 PDF；点击可查看大图。</p>
-              {practice.answers[current.id] && (
-                <div className={`previous-result ${practice.answers[current.id].correct ? 'was-right' : 'was-wrong'}`}>
-                  {practice.answers[current.id].correct ? '上次答对' : '上次答错'} · 选择 {practice.answers[current.id].selected.join('、')}
-                </div>
-              )}
-            </aside>
+            <div className="side-column">
+              <aside className="answer-sheet-card">
+                <button className="side-card-heading" onClick={() => setShowAnswerSheet((value) => !value)}>
+                  <span><Grid3X3 size={17} />答题卡 <b>{answeredInView}/{orderedQuestions.length}</b></span>
+                  <em>{showAnswerSheet ? '收起' : '展开'}</em>
+                </button>
+                {showAnswerSheet && (
+                  <>
+                    <div className="answer-sheet-legend" aria-hidden="true">
+                      <span><i className="legend-current" />当前</span>
+                      <span><i className="legend-correct" />正确</span>
+                      <span><i className="legend-wrong" />错误</span>
+                      <span><i />未答</span>
+                    </div>
+                    <div className="answer-sheet-grid" aria-label="答题卡题号">
+                      {orderedQuestions.map((question) => {
+                        const answer = practice.answers[question.id]
+                        const status = question.id === current.id
+                          ? 'current'
+                          : answer?.correct
+                            ? 'answered-correct'
+                            : answer
+                              ? 'answered-wrong'
+                              : 'unanswered'
+                        return (
+                          <button
+                            key={question.id}
+                            className={status}
+                            onClick={() => jumpToQuestion(question.id)}
+                            aria-label={answerSheetLabel(question)}
+                            aria-current={question.id === current.id ? 'step' : undefined}
+                          >
+                            {question.originalNumber}
+                          </button>
+                        )
+                      })}
+                    </div>
+                  </>
+                )}
+              </aside>
+
+              <aside className="source-card">
+                <button className="side-card-heading" onClick={() => setShowSource((value) => !value)}>
+                  <span><ImageIcon size={17} />原题影像</span>
+                  <em>{showSource ? '收起' : '展开'}</em>
+                </button>
+                {showSource && (
+                  <div className="source-images">
+                    {current.images.map((source) => (
+                      <a key={source} href={source} target="_blank" rel="noreferrer" title="打开原图">
+                        <img src={source} alt={`第 ${current.originalNumber} 题原题图`} />
+                      </a>
+                    ))}
+                  </div>
+                )}
+                <p>图片直接裁自源 PDF；点击可查看大图。</p>
+                {practice.answers[current.id] && (
+                  <div className={`previous-result ${practice.answers[current.id].correct ? 'was-right' : 'was-wrong'}`}>
+                    {practice.answers[current.id].correct ? '上次答对' : '上次答错'} · 已记录所选内容
+                  </div>
+                )}
+              </aside>
+            </div>
           </section>
         )}
       </main>
