@@ -126,6 +126,7 @@ export default function App() {
   const [lastResult, setLastResult] = useState<boolean | null>(null)
   const [showSource, setShowSource] = useState(true)
   const [showAnswerSheet, setShowAnswerSheet] = useState(true)
+  const [showUpdateNotice, setShowUpdateNotice] = useState(true)
   const [optionSeed] = useState(getOptionSeed)
 
   useEffect(() => {
@@ -392,6 +393,19 @@ export default function App() {
           <span>清空记录</span>
         </button>
       </header>
+
+      {showUpdateNotice && (
+        <aside className="update-notice" role="status" aria-label="题库更新通知">
+          <CircleAlert size={18} />
+          <p>
+            <strong>题库更新通知：</strong>
+            第 78 题原题正确答案已更正为 D“专人”；同时修复了部分题干和选项乱码问题。如仍发现问题，欢迎私信反馈。
+          </p>
+          <button onClick={() => setShowUpdateNotice(false)} aria-label="关闭题库更新通知" title="关闭通知">
+            <X size={16} />
+          </button>
+        </aside>
+      )}
 
       <main>
         <section className="hero-row" aria-label="练习概览">
