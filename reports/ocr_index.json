@@ -2,229 +2,229 @@
   "sourceFile": "question bank.pdf",
   "sourcePages": 37,
   "ocrPages": 37,
-  "rawLineCount": 3665,
+  "rawLineCount": 1507,
   "pages": [
     {
       "page": 1,
       "width": 2000,
       "height": 1638,
-      "lines": 91
+      "lines": 38
     },
     {
       "page": 2,
       "width": 2000,
       "height": 2048,
-      "lines": 98
+      "lines": 41
     },
     {
       "page": 3,
       "width": 2000,
       "height": 2048,
-      "lines": 98
+      "lines": 39
     },
     {
       "page": 4,
       "width": 2000,
       "height": 2048,
-      "lines": 98
+      "lines": 40
     },
     {
       "page": 5,
       "width": 2000,
       "height": 2048,
-      "lines": 95
+      "lines": 38
     },
     {
       "page": 6,
       "width": 2000,
       "height": 2048,
-      "lines": 95
+      "lines": 39
     },
     {
       "page": 7,
       "width": 1024,
       "height": 2000,
-      "lines": 97
+      "lines": 40
     },
     {
       "page": 8,
       "width": 1024,
       "height": 2000,
-      "lines": 98
+      "lines": 37
     },
     {
       "page": 9,
       "width": 1024,
       "height": 2000,
-      "lines": 84
+      "lines": 37
     },
     {
       "page": 10,
       "width": 1024,
       "height": 2000,
-      "lines": 94
+      "lines": 41
     },
     {
       "page": 11,
       "width": 1024,
       "height": 2000,
-      "lines": 94
+      "lines": 39
     },
     {
       "page": 12,
       "width": 1024,
       "height": 2000,
-      "lines": 93
+      "lines": 41
     },
     {
       "page": 13,
       "width": 1024,
       "height": 2000,
-      "lines": 116
+      "lines": 45
     },
     {
       "page": 14,
       "width": 1024,
       "height": 2000,
-      "lines": 123
+      "lines": 43
     },
     {
       "page": 15,
       "width": 1024,
       "height": 2000,
-      "lines": 101
+      "lines": 40
     },
     {
       "page": 16,
       "width": 1024,
       "height": 2000,
-      "lines": 97
+      "lines": 41
     },
     {
       "page": 17,
       "width": 1024,
       "height": 2000,
-      "lines": 99
+      "lines": 40
     },
     {
       "page": 18,
       "width": 1024,
       "height": 2000,
-      "lines": 92
+      "lines": 38
     },
     {
       "page": 19,
       "width": 1024,
       "height": 2000,
-      "lines": 113
+      "lines": 44
     },
     {
       "page": 20,
       "width": 1024,
       "height": 2000,
-      "lines": 102
+      "lines": 44
     },
     {
       "page": 21,
       "width": 1024,
       "height": 2000,
-      "lines": 99
+      "lines": 41
     },
     {
       "page": 22,
       "width": 1024,
       "height": 2000,
-      "lines": 94
+      "lines": 41
     },
     {
       "page": 23,
       "width": 1024,
       "height": 2000,
-      "lines": 110
+      "lines": 46
     },
     {
       "page": 24,
       "width": 1024,
       "height": 2000,
-      "lines": 96
+      "lines": 38
     },
     {
       "page": 25,
       "width": 1024,
       "height": 2000,
-      "lines": 112
+      "lines": 46
     },
     {
       "page": 26,
       "width": 1024,
       "height": 2000,
-      "lines": 94
+      "lines": 39
     },
     {
       "page": 27,
       "width": 1024,
       "height": 2000,
-      "lines": 132
+      "lines": 52
     },
     {
       "page": 28,
       "width": 1024,
       "height": 2000,
-      "lines": 96
+      "lines": 42
     },
     {
       "page": 29,
       "width": 1024,
       "height": 2000,
-      "lines": 113
+      "lines": 49
     },
     {
       "page": 30,
       "width": 1024,
       "height": 2000,
-      "lines": 101
+      "lines": 42
     },
     {
       "page": 31,
       "width": 1024,
       "height": 2000,
-      "lines": 130
+      "lines": 51
     },
     {
       "page": 32,
       "width": 1024,
       "height": 2000,
-      "lines": 87
+      "lines": 33
     },
     {
       "page": 33,
       "width": 1024,
       "height": 2000,
-      "lines": 82
+      "lines": 36
     },
     {
       "page": 34,
       "width": 1024,
       "height": 2000,
-      "lines": 84
+      "lines": 37
     },
     {
       "page": 35,
       "width": 1024,
       "height": 2000,
-      "lines": 85
+      "lines": 35
     },
     {
       "page": 36,
       "width": 1024,
       "height": 2000,
-      "lines": 96
+      "lines": 40
     },
     {
       "page": 37,
       "width": 1229,
       "height": 2000,
-      "lines": 76
+      "lines": 34
     }
   ]
 }

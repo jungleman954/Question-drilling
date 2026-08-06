@@ -1,0 +1,5992 @@
+[
+  {
+    "id": "q-0001",
+    "originalNumber": 1,
+    "type": "single",
+    "stem": "依据变电安规，第一种工作票应在（）送达运维人员，可直接送达或通过传真、局域网传送，但传真传送的工作票许可应待正式工作票到达后履行。",
+    "options": {
+      "A": "工作当天",
+      "B": "工作前一日",
+      "C": "工作开工前",
+      "D": "工作许可前"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 1,
+    "sourcePages": [
+      1
+    ],
+    "images": [
+      "/question-images/q0001.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.979
+  },
+  {
+    "id": "q-0002",
+    "originalNumber": 2,
+    "type": "single",
+    "stem": "依据变电变规、变电站（发电厂）第二种工作果可采取电活许可方式，但应（）、并各作），并各自作好记录。",
+    "options": {
+      "A": "汇报",
+      "B": "双方确认",
+      "C": "视频监控",
+      "D": "录音"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 1,
+    "sourcePages": [
+      1
+    ],
+    "images": [
+      "/question-images/q0002.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9682
+  },
+  {
+    "id": "q-0003",
+    "originalNumber": 3,
+    "type": "single",
+    "stem": "依据变电安规，专责监护人（）兼做其他工作。",
+    "options": {
+      "A": "可以",
+      "B": "根据工作需要可",
+      "C": "不得",
+      "D": "在全部停电时可"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 1,
+    "sourcePages": [
+      1
+    ],
+    "images": [
+      "/question-images/q0003.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9911
+  },
+  {
+    "id": "q-0004",
+    "originalNumber": 4,
+    "type": "single",
+    "stem": "依据变电安规，控制盘和低压配电盘、配电箱、电源干线上的工作应填用（）工作票。",
+    "options": {
+      "A": "第一种",
+      "B": "第二种",
+      "C": "电力电缆第二种",
+      "D": "带电作业"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 1,
+    "sourcePages": [
+      1
+    ],
+    "images": [
+      "/question-images/q0004.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.8712
+  },
+  {
+    "id": "q-0005",
+    "originalNumber": 5,
+    "type": "single",
+    "stem": "依据变电安规，工作间断次日复工时，工作负责人应电话告知（），并重新认真检查确认安全措施是否符合工作票要求。",
+    "options": {
+      "A": "专责监护人",
+      "B": "工作班成员",
+      "C": "工作许可人",
+      "D": "工作票签发人"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 1,
+    "sourcePages": [
+      1
+    ],
+    "images": [
+      "/question-images/q0005.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9948
+  },
+  {
+    "id": "q-0006",
+    "originalNumber": 6,
+    "type": "single",
+    "stem": "依据变电安规，只有在同一停电系统的所有工作票都已终结，并得（）或运维负责人的许可指令后，方可合闸送电。",
+    "options": {
+      "A": "工作负责人",
+      "B": "专责监护人",
+      "C": "值班调控人员",
+      "D": "工作票签发人"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 1,
+    "sourcePages": [
+      1
+    ],
+    "images": [
+      "/question-images/q0006.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9933
+  },
+  {
+    "id": "q-0007",
+    "originalNumber": 7,
+    "type": "single",
+    "stem": "依据变电安规，总、分工作票在格式上与（）工作票一致。",
+    "options": {
+      "A": "事故紧急抢修单",
+      "B": "第二种",
+      "C": "第一种",
+      "D": "带电作业"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 1,
+    "sourcePages": [
+      1,
+      2
+    ],
+    "images": [
+      "/question-images/q0007-p01.jpg",
+      "/question-images/q0007-p02.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9928
+  },
+  {
+    "id": "q-0008",
+    "originalNumber": 8,
+    "type": "single",
+    "stem": "依据变电安规，第一种工作票所列工作地点超过两个，或有两个及以上不同的工作单位（班组）在一起工作时，可采用总工作票和分工作票。总、分工作票应由（）签发。）签发。",
+    "options": {
+      "A": "值班调控人员和工作票签发人",
+      "B": "同一个工作票签发人",
+      "C": "工作票签发人和工作负责人",
+      "D": "不同的工作票签发人"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 2,
+    "sourcePages": [
+      2
+    ],
+    "images": [
+      "/question-images/q0008.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9901
+  },
+  {
+    "id": "q-0009",
+    "originalNumber": 9,
+    "type": "single",
+    "stem": "依据变电安规，工作许可人在完成施工现场的安全措施后，会同工作负责人到现场（）安全）安全措施，对具体的设备指明实际的隔离措施，证明检修设备确无电压。",
+    "options": {
+      "A": "分别做",
+      "B": "共同做",
+      "C": "了解",
+      "D": "再次检查所做的"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 2,
+    "sourcePages": [
+      2
+    ],
+    "images": [
+      "/question-images/q0009.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9876
+  },
+  {
+    "id": "q-0010",
+    "originalNumber": 10,
+    "type": "single",
+    "stem": "依据变电安规，若专责监护人必须长时间离开工作现场时，应由（）变更专责监护人，履行变更手续，并告知全体被监护人员。",
+    "options": {
+      "A": "工作票签发人",
+      "B": "工作负责人",
+      "C": "工作许可人",
+      "D": "原专责监护人"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 2,
+    "sourcePages": [
+      2
+    ],
+    "images": [
+      "/question-images/q0010.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9932
+  },
+  {
+    "id": "q-0011",
+    "originalNumber": 11,
+    "type": "single",
+    "stem": "依据变电安规，在原工作票的停电及安全措施范围内增加工作任务时，应由工作负责人征得工作票签发人和（）同意，并在工作票上增填工作项目。",
+    "options": {
+      "A": "值班调控人员",
+      "B": "专责监护人",
+      "C": "工作许可人",
+      "D": "运维负责人·运维贝员人"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 2,
+    "sourcePages": [
+      2
+    ],
+    "images": [
+      "/question-images/q0011.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9433
+  },
+  {
+    "id": "q-0012",
+    "originalNumber": 12,
+    "type": "single",
+    "stem": "依据变电安规，工作票由设备运维管理单位签发，也可由经设备运维管理单位（）的检修及基建单位签发。",
+    "options": {
+      "A": "审核合格",
+      "B": "授权",
+      "C": "批准",
+      "D": "审核合格且经批准）、专责监护人应始终在工作现场，对工作班人员的安全认真监护，及"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 2,
+    "sourcePages": [
+      2
+    ],
+    "images": [
+      "/question-images/q0012.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9909
+  },
+  {
+    "id": "q-0013",
+    "originalNumber": 13,
+    "type": "single",
+    "stem": "依据变电安规，（时纠正不安全的行为。",
+    "options": {
+      "A": "工作负责人工作负责人",
+      "B": "工作许可人",
+      "C": "工作票签发人",
+      "D": "安监人员"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 2,
+    "sourcePages": [
+      2,
+      3
+    ],
+    "images": [
+      "/question-images/q0013-p02.jpg",
+      "/question-images/q0013-p03.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9796
+  },
+  {
+    "id": "q-0014",
+    "originalNumber": 14,
+    "type": "single",
+    "stem": "依据变电安规，变电检修（施工）作业勘客记票）认为有必要现场勘察的，检修（施工）单位应根据工作任务组织现场勘察，并填写现场勘察记录。",
+    "options": {
+      "A": "工作票签发人或工作负责人",
+      "B": "工作票签发人或工作许可人",
+      "C": "工作许可人或工作负责人",
+      "D": "工作票签发人或专责监护人"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 3,
+    "sourcePages": [
+      3
+    ],
+    "images": [
+      "/question-images/q0014.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9835
+  },
+  {
+    "id": "q-0015",
+    "originalNumber": 15,
+    "type": "single",
+    "stem": "依据变电安规，检修及基建单位的工作票签发人、工作负责人名单应事先送有关（）备案。",
+    "options": {
+      "A": "安监部门、调度控制中心",
+      "B": "设备运维管理单位、安监部门",
+      "C": "设备运维管理单位、调度控制中心",
+      "D": "基建单位、安监部门"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 3,
+    "sourcePages": [
+      3
+    ],
+    "images": [
+      "/question-images/q0015.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9865
+  },
+  {
+    "id": "q-0016",
+    "originalNumber": 16,
+    "type": "single",
+    "stem": "依据变电安规，与邻近带电设备距离小于表1（设备不停电时的安全距离）、大于表4（带电作业时人身与带电体间的安全距离）规定的工作应填用（）",
+    "options": {
+      "A": "带电作业工作票",
+      "B": "第一种工作票第一种工作票",
+      "C": "第二种工作票",
+      "D": "事故紧急抢修单"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 3,
+    "sourcePages": [
+      3
+    ],
+    "images": [
+      "/question-images/q0016.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9097
+  },
+  {
+    "id": "q-0017",
+    "originalNumber": 17,
+    "type": "single",
+    "stem": "依据变电安规，非运维人员用绝缘棒、核相器和电压互感器定相或用钳型电流表测量高压回路的电流的工作，应填用（）工作票。",
+    "options": {
+      "A": "二次工作安全措施",
+      "B": "第一种",
+      "C": "第二种",
+      "D": "带电作业"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 3,
+    "sourcePages": [
+      3
+    ],
+    "images": [
+      "/question-images/q0017.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9868
+  },
+  {
+    "id": "q-0018",
+    "originalNumber": 18,
+    "type": "single",
+    "stem": "依据变电安规，工作许可手续完成后，工作负责人（）应向工作班成员交待工作内容、人员分工、带电部位和现场安全措施，进行危险点告知，并履行确认手续，工作班方可开始工作。",
+    "options": {
+      "A": "专责监护人",
+      "B": "工作许可人",
+      "C": "工作票签发人",
+      "D": "小组负责人"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 3,
+    "sourcePages": [
+      3
+    ],
+    "images": [
+      "/question-images/q0018.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9919
+  },
+  {
+    "id": "q-0019",
+    "originalNumber": 19,
+    "type": "single",
+    "stem": "依据变电安规，非连续进行的事故修复工作，应使用（）。",
+    "options": {
+      "A": "工作票",
+      "B": "事故紧急抢修单",
+      "C": "施工作业票",
+      "D": "工作任务单"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 3,
+    "sourcePages": [
+      3
+    ],
+    "images": [
+      "/question-images/q0019.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.8965
+  },
+  {
+    "id": "q-0020",
+    "originalNumber": 20,
+    "type": "single",
+    "stem": "依据变电安规左线路式口20、依据变电安规，持线路或电缆工作票进入变电站或发电厂升压站进行架空线路、电缆等工作，应增填工作票份数，由（）许可，并留存。）许可，并留存。",
+    "options": {
+      "A": "变电站或发电厂工作许可人",
+      "B": "值班调控人员",
+      "C": "施工单位负责人",
+      "D": "现场专责监护人"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 3,
+    "sourcePages": [
+      3,
+      4
+    ],
+    "images": [
+      "/question-images/q0020-p03.jpg",
+      "/question-images/q0020-p04.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.958
+  },
+  {
+    "id": "q-0021",
+    "originalNumber": 21,
+    "type": "single",
+    "stem": "依据变电安规，二次系统和照明等回路上的工作，无需将高压设备停电者或做安全措施者应填用（）工作票。",
+    "options": {
+      "A": "二次工作安全措施",
+      "B": "第二种",
+      "C": "第一种",
+      "D": "带电作业依据变电安规作票苦系预宗时间部分工作尚去宗成震学特工作"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 4,
+    "sourcePages": [
+      4
+    ],
+    "images": [
+      "/question-images/q0021.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9657
+  },
+  {
+    "id": "q-0022",
+    "originalNumber": 22,
+    "type": "single",
+    "stem": "依据变电安规，工作票若至预定时间，一部分工作尚未完成，需继续工作而不妨碍送电者，在送电前，应按照送电后现场设备带电情况，（），布置好安全措施后，方可继续工作。",
+    "options": {
+      "A": "办理新的工作票",
+      "B": "修改原工作票",
+      "C": "交待现场安全注意事项",
+      "D": "向工作班成员告知危险点"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 4,
+    "sourcePages": [
+      4
+    ],
+    "images": [
+      "/question-images/q0022.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.993
+  },
+  {
+    "id": "q-0023",
+    "originalNumber": 23,
+    "type": "single",
+    "stem": "依据变电安规，同一变电站内在几个电气连接部分上依次进行不停电的同一类型的工作，可以B使用一张（）工作票。",
+    "options": {
+      "A": "第一种",
+      "B": "第二种",
+      "C": "带电作业",
+      "D": "电力电缆"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 4,
+    "sourcePages": [
+      4
+    ],
+    "images": [
+      "/question-images/q0023.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9666
+  },
+  {
+    "id": "q-0024",
+    "originalNumber": 24,
+    "type": "single",
+    "stem": "依据变电安规，需要变更工作班成员时，应经工作负责人同意，在对新的作业人员进行（）后，方可进行工作。",
+    "options": {
+      "A": "安规考试",
+      "B": "安全知识培训",
+      "C": "安全交底手续",
+      "D": "口头允许"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 4,
+    "sourcePages": [
+      4
+    ],
+    "images": [
+      "/question-images/q0024.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9889
+  },
+  {
+    "id": "q-0025",
+    "originalNumber": 25,
+    "type": "single",
+    "stem": "依据变电安规，直流保护装置、通道和控制系统的工作，需要将高压直流系统停用者应填用（）工作票。",
+    "options": {
+      "A": "二次工作安全措施",
+      "B": "第二种",
+      "C": "第一种",
+      "D": "带电作业"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 4,
+    "sourcePages": [
+      4
+    ],
+    "images": [
+      "/question-images/q0025.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9795
+  },
+  {
+    "id": "q-0026",
+    "originalNumber": 26,
+    "type": "single",
+    "stem": "依据变电安规，工作期间，若工作负责人必须长时间离开工作现场时，应由（）变更工作负责人，履行变更手续，并告知全体作业人员及工作许可人。原、现工作负责人应做好必要的交负责人，履行受史子续，开告知生体作业人员及工作计可八。你、免工作员员人应以为人支时人接。",
+    "options": {
+      "A": "原工作票签发人",
+      "B": "工区领导",
+      "C": "运维负责人",
+      "D": "值班调控人员"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 4,
+    "sourcePages": [
+      4,
+      5
+    ],
+    "images": [
+      "/question-images/q0026-p04.jpg",
+      "/question-images/q0026-p05.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.952
+  },
+  {
+    "id": "q-0027",
+    "originalNumber": 27,
+    "type": "single",
+    "stem": "依据变电安规，承发包工程中，工作票（",
+    "options": {
+      "A": "必须由设备运维单位签发",
+      "B": "必须由承包单位签发",
+      "C": "可实行“双签发”形式",
+      "D": "必须由主管部门签发"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 5,
+    "sourcePages": [
+      5
+    ],
+    "images": [
+      "/question-images/q0027.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9955
+  },
+  {
+    "id": "q-0028",
+    "originalNumber": 28,
+    "type": "single",
+    "stem": "依据变电安规，高压设备上工作需要全部停电或部分停电者应填用（）工作票。",
+    "options": {
+      "A": "第一种七百应套用工作票。",
+      "B": "第二种",
+      "C": "事故紧急抢修单",
+      "D": "带电作业"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 5,
+    "sourcePages": [
+      5
+    ],
+    "images": [
+      "/question-images/q0028.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9593
+  },
+  {
+    "id": "q-0029",
+    "originalNumber": 29,
+    "type": "single",
+    "stem": "依据变电安规，现场勘察工作应由（“）组织。",
+    "options": {
+      "A": "工作票签发人或工作负责人",
+      "B": "工作票签发人或工作许可人",
+      "C": "工作许可人或工作负责人",
+      "D": "工作票签发人或专责监护人"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 5,
+    "sourcePages": [
+      5
+    ],
+    "images": [
+      "/question-images/q0029.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.99
+  },
+  {
+    "id": "q-0030",
+    "originalNumber": 30,
+    "type": "single",
+    "stem": "依据变电安规，一张工作票上所列的检修设备应同时停、送电，开工前工作票内的全部安全措施应（）。",
+    "options": {
+      "A": "一次完成",
+      "B": "分两次完成",
+      "C": "根据工作需要分别完成",
+      "D": "可间断完成"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 5,
+    "sourcePages": [
+      5
+    ],
+    "images": [
+      "/question-images/q0030.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9795
+  },
+  {
+    "id": "q-0031",
+    "originalNumber": 31,
+    "type": "single",
+    "stem": "依据变电安规，换流变压器、直流场设备及阀厅设备需要将高压直流系统或直流滤波器停用者应填用（）工作票。",
+    "options": {
+      "A": "二次工作安全措施",
+      "B": "第二种",
+      "C": "第一种带电作业",
+      "D": "带电作业Y"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 5,
+    "sourcePages": [
+      5
+    ],
+    "images": [
+      "/question-images/q0031.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9447
+  },
+  {
+    "id": "q-0032",
+    "originalNumber": 32,
+    "type": "single",
+    "stem": "依据变电安规，检修及基建单位的（）应事先送有关设备运维管理单位、调度控制中心备案。",
+    "options": {
+      "A": "工作许可人名单",
+      "B": "工作票签发人、工作负责人名单",
+      "C": "专责监护人名单",
+      "D": "工作班成员名单"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 5,
+    "sourcePages": [
+      5
+    ],
+    "images": [
+      "/question-images/q0032.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9929
+  },
+  {
+    "id": "q-0033",
+    "originalNumber": 33,
+    "type": "single",
+    "stem": "依据变电安规，工作负责人、工作许可人任何一方不得擅自变更（），工作中如有特殊情况需要变更时，应先取得对方的同意并及时恢复。",
+    "options": {
+      "A": "组织措施",
+      "B": "事故紧急处理措施",
+      "C": "安全措施",
+      "D": "检修方案"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 5,
+    "sourcePages": [
+      5,
+      6
+    ],
+    "images": [
+      "/question-images/q0033-p05.jpg",
+      "/question-images/q0033-p06.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9853
+  },
+  {
+    "id": "q-0034",
+    "originalNumber": 34,
+    "type": "single",
+    "stem": "依据变电安规，工作票若至预定时间，一部分工作尚未完成，需继续工作而不妨碍送电者，在送电前，应按照（），办理新的工作票，布置好安全措施后，方可继续工作。",
+    "options": {
+      "A": "原工作票",
+      "B": "送电后现场设备带电情况",
+      "C": "工作票签发人要求",
+      "D": "运维值班员要求运维值"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 6,
+    "sourcePages": [
+      6
+    ],
+    "images": [
+      "/question-images/q0034.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9432
+  },
+  {
+    "id": "q-0035",
+    "originalNumber": 35,
+    "type": "single",
+    "stem": "依据变电安规，工作票由（）签发，也可由经设备运维管理单位审核合格且经批准的检修及基建单位签发。",
+    "options": {
+      "A": "调控中心",
+      "B": "设备检修单位",
+      "C": "设备运维管理单位",
+      "D": "安监部门"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 6,
+    "sourcePages": [
+      6
+    ],
+    "images": [
+      "/question-images/q0035.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9931
+  },
+  {
+    "id": "q-0036",
+    "originalNumber": 36,
+    "type": "single",
+    "stem": "依据变电安规，工作许可人对工作票所列内容即使发生很小疑问，也应向（）询问清楚，必要时应要求作详细补充。",
+    "options": {
+      "A": "工作负责人",
+      "B": "工作票签发人",
+      "C": "运维负责人工区领导",
+      "D": "工区领导"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 6,
+    "sourcePages": [
+      6
+    ],
+    "images": [
+      "/question-images/q0036.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9876
+  },
+  {
+    "id": "q-0037",
+    "originalNumber": 37,
+    "type": "single",
+    "stem": "依据变电安规，转动中的发电机、同期调相机的励磁回路或高压电动机转子电阻回路上的工作应填用（）工作票。",
+    "options": {
+      "A": "二次工作安全措施",
+      "B": "第一种",
+      "C": "第二种",
+      "D": "带电作业"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 6,
+    "sourcePages": [
+      6
+    ],
+    "images": [
+      "/question-images/q0037.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9783
+  },
+  {
+    "id": "q-0038",
+    "originalNumber": 38,
+    "type": "single",
+    "stem": "依据变电安规，在原工作票的停电及安全措施范围内增加工作任务时，应由工作负责人征得工作票签发人和工作许可人同意，并在工作票上增填（宁人世效",
+    "options": {
+      "A": "安全措施",
+      "B": "工作地点",
+      "C": "工作项目",
+      "D": "工作时间"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 6,
+    "sourcePages": [
+      6
+    ],
+    "images": [
+      "/question-images/q0038.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9108
+  },
+  {
+    "id": "q-0039",
+    "originalNumber": 39,
+    "type": "single",
+    "stem": "依据变电安规，若工作需要（如测量极性、回路导通实验、光纤回路检查等），而且现场设备允许时，可以准许工作班中有实际经验的一个人或几人同时在它室进行工作，但（（）应在事前将有关安全注意事项予以详尽的告知。",
+    "options": {
+      "A": "专责监护人",
+      "B": "工作许可人",
+      "C": "工作票签发人",
+      "D": "工作负责人"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 6,
+    "sourcePages": [
+      6,
+      7
+    ],
+    "images": [
+      "/question-images/q0039-p06.jpg",
+      "/question-images/q0039-p07.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9902
+  },
+  {
+    "id": "q-0040",
+    "originalNumber": 40,
+    "type": "single",
+    "stem": "依据变电安规，间断后继续工作，若无（40、依据变电安规，间断后继续工作，若无（）带领，作业人员不得进入工作地点。",
+    "options": {
+      "A": "工作票签发人和专责监护人）带领，作业人员不得进入工作地点。血护入",
+      "B": "工作负责人和专责监护人负个得进入工作地点。",
+      "C": "工作负责人和工作许可人",
+      "D": "工作票签发人和专责监护人"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 7,
+    "sourcePages": [
+      7
+    ],
+    "images": [
+      "/question-images/q0040.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9457
+  },
+  {
+    "id": "q-0041",
+    "originalNumber": 41,
+    "type": "single",
+    "stem": "依据变电安规，用计算机生成或打印的工作票应使用统一的票面格式，由（）审核无误，手工或电子签名后方可执行。）审核无误，",
+    "options": {
+      "A": "工作许可人",
+      "B": "工作负责人",
+      "C": "工作票签发人",
+      "D": "专责监护人"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 7,
+    "sourcePages": [
+      7
+    ],
+    "images": [
+      "/question-images/q0041.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9938
+  },
+  {
+    "id": "q-0042",
+    "originalNumber": 42,
+    "type": "single",
+    "stem": "依据变电安规，变更工作负责人或增加工作任务，如（）无法当面办理，应通过电话联系，并在工作票登记薄和工作票上注明。",
+    "options": {
+      "A": "工作票签发人和工作许可人",
+      "B": "工作票签发人或工作许可人",
+      "C": "工作票签发人和专责监护人",
+      "D": "工作票签发人或专责监护人"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 7,
+    "sourcePages": [
+      7
+    ],
+    "images": [
+      "/question-images/q0042.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9944
+  },
+  {
+    "id": "q-0043",
+    "originalNumber": 43,
+    "type": "single",
+    "stem": "依据变电安规，持线路或电缆工作票进入变电站或发电厂升压站进行架空线路、电缆等工作，应（）），由变电站或发电厂工作许可人许可，并留存。",
+    "options": {
+      "A": "重新办理工作票",
+      "B": "增添工作票份数",
+      "C": "向调控值班人员汇报",
+      "D": "办理进站相关手续"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 7,
+    "sourcePages": [
+      7
+    ],
+    "images": [
+      "/question-images/q0043.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9859
+  },
+  {
+    "id": "q-0044",
+    "originalNumber": 44,
+    "type": "single",
+    "stem": "依据变电安规，高压电力电缆需停电的工作，应填用（）工作票。",
+    "options": {
+      "A": "第一种",
+      "B": "第二种",
+      "C": "事故紧急抢修单",
+      "D": "带电作业"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 7,
+    "sourcePages": [
+      7
+    ],
+    "images": [
+      "/question-images/q0044.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.8696
+  },
+  {
+    "id": "q-0045",
+    "originalNumber": 45,
+    "type": "single",
+    "stem": "依据变电安规，第二种工作票和带电作业工作票（）交给工作许可人。",
+    "options": {
+      "A": "可在工作许可后",
+      "B": "需在工作前一日",
+      "C": "可在进行工作的当天预先",
+      "D": "需在现场安全措施布置的同时"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 7,
+    "sourcePages": [
+      7
+    ],
+    "images": [
+      "/question-images/q0045.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.8822
+  },
+  {
+    "id": "q-0046",
+    "originalNumber": 46,
+    "type": "single",
+    "stem": "依据变电安规，需要变更工作班成员时，应经（）同意，在对新的作业人员进行安全交底手续后，方可进行工作。",
+    "options": {
+      "A": "工作许可人",
+      "B": "工作负责人",
+      "C": "工作票签发人",
+      "D": "专责监护人"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 7,
+    "sourcePages": [
+      7,
+      8
+    ],
+    "images": [
+      "/question-images/q0046-p07.jpg",
+      "/question-images/q0046-p08.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9958
+  },
+  {
+    "id": "q-0047",
+    "originalNumber": 47,
+    "type": "single",
+    "stem": "依据变电安规，工作许可人在完成施工现场的安全措施后，还应会同（）到现场再次检查所做的安全措施，对具体的设备指明实际的隔离措施，证明检修设备却无电压。",
+    "options": {
+      "A": "工作负责人",
+      "B": "工作票签发人",
+      "C": "专责监护人",
+      "D": "工作班成员"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 8,
+    "sourcePages": [
+      8
+    ],
+    "images": [
+      "/question-images/q0047.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.992
+  },
+  {
+    "id": "q-0048",
+    "originalNumber": 48,
+    "type": "single",
+    "stem": "依据变电安规，高压电力电缆不需停电的工作，应填用（）工作票。",
+    "options": {
+      "A": "电力电缆第一种",
+      "B": "第一种",
+      "C": "第二种",
+      "D": "带电作业"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 8,
+    "sourcePages": [
+      8
+    ],
+    "images": [
+      "/question-images/q0048.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9874
+  },
+  {
+    "id": "q-0049",
+    "originalNumber": 49,
+    "type": "single",
+    "stem": "依据变电安规，换流阀冷却系统、阀厅空调系统、火灾报警系统及图像监视系统等工作，需要将高压直流系统停用者应填用（）工作票。",
+    "options": {
+      "A": "二次工作安全措施",
+      "B": "第二种来一利",
+      "C": "第一种",
+      "D": "带电作业"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 8,
+    "sourcePages": [
+      8
+    ],
+    "images": [
+      "/question-images/q0049.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9249
+  },
+  {
+    "id": "q-0050",
+    "originalNumber": 50,
+    "type": "single",
+    "stem": "依据变电安规，工作票一份应保存在工作地点，由（）收执；另一份由工作许可人收执，按值移交。",
+    "options": {
+      "A": "工作票签发人",
+      "B": "专责监护人",
+      "C": "工作负责人",
+      "D": "变电运维负责人"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 8,
+    "sourcePages": [
+      8
+    ],
+    "images": [
+      "/question-images/q0050.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9925
+  },
+  {
+    "id": "q-0051",
+    "originalNumber": 51,
+    "type": "single",
+    "stem": "依据变电安规，检修工作结束以前，对设备进行加压试验后，工作班若需继续工作时，应(）。",
+    "options": {
+      "A": "重新履行工作许可手续",
+      "B": "办理新的工作票",
+      "C": "重新布置安全措施",
+      "D": "重新对工作班组成员交待安全措施"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 8,
+    "sourcePages": [
+      8
+    ],
+    "images": [
+      "/question-images/q0051.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9469
+  },
+  {
+    "id": "q-0052",
+    "originalNumber": 52,
+    "type": "single",
+    "stem": "依据变电安规，一张工作票中，（）不得互相兼任。",
+    "options": {
+      "A": "工作许可人与工作负责人",
+      "B": "工作票签发人与工作许可人",
+      "C": "工作票签发人与工作负责人",
+      "D": "工作票签发人、工作负责人（工作许可人）"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 8,
+    "sourcePages": [
+      8
+    ],
+    "images": [
+      "/question-images/q0052.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.992
+  },
+  {
+    "id": "q-0053",
+    "originalNumber": 53,
+    "type": "single",
+    "stem": "依据变电安规，非特殊情况不得变更工作负责人，如确需变更工作负责人应由工作票签发人同意并通知（）。",
+    "options": {
+      "A": "值班调控人员",
+      "B": "工作班成员",
+      "C": "工作许可人",
+      "D": "运维负责人"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 8,
+    "sourcePages": [
+      8,
+      9
+    ],
+    "images": [
+      "/question-images/q0053-p08.jpg",
+      "/question-images/q0053-p09.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9582
+  },
+  {
+    "id": "q-0054",
+    "originalNumber": 54,
+    "type": "single",
+    "stem": "依据变电安规，承发包工程中，工作票可实行“双签发”形式，签发A54、依据变电安规，承发包工程中，工作票可实行“双签发”形式。签发工作票时，双方（在工作票上分别签名，各自承担在工作票上分别签名，各自承担本部分工作票签发人相应的安全责任。",
+    "options": {
+      "A": "工作票签发人",
+      "B": "工作负责人",
+      "C": "项目负责人",
+      "D": "专责监护人"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 9,
+    "sourcePages": [
+      9
+    ],
+    "images": [
+      "/question-images/q0054.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9882
+  },
+  {
+    "id": "q-0055",
+    "originalNumber": 55,
+    "type": "single",
+    "stem": "依据变电安规，变电站（发电厂）第二种工作票可采取电话许可方式，但应录音，并各自作好记录。采取电话许可的工作票，工作所需安全措施可由工作人员自行布置，工作结束后应汇报（）。",
+    "options": {
+      "A": "工作负责人",
+      "B": "工作票签发人",
+      "C": "工作许可人",
+      "D": "监护人"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 9,
+    "sourcePages": [
+      9
+    ],
+    "images": [
+      "/question-images/q0055.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9767
+  },
+  {
+    "id": "q-0056",
+    "originalNumber": 56,
+    "type": "single",
+    "stem": "依据变电安规，二次系统和照明等回路上的工作，需要将高压设备停电者或做安全措施者应填用（）工作票。",
+    "options": {
+      "A": "二次工作安全措施",
+      "B": "第二种",
+      "C": "第一种",
+      "D": "带电作业"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 9,
+    "sourcePages": [
+      9
+    ],
+    "images": [
+      "/question-images/q0056.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9818
+  },
+  {
+    "id": "q-0057",
+    "originalNumber": 57,
+    "type": "single",
+    "stem": "依据变电安规，第一、二种工作票需办理延期手续，应在工期尚未结束以前由（）提出申请。",
+    "options": {
+      "A": "工作负责人向工作票签发人",
+      "B": "工作许可人向运维负责人",
+      "C": "工作负责人向运维负责人",
+      "D": "工作许可人向工作票签发人"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 9,
+    "sourcePages": [
+      9
+    ],
+    "images": [
+      "/question-images/q0057.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9934
+  },
+  {
+    "id": "q-0058",
+    "originalNumber": 58,
+    "type": "single",
+    "stem": "依据变电安规，已终结的工作票、事故紧急抢修单应保存（）",
+    "options": {
+      "A": "1个季度",
+      "B": "半年",
+      "C": "1年",
+      "D": "2年"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 9,
+    "sourcePages": [
+      9
+    ],
+    "images": [
+      "/question-images/q0058.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.986
+  },
+  {
+    "id": "q-0059",
+    "originalNumber": 59,
+    "type": "single",
+    "stem": "依据变电安规，工作许可人在完成施工现场的安全措施后，还应对工作负责人指明（",
+    "options": {
+      "A": "注意事项",
+      "B": "不带电设备位置",
+      "C": "现场劳动防护用品的正确方法",
+      "D": "带电设备的位置和注意事项"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 9,
+    "sourcePages": [
+      9,
+      10
+    ],
+    "images": [
+      "/question-images/q0059-p09.jpg",
+      "/question-images/q0059-p10.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9941
+  },
+  {
+    "id": "q-0060",
+    "originalNumber": 60,
+    "type": "single",
+    "stem": "依据变电安规，在 220kV 设备检修中，作业人员与邻近带电设备距离为 2. 5m时，应填用（）。",
+    "options": {
+      "A": "带电作业工作票",
+      "B": "第一种工作票",
+      "C": "第二种工作票",
+      "D": "事故紧急抢修单"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 10,
+    "sourcePages": [
+      10
+    ],
+    "images": [
+      "/question-images/q0060.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9555
+  },
+  {
+    "id": "q-0061",
+    "originalNumber": 61,
+    "type": "single",
+    "stem": "据变电安规第一、二种工作果和带电作业工作果的有效时间,以 ( β） 为限。",
+    "options": {
+      "A": "周计划指定的检修期",
+      "B": "申请的检修期",
+      "C": "批准的检修期",
+      "D": "月度计划指定的检修"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 10,
+    "sourcePages": [
+      10
+    ],
+    "images": [
+      "/question-images/q0061.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9752
+  },
+  {
+    "id": "q-0062",
+    "originalNumber": 62,
+    "type": "single",
+    "stem": "依据变电安规，分工作票应一式两份，由（）和分工作票负责人分别收执。",
+    "options": {
+      "A": "工作许可人",
+      "B": "总工作票负责人",
+      "C": "运维管理单位负责人",
+      "D": "施工单位负责人"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 10,
+    "sourcePages": [
+      10
+    ],
+    "images": [
+      "/question-images/q0062.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9896
+  },
+  {
+    "id": "q-0063",
+    "originalNumber": 63,
+    "type": "single",
+    "stem": "任何人发现有违反《电力安全工作规程变电部分》的情况，应（），经纠正后才能恢复作业。",
+    "options": {
+      "A": "批评教育",
+      "B": "严肃指出",
+      "C": "立即制止",
+      "D": "立即汇报）个月以上者，应重新学习《电力安全工作规程"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 10,
+    "sourcePages": [
+      10
+    ],
+    "images": [
+      "/question-images/q0063.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9892
+  },
+  {
+    "id": "q-0064",
+    "originalNumber": 64,
+    "type": "single",
+    "stem": "依据变电安规，因故间断电气工作连续（变电部分》，并经考试合格后，方能恢复工作。",
+    "options": {
+      "A": "—",
+      "B": "二",
+      "C": "三",
+      "D": "六"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 10,
+    "sourcePages": [
+      10
+    ],
+    "images": [
+      "/question-images/q0064.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9503
+  },
+  {
+    "id": "q-0065",
+    "originalNumber": 65,
+    "type": "single",
+    "stem": "依据变电安规，参与公司系统所承担电气工作的外单位或外来工作人员应熟悉《电力安全工作规程变电部分》，经考试合格，并经（）认可，方可参加工作。",
+    "options": {
+      "A": "相关单位分管领导",
+      "B": "设备运维管理单位",
+      "C": "安全监督管理部门",
+      "D": "调度控制中心"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 10,
+    "sourcePages": [
+      10
+    ],
+    "images": [
+      "/question-images/q0065.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9935
+  },
+  {
+    "id": "q-0066",
+    "originalNumber": 66,
+    "type": "single",
+    "stem": "依据变电安规，各类作业人员应被告知其作业现场和工作岗位存在的危险因素、防范措施及（）。",
+    "options": {
+      "A": "事故紧急处理措施",
+      "B": "紧急救护措施",
+      "C": "应急预案",
+      "D": "逃生方法"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 10,
+    "sourcePages": [
+      10,
+      11
+    ],
+    "images": [
+      "/question-images/q0066-p10.jpg",
+      "/question-images/q0066-p11.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9436
+  },
+  {
+    "id": "q-0067",
+    "originalNumber": 67,
+    "type": "single",
+    "stem": "依据变电安规，新参加电气工作的人员、实习人员和临时参加劳动的人员（管理人员、非全日制用工等），应经过（）后，方可到现场参加指定的工作，并且不得单独工作。",
+    "options": {
+      "A": "岗位技能培训",
+      "B": "安全知识教育",
+      "C": "领导批准",
+      "D": "电气知识培训"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 11,
+    "sourcePages": [
+      11
+    ],
+    "images": [
+      "/question-images/q0067.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9928
+  },
+  {
+    "id": "q-0068",
+    "originalNumber": 68,
+    "type": "single",
+    "stem": "依据变电安规，作业人员应经医师鉴定，无妨碍工作的病症，[体格检查每（）至少一",
+    "options": {
+      "A": "半年）至少一",
+      "B": "一年",
+      "C": "两年",
+      "D": "三年"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 11,
+    "sourcePages": [
+      11
+    ],
+    "images": [
+      "/question-images/q0068.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9658
+  },
+  {
+    "id": "q-0069",
+    "originalNumber": 69,
+    "type": "single",
+    "stem": "依据变电安规，在试验和推广新技术、新工艺、新设备、新材料的同时，应制定相应的（），经本单位批准后执行。",
+    "options": {
+      "A": "安全措施",
+      "B": "技术措施",
+      "C": "组织措施",
+      "D": "反事故措施"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 11,
+    "sourcePages": [
+      11
+    ],
+    "images": [
+      "/question-images/q0069.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9505
+  },
+  {
+    "id": "q-0070",
+    "originalNumber": 70,
+    "type": "single",
+    "stem": "依据变电安规，各类作业人员应接受相应的安全生产教育和岗位技能培训，经（）上岗。",
+    "options": {
+      "A": "领导批准",
+      "B": "师傅带领",
+      "C": "考试合格",
+      "D": "现场实习"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 11,
+    "sourcePages": [
+      11
+    ],
+    "images": [
+      "/question-images/q0070.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9908
+  },
+  {
+    "id": "q-0071",
+    "originalNumber": 71,
+    "type": "single",
+    "stem": "依据变电安规，进入作业现场应正确佩戴安全帽，现场作业人员应穿（）、绝缘鞋。",
+    "options": {
+      "A": "绝缘服",
+      "B": "屏蔽服",
+      "C": "防静电服",
+      "D": "全棉长袖工作服"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 11,
+    "sourcePages": [
+      11
+    ],
+    "images": [
+      "/question-images/q0071.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.985
+  },
+  {
+    "id": "q-0072",
+    "originalNumber": 72,
+    "type": "single",
+    "stem": "依据变电安规，现场使用的安全工器具应（）并符合有关要求。",
+    "options": {
+      "A": "规范",
+      "B": "合格",
+      "C": "齐备",
+      "D": "可靠"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 11,
+    "sourcePages": [
+      11
+    ],
+    "images": [
+      "/question-images/q0072.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9878
+  },
+  {
+    "id": "q-0073",
+    "originalNumber": 73,
+    "type": "single",
+    "stem": "作业人员对《电力安全工作规程变电部分》应（）考试一次。",
+    "options": {
+      "A": "每半年",
+      "B": "每年",
+      "C": "一每两年",
+      "D": "每三年"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 11,
+    "sourcePages": [
+      11,
+      12
+    ],
+    "images": [
+      "/question-images/q0073-p11.jpg",
+      "/question-images/q0073-p12.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9907
+  },
+  {
+    "id": "q-0074",
+    "originalNumber": 74,
+    "type": "single",
+    "stem": "依据变电安规，作业人员应具备必要的安全生产知识，学会紧急救护法，特别要学会（）。",
+    "options": {
+      "A": "创伤急救",
+      "B": "溺水急效",
+      "C": "触电急救",
+      "D": "高空急救"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 12,
+    "sourcePages": [
+      12
+    ],
+    "images": [
+      "/question-images/q0074.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9412
+  },
+  {
+    "id": "q-0075",
+    "originalNumber": 75,
+    "type": "single",
+    "stem": "依据变电安规，进入作业现场应正确佩戴（），现场作业人员应穿全棉长袖工作服、绝缘鞋。",
+    "options": {
+      "A": "岗位标识",
+      "B": "上岗证",
+      "C": "工作牌",
+      "D": "安全帽"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 12,
+    "sourcePages": [
+      12
+    ],
+    "images": [
+      "/question-images/q0075.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9902
+  },
+  {
+    "id": "q-0076",
+    "originalNumber": 76,
+    "type": "single",
+    "stem": "依据变电安规，作业现场的生产条件和安全设施等应符合有关标准、规范的要求，工作人员的（）应合格、齐备。",
+    "options": {
+      "A": "劳动防护用品",
+      "B": "安全工器具",
+      "C": "施工机具",
+      "D": "装备"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 12,
+    "sourcePages": [
+      12
+    ],
+    "images": [
+      "/question-images/q0076.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.989
+  },
+  {
+    "id": "q-0077",
+    "originalNumber": 77,
+    "type": "single",
+    "stem": "作业人员应具备必要的电气知识和业务技能，且按工作性质，熟悉《电力安全工作规程变电部分》的相关部分，并经（）",
+    "options": {
+      "A": "专业培训",
+      "B": "考试合格",
+      "C": "技能培训",
+      "D": "现场实习"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 12,
+    "sourcePages": [
+      12
+    ],
+    "images": [
+      "/question-images/q0077.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9923
+  },
+  {
+    "id": "q-0078",
+    "originalNumber": 78,
+    "type": "single",
+    "stem": "依据变电安规，经常有人工作的场所及施工车辆上宜配备急救箱，存放急救用品，并应指定（）经常检查、补充或更换。",
+    "options": {
+      "A": "技术员",
+      "B": "管理员",
+      "C": "单人",
+      "D": "专人"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 12,
+    "sourcePages": [
+      12
+    ],
+    "images": [
+      "/question-images/q0078.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9872
+  },
+  {
+    "id": "q-0079",
+    "originalNumber": 79,
+    "type": "single",
+    "stem": "依据变电安规，低[电]压：用于配电的交流系统中（）的电压等级。",
+    "options": {
+      "A": "220V以下",
+      "B": "220V及以下",
+      "C": "1000V以下",
+      "D": "1000V及以下"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 12,
+    "sourcePages": [
+      12
+    ],
+    "images": [
+      "/question-images/q0079.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.984
+  },
+  {
+    "id": "q-0080",
+    "originalNumber": 80,
+    "type": "single",
+    "stem": "依据变电安规，（）及以上的电气设备，可采用间接验电方法进行验电。",
+    "options": {
+      "A": "35kV",
+      "B": "110kV",
+      "C": "220kV",
+      "D": "330kV330KVBBCC"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 12,
+    "sourcePages": [
+      12,
+      13
+    ],
+    "images": [
+      "/question-images/q0080-p12.jpg",
+      "/question-images/q0080-p13.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9538
+  },
+  {
+    "id": "q-0081",
+    "originalNumber": 81,
+    "type": "single",
+    "stem": "依据变电安规，如果线路上有人工作，应在线路断路器（开关）和隔离开关（刀闸）操作把手",
+    "options": {
+      "A": "“止步，高压危险！”",
+      "B": "“禁止合闸，有人工作！”",
+      "C": "“禁止合闸，线路有人工作！”",
+      "D": "“在此工作！”Y"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 13,
+    "sourcePages": [
+      13
+    ],
+    "images": [
+      "/question-images/q0081.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9155
+  },
+  {
+    "id": "q-0082",
+    "originalNumber": 82,
+    "type": "single",
+    "stem": "依据变电安规，成套接地线应由有透明护套的多股软铜线和专用线夹组成，接地线截面积不得小于（）mm2，同时应满足装设地点短路电流的要求。",
+    "options": {
+      "A": "10",
+      "B": "16",
+      "C": "20",
+      "D": "25"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 13,
+    "sourcePages": [
+      13
+    ],
+    "images": [
+      "/question-images/q0082.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9849
+  },
+  {
+    "id": "q-0083",
+    "originalNumber": 83,
+    "type": "single",
+    "stem": "依据变电安规，在室外高压设备上工作，工作地点四周围栏上悬挂适当数量的（）标示牌，标示牌应朝向围栏里面。你小牌应朝向围栏里面。同国仁上意挂适当数量的（）标示",
+    "options": {
+      "A": "“从此进出！”",
+      "B": "“在此工作！”",
+      "C": "“止步，高压危险！”",
+      "D": "“从此上下！”"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 13,
+    "sourcePages": [
+      13
+    ],
+    "images": [
+      "/question-images/q0083.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9023
+  },
+  {
+    "id": "q-0084",
+    "originalNumber": 84,
+    "type": "single",
+    "stem": "依据变电安规，任何运行中的星形接线设备的中性点，应视为（",
+    "options": {
+      "A": "不带电设备",
+      "B": "带电设备",
+      "C": "运行设备",
+      "D": "停运设备"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 13,
+    "sourcePages": [
+      13
+    ],
+    "images": [
+      "/question-images/q0084.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9918
+  },
+  {
+    "id": "q-0085",
+    "originalNumber": 85,
+    "type": "single",
+    "stem": "依据变电安规，装、拆接地线导体端均应使用绝缘棒和戴（）。",
+    "options": {
+      "A": "绝缘手套",
+      "B": "线手套",
+      "C": "护目镜",
+      "D": "橡胶手套"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 13,
+    "sourcePages": [
+      13
+    ],
+    "images": [
+      "/question-images/q0085.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.8271
+  },
+  {
+    "id": "q-0086",
+    "originalNumber": 86,
+    "type": "single",
+    "stem": "依据变电安规，高压开关柜内手车开关拉出后，隔离带电部位的挡板封闭后（），并设置“止步，高压危险！”的标示牌。",
+    "options": {
+      "A": "禁止开启",
+      "B": "必须专人看守",
+      "C": "立即接地",
+      "D": "应填写在运行记录内"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 13,
+    "sourcePages": [
+      13
+    ],
+    "images": [
+      "/question-images/q0086.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9764
+  },
+  {
+    "id": "q-0087",
+    "originalNumber": 87,
+    "type": "single",
+    "stem": "0 879 体据变电安规,装、拆控地线时， 人体不得(） 接地线或未接地的导线。以防止触电。）接地线或未接地的导线，以防止触电。",
+    "options": {
+      "A": "靠近",
+      "B": "碰触",
+      "C": "临近",
+      "D": "贴近左配电装置培城线"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 13,
+    "sourcePages": [
+      13,
+      15
+    ],
+    "images": [
+      "/question-images/q0087-p13.jpg",
+      "/question-images/q0087-p15.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.918
+  },
+  {
+    "id": "q-0088",
+    "originalNumber": 88,
+    "type": "single",
+    "stem": "C B、依据变电安挥制有配电装置上,接地线应装在该装置导电部分的规定池点。应去除这些地点的油漆或绝缘层，并划有（）标记。",
+    "options": {
+      "A": "红色",
+      "B": "绿色",
+      "C": "黑色",
+      "D": "黄色"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 15,
+    "sourcePages": [
+      15
+    ],
+    "images": [
+      "/question-images/q0088.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9677
+  },
+  {
+    "id": "q-0089",
+    "originalNumber": 89,
+    "type": "single",
+    "stem": "依据变电安规，在室外商压设备上工作，若室外配电装置的大部分设备停电，只有个别地点保留有带电设备而其他设备无触及带电导体的可能时，可以在带电设备四周装设全封闭围栏，围栏上悬挂适当数量的（）标示牌，标示牌应朝向围栏外面。",
+    "options": {
+      "A": "“从此进出！”",
+      "B": "“在此工作！”",
+      "C": "“止步，高压危险！”",
+      "D": "“禁止攀登，高压危险！”"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 15,
+    "sourcePages": [
+      15
+    ],
+    "images": [
+      "/question-images/q0089.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.968
+  },
+  {
+    "id": "q-0090",
+    "originalNumber": 90,
+    "type": "single",
+    "stem": "依据变电安规，降压变电站全部停电时，应将（）的部分接地短路，其余部分不必每段都装设接地线或合上接地刀闸（装置）。",
+    "options": {
+      "A": "电源侧",
+      "B": "各个可能来电侧",
+      "C": "负荷侧",
+      "D": "来电侧"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 15,
+    "sourcePages": [
+      15
+    ],
+    "images": [
+      "/question-images/q0090.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9879
+  },
+  {
+    "id": "q-0091",
+    "originalNumber": 91,
+    "type": "single",
+    "stem": "依据变电安规，在工作地点设置（）的标示牌。",
+    "options": {
+      "A": "“在此工作！”",
+      "B": "“从此进出！”",
+      "C": "“止步，高压危险！”",
+      "D": "“禁止合闸，有人工作！”"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 15,
+    "sourcePages": [
+      15
+    ],
+    "images": [
+      "/question-images/q0091.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9675
+  },
+  {
+    "id": "q-0092",
+    "originalNumber": 92,
+    "type": "single",
+    "stem": "依据变电安规，对由于设备原因，接地刀间（装置）与检修设备之间连有断路器（开关），在接地刀闸（装置）和断路器（开关）合上后，在断路器（开关）操作把手上，应悬挂（）的标示牌。",
+    "options": {
+      "A": "“禁止合闸，有人工作！”",
+      "B": "“禁止分间！”",
+      "C": "“禁止合间，线路有人工作！”",
+      "D": "“止步，高压危险！”"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 15,
+    "sourcePages": [
+      15
+    ],
+    "images": [
+      "/question-images/q0092.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9732
+  },
+  {
+    "id": "q-0093",
+    "originalNumber": 93,
+    "type": "single",
+    "stem": "依据变电安规，所有配电装置的适当地点，均应设有与（）相连的接地端，接地电阻应合格。",
+    "options": {
+      "A": "检修设备",
+      "B": "接地网",
+      "C": "带电设备",
+      "D": "停电设备"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 15,
+    "sourcePages": [
+      15,
+      14
+    ],
+    "images": [
+      "/question-images/q0093-p15.jpg",
+      "/question-images/q0093-p14.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9902
+  },
+  {
+    "id": "q-0094",
+    "originalNumber": 94,
+    "type": "single",
+    "stem": "依据变电安规，对由于设备原因，（路）与检修设备之间连有断路器（开关），在接地刀闸（装置）和断路器（开关）合上后，在断路器（开关）操作把手上，应悬挂“禁止分闸！”的标示",
+    "options": {
+      "A": "停电设备",
+      "B": "接地刀闸（装置）",
+      "C": "非检修设备",
+      "D": "隔离开关（刀闸）"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 14,
+    "sourcePages": [
+      14
+    ],
+    "images": [
+      "/question-images/q0094.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.986
+  },
+  {
+    "id": "q-0095",
+    "originalNumber": 95,
+    "type": "single",
+    "stem": "依据变电安规，作业人员工作中正常活动范围与35kV设备带电部分的安全距离小于（时，设备应停电。）m",
+    "options": {
+      "A": "1.5",
+      "B": "1",
+      "C": "0.75A",
+      "D": "0.6"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 14,
+    "sourcePages": [
+      14
+    ],
+    "images": [
+      "/question-images/q0095.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.957
+  },
+  {
+    "id": "q-0096",
+    "originalNumber": 96,
+    "type": "single",
+    "stem": "依据变电安规，与停电设备有关的变压器和电压互感器，应将设备（）断开，防止向停电检修设备反送电。中电议备有天的变压器和电压互感器，应将设备（）断开，防止向停电",
+    "options": {
+      "A": "各侧",
+      "B": "高压侧",
+      "C": "低压侧",
+      "D": "带电侧"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 14,
+    "sourcePages": [
+      14
+    ],
+    "images": [
+      "/question-images/q0096.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9853
+  },
+  {
+    "id": "q-0097",
+    "originalNumber": 97,
+    "type": "single",
+    "stem": "依据变电安规，停电接地时，检修部分若分为几个在电气上不相连接的部分[如分段母线以隔离开关（刀闸）或断路器（开关）隔开分成几段]，则各段应（A）",
+    "options": {
+      "A": "分别验电接地短路",
+      "B": "在来电侧接地短路",
+      "C": "在来电侧验电接地短路",
+      "D": "在母线侧接地短路"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 14,
+    "sourcePages": [
+      14
+    ],
+    "images": [
+      "/question-images/q0097.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9128
+  },
+  {
+    "id": "q-0098",
+    "originalNumber": 98,
+    "type": "single",
+    "stem": "依据变电安规，对于因平行或邻近带电设备导致检修设备可能产生感应电压时，应加装A10（）。",
+    "options": {
+      "A": "标示牌",
+      "B": "围栏",
+      "C": "隔离挡板D.",
+      "D": "工作接地线或使用个人保安线"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 14,
+    "sourcePages": [
+      14
+    ],
+    "images": [
+      "/question-images/q0098.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9028
+  },
+  {
+    "id": "q-0099",
+    "originalNumber": 99,
+    "type": "single",
+    "stem": "依据变电安规，220kV设备验电时，人体应与验电设备保持（）m安全距离。A.",
+    "options": {
+      "A": "3B.ABCD",
+      "B": "2.8C.",
+      "C": "2.7D.",
+      "D": "2.55"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 14,
+    "sourcePages": [
+      14,
+      16
+    ],
+    "images": [
+      "/question-images/q0099-p14.jpg",
+      "/question-images/q0099-p16.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.965
+  },
+  {
+    "id": "q-0100",
+    "originalNumber": 100,
+    "type": "single",
+    "stem": "依据变电安规，对于可能送电至停电设备的（）都应装设接地线或合上接地刀闸（装置），所装接地线与带电部分应考虑接地线摆动时仍符合安全距离的规定。",
+    "options": {
+      "A": "线路侧",
+      "B": "母线侧",
+      "C": "各方面",
+      "D": "负荷侧"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 16,
+    "sourcePages": [
+      16
+    ],
+    "images": [
+      "/question-images/q0100.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9332
+  },
+  {
+    "id": "q-0101",
+    "originalNumber": 101,
+    "type": "single",
+    "stem": "依据变电安规，室外构架上工作，在作业人员上下铁架或梯子上，应悬挂（）的标示牌。",
+    "options": {
+      "A": "“禁止攀登，高压危险！”",
+      "B": "“在此工作！”",
+      "C": "“止步，高压危险！”",
+      "D": "“从此上下！”"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 16,
+    "sourcePages": [
+      16
+    ],
+    "images": [
+      "/question-images/q0101.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9695
+  },
+  {
+    "id": "q-0102",
+    "originalNumber": 102,
+    "type": "single",
+    "stem": "依据变电安规，接地线、接地刀闸与检修设备之间不得连有（",
+    "options": {
+      "A": "断路器（开关）或熔断器",
+      "B": "断路器（开关）或隔离开关（刀闸）",
+      "C": "任何设备",
+      "D": "隔离开关（刀闸）或熔断器"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 16,
+    "sourcePages": [
+      16
+    ],
+    "images": [
+      "/question-images/q0102.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9835
+  },
+  {
+    "id": "q-0103",
+    "originalNumber": 103,
+    "type": "single",
+    "stem": "依据变电安规，66kV、110kV设备验电时，人体应与验电设备保持（）m安全距离。",
+    "options": {
+      "A": "1.5",
+      "B": "1.4",
+      "C": "1.15",
+      "D": "1"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 16,
+    "sourcePages": [
+      16
+    ],
+    "images": [
+      "/question-images/q0103.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9862
+  },
+  {
+    "id": "q-0104",
+    "originalNumber": 104,
+    "type": "single",
+    "stem": "依据变电安规，在一经合闸即可送电到工作地点的断路器（开关）和隔离开关（刀闸）的操作A把手上，均应悬挂（）的标示牌。",
+    "options": {
+      "A": "“禁止合闸，有人工作！”",
+      "B": "“禁止合闸，线路有人工作！”",
+      "C": "“禁止分闸！”",
+      "D": "“禁止攀登，高压危险！”"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 16,
+    "sourcePages": [
+      16
+    ],
+    "images": [
+      "/question-images/q0104.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9811
+  },
+  {
+    "id": "q-0105",
+    "originalNumber": 105,
+    "type": "single",
+    "stem": "依据变电安规，（）kV及以下设备可用与带电部分直接接触的绝缘隔板代替临时遮栏。",
+    "options": {
+      "A": "35",
+      "B": "110",
+      "C": "220",
+      "D": "330"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 16,
+    "sourcePages": [
+      16
+    ],
+    "images": [
+      "/question-images/q0105.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9915
+  },
+  {
+    "id": "q-0106",
+    "originalNumber": 106,
+    "type": "single",
+    "stem": "依据变电安规，装设接地线应（",
+    "options": {
+      "A": "先接电源侧，后接负荷侧",
+      "B": "先接导体端，后接接地端",
+      "C": "先接接地端，后接导体端",
+      "D": "先接负荷侧，后接电源侧"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 16,
+    "sourcePages": [
+      16,
+      17
+    ],
+    "images": [
+      "/question-images/q0106-p16.jpg",
+      "/question-images/q0106-p17.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9843
+  },
+  {
+    "id": "q-0107",
+    "originalNumber": 107,
+    "type": "single",
+    "stem": "依据变电安规，在配电装置上，接地线应装在该装置（油漆或绝缘层，并划有黑色标记。）的规定地点，应去除这些地点的",
+    "options": {
+      "A": "导电部分",
+      "B": "绝缘部分",
+      "C": "裸露部分",
+      "D": "检修部分"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 17,
+    "sourcePages": [
+      17
+    ],
+    "images": [
+      "/question-images/q0107.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9941
+  },
+  {
+    "id": "q-0108",
+    "originalNumber": 108,
+    "type": "single",
+    "stem": "依据变电安规，直流换流站单极停电工作，应在双极公共区域设备与停电区域之间设置围栏，在围栏面向停电设备及运行阀厅门口悬挂（）标示牌。）标示牌。",
+    "options": {
+      "A": "“止步、高压危险！”",
+      "B": "“从此进出！”",
+      "C": "“在此工作！”",
+      "D": "“禁止攀登，高压危险！”"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 17,
+    "sourcePages": [
+      17
+    ],
+    "images": [
+      "/question-images/q0108.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9806
+  },
+  {
+    "id": "q-0109",
+    "originalNumber": 109,
+    "type": "single",
+    "stem": "依据变电安规，在门型构架的线路侧进行停电检修，如工作地点与所装接地线的距离小于（），工作地点虽在接地线外侧，也可不另装接地线。",
+    "options": {
+      "A": "10m",
+      "B": "12m",
+      "C": "14m",
+      "D": "16m"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 17,
+    "sourcePages": [
+      17
+    ],
+    "images": [
+      "/question-images/q0109.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9915
+  },
+  {
+    "id": "q-0110",
+    "originalNumber": 110,
+    "type": "single",
+    "stem": "依据变电安规，室外构架上工作，在邻近其他可能误登的带电构架上，应悬挂（）的标示牌。）的标示",
+    "options": {
+      "A": "“禁止攀登，高压危险！”",
+      "B": "“在此工作！”",
+      "C": "“止步，高压危险！”",
+      "D": "“从此上下！”"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 17,
+    "sourcePages": [
+      17
+    ],
+    "images": [
+      "/question-images/q0110.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9781
+  },
+  {
+    "id": "q-0111",
+    "originalNumber": 111,
+    "type": "single",
+    "stem": "依据变电安规，在室内高压设备上工作，应在工作地点两旁及对面运行设备问隔的遮栏（围栏）上和禁止通行的过道遮栏（围栏）上悬挂（）的标示牌。",
+    "options": {
+      "A": "“止步，高压危险！”",
+      "B": "“从此进出！”",
+      "C": "“禁止合闸！”",
+      "D": "“在此工作！”"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 17,
+    "sourcePages": [
+      17
+    ],
+    "images": [
+      "/question-images/q0111.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9705
+  },
+  {
+    "id": "q-0112",
+    "originalNumber": 112,
+    "type": "single",
+    "stem": "依据变电安规，采用间接验电判断时，至少应有（）的指示发生对应变化，且所有这些确定的指示均已同时发生对应变化，才能确认该设备已无电。",
+    "options": {
+      "A": "两个非同样原理或非同源",
+      "B": "三个非同样原理或非同源",
+      "C": "两个非同样原理和非同源",
+      "D": "三个非同样原理和非同源"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 17,
+    "sourcePages": [
+      17
+    ],
+    "images": [
+      "/question-images/q0112.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9915
+  },
+  {
+    "id": "q-0113",
+    "originalNumber": 113,
+    "type": "single",
+    "stem": "别3依据变电安规，验电时，应使用（β），在装设接地线或合接地线刀闸（装置） 处对各相分别验电。",
+    "options": {
+      "A": "不小于相应电压等级且合格的感应式验电器",
+      "B": "相应电压等级且合格的接触式验电器",
+      "D": "不小于相应电压等级且合格的接触式验电器",
+      "C": "相应电压等级且合格的感应式验电器"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 17,
+    "sourcePages": [
+      17,
+      18
+    ],
+    "images": [
+      "/question-images/q0113-p17.jpg",
+      "/question-images/q0113-p18.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9517
+  },
+  {
+    "id": "q-0114",
+    "originalNumber": 114,
+    "type": "single",
+    "stem": "依据变电安规。高压开关柜内手车开关拉出后。隔离带电部位的挡板封闭后禁止开启。并设置（）的标示牌。",
+    "options": {
+      "A": "“止步，高压危险！”",
+      "B": "“禁止合闸，有人工作！”",
+      "C": "“禁止合间，线路有人工作！”",
+      "D": "“在此工作！”"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 18,
+    "sourcePages": [
+      18
+    ],
+    "images": [
+      "/question-images/q0114.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9585
+  },
+  {
+    "id": "q-0115",
+    "originalNumber": 115,
+    "type": "single",
+    "stem": "依据变电安规，高压回路上的工作，必须要拆除全部或一部分接地线后始能进行工作者，应征得（）的许可（根据调控人员指令装设的接地线，应征得调控人员的许可），方可进行。工作完毕后立即恢复。",
+    "options": {
+      "A": "工作票签发人",
+      "B": "工作负责人",
+      "C": "运维人员",
+      "D": "监护人"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 18,
+    "sourcePages": [
+      18
+    ],
+    "images": [
+      "/question-images/q0115.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.987
+  },
+  {
+    "id": "q-0116",
+    "originalNumber": 116,
+    "type": "single",
+    "stem": "依据变电安规，个人保安线由（",
+    "options": {
+      "A": "作业人员自装自拆",
+      "B": "工作许可人装拆",
+      "C": "工作负责人装拆",
+      "D": "专责监护人装拆"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 18,
+    "sourcePages": [
+      18
+    ],
+    "images": [
+      "/question-images/q0116.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9893
+  },
+  {
+    "id": "q-0117",
+    "originalNumber": 117,
+    "type": "single",
+    "stem": "依据变电安规，雨雪天气时不得进行（）验电。",
+    "options": {
+      "A": "室外直接",
+      "B": "室内直接",
+      "C": "室外间接",
+      "D": "室内间接"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 18,
+    "sourcePages": [
+      18
+    ],
+    "images": [
+      "/question-images/q0117.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9887
+  },
+  {
+    "id": "q-0118",
+    "originalNumber": 118,
+    "type": "single",
+    "stem": "依据变电安规，高压验电应（",
+    "options": {
+      "A": "戴线手套",
+      "B": "穿防电弧服",
+      "C": "戴护目眼镜",
+      "D": "戴绝缘手套"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 18,
+    "sourcePages": [
+      18
+    ],
+    "images": [
+      "/question-images/q0118.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9794
+  },
+  {
+    "id": "q-0119",
+    "originalNumber": 119,
+    "type": "single",
+    "stem": "依据变电安规，在室外构架上工作，则应在工作地点邻近带电部分的横梁上，悬挂（）的标示牌。",
+    "options": {
+      "A": "“禁止攀登，高压危险！”",
+      "B": "“在此工作！”",
+      "C": "“止步，高压危险！”",
+      "D": "“从此上下！”"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 18,
+    "sourcePages": [
+      18,
+      19
+    ],
+    "images": [
+      "/question-images/q0119-p18.jpg",
+      "/question-images/q0119-p19.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9763
+  },
+  {
+    "id": "q-0120",
+    "originalNumber": 120,
+    "type": "single",
+    "stem": "依据变电安规，在室外高压设备上工作，应在工作地点四周装设围栏，其出入口要围至临近道路旁边，并设有（）的标示牌。在工作地点四局表设围栏，其出入口要围至临近道",
+    "options": {
+      "A": "“在此工作！”",
+      "B": "“从此进出！”",
+      "C": "“止步，高压危险！”",
+      "D": "“从此上下！”"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 19,
+    "sourcePages": [
+      19
+    ],
+    "images": [
+      "/question-images/q0120.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9742
+  },
+  {
+    "id": "q-0121",
+    "originalNumber": 121,
+    "type": "single",
+    "stem": "依据变电安规，直流换流站单极停电工作，在检修阀厅和直流场设备处设置（牌。）的标示",
+    "options": {
+      "A": "“止步、高压危险！”",
+      "B": "“从此进出！”",
+      "C": "“在此工作！”",
+      "D": "“禁止攀登，高压危险！”"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 19,
+    "sourcePages": [
+      19
+    ],
+    "images": [
+      "/question-images/q0121.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9778
+  },
+  {
+    "id": "q-0122",
+    "originalNumber": 122,
+    "type": "single",
+    "stem": "依据变电安规，作业人员工作中正常活动范围与110kV设备带电部分的安全距离小于（m时，设备应停电。",
+    "options": {
+      "A": "1.5",
+      "B": "1.75",
+      "C": "1.8",
+      "D": "2"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 19,
+    "sourcePages": [
+      19
+    ],
+    "images": [
+      "/question-images/q0122.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9899
+  },
+  {
+    "id": "q-0123",
+    "originalNumber": 123,
+    "type": "single",
+    "stem": "依据变电安规，降压变电站全部停电时，应将各个可能来电侧的部分接地短路，其余部分不必每段都装设接地线或（",
+    "options": {
+      "A": "合上隔离开关",
+      "B": "合上断路器",
+      "C": "合上接地刀闸（装置）",
+      "D": "临时接地线"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 19,
+    "sourcePages": [
+      19
+    ],
+    "images": [
+      "/question-images/q0123.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9917
+  },
+  {
+    "id": "q-0124",
+    "originalNumber": 124,
+    "type": "single",
+    "stem": "依据变电安规，电缆及电容器接地前应逐相充分放电，星形接线电容器的中性点应接地，串联电容器及与整组电容器脱离的电容器（），装在绝缘支架上的电容器外壳也应放电。",
+    "options": {
+      "A": "应放电",
+      "B": "应逐个多次放电",
+      "C": "应一次性放电",
+      "D": "不得放电"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 19,
+    "sourcePages": [
+      19
+    ],
+    "images": [
+      "/question-images/q0124.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9517
+  },
+  {
+    "id": "q-0125",
+    "originalNumber": 125,
+    "type": "single",
+    "stem": "依据变电安规，作业人员工作中正常活动范围与 220kV 设备带电部分的安全距离小于（BBCm时，设备应停电。",
+    "options": {
+      "A": "3要",
+      "B": "3.35",
+      "C": "3.5B13",
+      "D": "4要"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 19,
+    "sourcePages": [
+      19
+    ],
+    "images": [
+      "/question-images/q0125.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9664
+  },
+  {
+    "id": "q-0126",
+    "originalNumber": 126,
+    "type": "single",
+    "stem": "据变电安规，检信设备停电，应拉开隔离开关（刀闸） 。 （） 应拉至试验或检修位量。",
+    "options": {
+      "C": "应使各方面有一个明显的断开点。手车开关",
+      "A": "隔离开关（刀闸）D.",
+      "B": "断路器（开关）",
+      "D": "保护切换开关进行福作站新股服"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 19,
+    "sourcePages": [
+      19,
+      20
+    ],
+    "images": [
+      "/question-images/q0126-p19.jpg",
+      "/question-images/q0126-p20.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9064
+  },
+  {
+    "id": "q-0127",
+    "originalNumber": 127,
+    "type": "single",
+    "stem": "依据变电安规、在显示展上进行操作的路易（开关）和隔离开关（刀用）的操作处应设置12条止合围，有人工作!”或“禁止合闸，线路有人工作！”和以及开”）的标记。",
+    "options": {
+      "A": "“止步，高压危险！”",
+      "B": "“禁止分闸！”",
+      "C": "“禁止合闸！”",
+      "D": "“在此工作！”"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 20,
+    "sourcePages": [
+      20
+    ],
+    "images": [
+      "/question-images/q0127.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9307
+  },
+  {
+    "id": "q-0128",
+    "originalNumber": 128,
+    "type": "single",
+    "stem": "依据变电安规，在手车开关拉出后，应观察隔离挡板是否可靠封闭。封闭式组合电器引出电缆。备用孔或母线的终端备用孔应用（）封闭。",
+    "options": {
+      "A": "专用器具",
+      "B": "临时隔板",
+      "C": "接地隔板",
+      "D": "绝缘隔板"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 20,
+    "sourcePages": [
+      20
+    ],
+    "images": [
+      "/question-images/q0128.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.984
+  },
+  {
+    "id": "q-0129",
+    "originalNumber": 129,
+    "type": "single",
+    "stem": "依据变电安规，全部停电的工作，是指室内高压设备全部停电（包括架空线路与电缆引入线在）的门全部闭锁，以及室外高压设备全部停电（包括架空线路与电缆引内），并且通至邻接（入线在内）的工作。",
+    "options": {
+      "A": "保护室",
+      "B": "蓄电池室",
+      "C": "主控室",
+      "D": "高压室"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 20,
+    "sourcePages": [
+      20
+    ],
+    "images": [
+      "/question-images/q0129.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9875
+  },
+  {
+    "id": "q-0130",
+    "originalNumber": 130,
+    "type": "single",
+    "stem": "依据变电安规，待用间隔（母线连接排、引线已接上母线的备用间隔）应有名称、编号，并列入（）管辖范围。其隔离开关（刀闸）操作手柄、网门应加锁。",
+    "options": {
+      "A": "调度控制中心",
+      "B": "设备运行单位",
+      "C": "设备检修单位",
+      "D": "设备维护单位"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 20,
+    "sourcePages": [
+      20
+    ],
+    "images": [
+      "/question-images/q0130.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9797
+  },
+  {
+    "id": "q-0131",
+    "originalNumber": 131,
+    "type": "single",
+    "stem": "依据变电安规，高压室的钥匙至少应有（）把，由运维人员负责保管，按值移交。",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 20,
+    "sourcePages": [
+      20
+    ],
+    "images": [
+      "/question-images/q0131.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9841
+  },
+  {
+    "id": "q-0132",
+    "originalNumber": 132,
+    "type": "single",
+    "stem": "依据变电安规，无论高压设备是否带电，作业人员不得单独移开或越过遮栏进行工作：若有必要移开遮栏时，应有（）在场，并符合设备不停电时的安全距离。",
+    "options": {
+      "A": "安全员",
+      "B": "监护人",
+      "C": "负责人",
+      "D": "班组长"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 20,
+    "sourcePages": [
+      20,
+      21
+    ],
+    "images": [
+      "/question-images/q0132-p20.jpg",
+      "/question-images/q0132-p21.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9808
+  },
+  {
+    "id": "q-0133",
+    "originalNumber": 133,
+    "type": "single",
+    "stem": "依据变电安规，在高压设备上工作，应至少由（正商应以街工工作，应至少亩（术措施。）进行，并完成保证安全的组织措施和技",
+    "options": {
+      "A": "一人",
+      "B": "两人",
+      "C": "三人",
+      "D": "四人"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 21,
+    "sourcePages": [
+      21
+    ],
+    "images": [
+      "/question-images/q0133.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9362
+  },
+  {
+    "id": "q-0134",
+    "originalNumber": 134,
+    "type": "single",
+    "stem": "依据变电安规，无论高压设备是否带电，作业人员不得单独移开或越过遮栏进行工作；若有必要移开遮栏时，应有监护人在场，并符合（）的安全距离。",
+    "options": {
+      "A": "设备停电时",
+      "B": "设备不停电时",
+      "C": "作业时",
+      "D": "带电作业时"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 21,
+    "sourcePages": [
+      21
+    ],
+    "images": [
+      "/question-images/q0134.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9913
+  },
+  {
+    "id": "q-0135",
+    "originalNumber": 135,
+    "type": "single",
+    "stem": "依据变电安规，高压设备发生接地时，室内人员应距离故障点（）m以外。",
+    "options": {
+      "A": "1)m以外。",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 21,
+    "sourcePages": [
+      21
+    ],
+    "images": [
+      "/question-images/q0135.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9793
+  },
+  {
+    "id": "q-0136",
+    "originalNumber": 136,
+    "type": "single",
+    "stem": "依据变电安规，待用间隔（母线连接排、引线已接上母线的备用问隔）应有（），并列入调度控制中心管辖范围。",
+    "options": {
+      "A": "名称",
+      "B": "编号",
+      "C": "名称、编号",
+      "D": "名称E.序号"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 21,
+    "sourcePages": [
+      21
+    ],
+    "images": [
+      "/question-images/q0136.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9834
+  },
+  {
+    "id": "q-0137",
+    "originalNumber": 137,
+    "type": "single",
+    "stem": "依据变电安规，高压设备发生接地时，室外人员应距离故障点（)m以外。",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 21,
+    "sourcePages": [
+      21
+    ],
+    "images": [
+      "/question-images/q0137.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9719
+  },
+  {
+    "id": "q-0138",
+    "originalNumber": 138,
+    "type": "single",
+    "stem": "依据变电安规，户外220kV 高压配电装置场所的行车通道上，车辆（包括装载物）外廓至无遮拦带电部分之间的安全距离为（)m。",
+    "options": {
+      "A": "2.55",
+      "B": "2.35",
+      "C": "2.25",
+      "D": "1.75"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 21,
+    "sourcePages": [
+      21
+    ],
+    "images": [
+      "/question-images/q0138.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9674
+  },
+  {
+    "id": "q-0139",
+    "originalNumber": 139,
+    "type": "single",
+    "stem": "依据变电安规，运行中的高压设备，其中性点接地系统的中性点应视作（",
+    "options": {
+      "A": "带电体",
+      "B": "停电设备",
+      "C": "检修设备检修议",
+      "D": "试验设备"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 21,
+    "sourcePages": [
+      21,
+      22
+    ],
+    "images": [
+      "/question-images/q0139-p21.jpg",
+      "/question-images/q0139-p22.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9882
+  },
+  {
+    "id": "q-0140",
+    "originalNumber": 140,
+    "type": "single",
+    "stem": "依据变电安规。 在高压设备上工作，应至少由两人进行，并完成保证安全的（",
+    "options": {
+      "A": "技术措施和应急措施",
+      "B": "组织措施和现场措施",
+      "C": "组织措施和技术措施",
+      "D": "应急措施和现场措施"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 22,
+    "sourcePages": [
+      22
+    ],
+    "images": [
+      "/question-images/q0140.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.987
+  },
+  {
+    "id": "q-0141",
+    "originalNumber": 141,
+    "type": "single",
+    "stem": "依据变电安规， 雷雨天气，需要巡视室外高压设备时，应穿（β），并不准靠近避雷器和避雷针。",
+    "options": {
+      "A": "雨鞋",
+      "B": "绝缘靴",
+      "C": "橡胶鞋",
+      "D": "绝缘鞋"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 22,
+    "sourcePages": [
+      22
+    ],
+    "images": [
+      "/question-images/q0141.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.977
+  },
+  {
+    "id": "q-0142",
+    "originalNumber": 142,
+    "type": "single",
+    "stem": "依据变电安规，换流站阀厅未转（）前，人员禁止进入作业（巡视通道除外）。",
+    "options": {
+      "A": "运行",
+      "B": "检修",
+      "C": "冷各用",
+      "D": "热备用"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 22,
+    "sourcePages": [
+      22
+    ],
+    "images": [
+      "/question-images/q0142.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.972
+  },
+  {
+    "id": "q-0143",
+    "originalNumber": 143,
+    "type": "single",
+    "stem": "依据变电安规，待用间隔（母线连接排、引线已接上母线的备用间隔）应有名称、编号，并列入调度控制中心管辖范围。其隔离开关（刀闸）操作手柄、网门应（",
+    "options": {
+      "A": "加锁",
+      "B": "悬挂标示牌",
+      "C": "设遮拦",
+      "D": "不再加锁"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 22,
+    "sourcePages": [
+      22
+    ],
+    "images": [
+      "/question-images/q0143.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9849
+  },
+  {
+    "id": "q-0144",
+    "originalNumber": 144,
+    "type": "single",
+    "stem": "依据变电安规，换流站内，运行中高压直流系统直流场中性区域设备、站内临时接地极、接地极线路及接地极均应视为（）",
+    "options": {
+      "A": "非带电体",
+      "B": "带电体",
+      "C": "部分带电体",
+      "D": "绝缘体"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 22,
+    "sourcePages": [
+      22
+    ],
+    "images": [
+      "/question-images/q0144.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9916
+  },
+  {
+    "id": "q-0145",
+    "originalNumber": 145,
+    "type": "single",
+    "stem": "依据变电安规，地震、台风、洪水、泥石流等灾害发生后，如需要对设备进行巡视时，应制定必要的安全措施，得到（）批准，并至少两人一组，巡视人员应与派出部门之间保持通信联络。",
+    "options": {
+      "A": "调控人员",
+      "B": "设备运维管理单位",
+      "C": "安监部门",
+      "D": "分管领导"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 22,
+    "sourcePages": [
+      22
+    ],
+    "images": [
+      "/question-images/q0145.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9917
+  },
+  {
+    "id": "q-0146",
+    "originalNumber": 146,
+    "type": "single",
+    "stem": "依据变电安规，触电急救，胸外心脏按压频率应保持在（）次/min。",
+    "options": {
+      "A": "60",
+      "B": "80",
+      "D": "00.120",
+      "C": "100"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 22,
+    "sourcePages": [
+      22,
+      23
+    ],
+    "images": [
+      "/question-images/q0146-p22.jpg",
+      "/question-images/q0146-p23.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9329
+  },
+  {
+    "id": "q-0147",
+    "originalNumber": 147,
+    "type": "single",
+    "stem": "依据变电安规触电伤员脱离成147、依据变电安规，触电伤员脱离电源后，正确的抢救体位是（",
+    "options": {
+      "A": "左侧卧位",
+      "B": "右侧卧位",
+      "C": "仰卧位",
+      "D": "俯卧位"
+    },
+    "correctAnswer": "C",
+    "sourcePage": 23,
+    "sourcePages": [
+      23
+    ],
+    "images": [
+      "/question-images/q0147.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9777
+  },
+  {
+    "id": "q-0148",
+    "originalNumber": 148,
+    "type": "single",
+    "stem": "依据变电安规，触电急救应分秒必争，一经明确心跳、呼吸停止的，立即就地迅速用（）进行抢救，并坚持不断地进行，同时及早与医疗急救中心（医疗部门）联系，争取医务人员接替救治。",
+    "options": {
+      "A": "心脏按压法",
+      "B": "口对口呼吸法",
+      "C": "口对鼻呼吸法",
+      "D": "心肺复苏法人心肺复苏法"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 23,
+    "sourcePages": [
+      23
+    ],
+    "images": [
+      "/question-images/q0148.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9851
+  },
+  {
+    "id": "q-0149",
+    "originalNumber": 149,
+    "type": "single",
+    "stem": "依据变电安规，触电急救脱离电源，就是要把电者接触的那一部分带电设备的（）断路）断路器（开关）、隔离开关（刀间）或其他断路设备断开；或设法将触电者与带电设备脱离开。",
+    "options": {
+      "A": "有关",
+      "B": "所有",
+      "C": "高压",
+      "D": "低压"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 23,
+    "sourcePages": [
+      23
+    ],
+    "images": [
+      "/question-images/q0149.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9792
+  },
+  {
+    "id": "q-0150",
+    "originalNumber": 150,
+    "type": "single",
+    "stem": "依据变电安规，紧急救护时，发现伤员意识不清、瞳孔扩大无反应、呼吸、心跳停止时，应立即在现场就地抢救，用（）支持呼吸和循环，对脑、心重要脏器供氧。",
+    "options": {
+      "A": "心脏按压法",
+      "B": "口对口呼吸法",
+      "C": "口对鼻呼吸法",
+      "D": "心肺复苏法"
+    },
+    "correctAnswer": "D",
+    "sourcePage": 23,
+    "sourcePages": [
+      23
+    ],
+    "images": [
+      "/question-images/q0150.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9706
+  },
+  {
+    "id": "q-0151",
+    "originalNumber": 151,
+    "type": "single",
+    "stem": "依据变电安规，进行心肺复苏法时，如有担架搬运伤员，应该持续做心肺复苏，中断时间不超居受电安规，进行心肿爱办法的，如有担架搬运伤员，应该持续微心肺复办，中断时间不超过（）s。",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "30AB0",
+      "D": "60"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 23,
+    "sourcePages": [
+      23
+    ],
+    "images": [
+      "/question-images/q0151.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9438
+  },
+  {
+    "id": "q-0152",
+    "originalNumber": 152,
+    "type": "single",
+    "stem": "依据变电安规，触电急救，当采用胸外心脏按压法进行急救时，伤员应仰卧于（）上。",
+    "options": {
+      "A": "柔软床垫",
+      "B": "硬板床或地",
+      "C": "担架",
+      "D": "弹簧床"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 23,
+    "sourcePages": [
+      23,
+      24
+    ],
+    "images": [
+      "/question-images/q0152-p23.jpg",
+      "/question-images/q0152-p24.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9803
+  },
+  {
+    "id": "q-0153",
+    "originalNumber": 153,
+    "type": "single",
+    "stem": "依据交电安规，触电急效，在医务人员（）前，不得放弃现场抢救，更不能只根据没有呼吸或脉搏的表现，擅自判定伤员死亡，放弃抢救。又并现场抢效，更不能只粮据没有呼",
+    "options": {
+      "A": "未到达",
+      "B": "未接替救治",
+      "C": "作出死亡诊断吸或脉搏表现",
+      "D": "判断呼吸或脉搏表现"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 24,
+    "sourcePages": [
+      24
+    ],
+    "images": [
+      "/question-images/q0153.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9548
+  },
+  {
+    "id": "q-0154",
+    "originalNumber": 154,
+    "type": "multiple",
+    "stem": "依据变电安规，工作票由（）填写。",
+    "options": {
+      "A": "工作负责人",
+      "B": "工作许可人",
+      "C": "工作班成员",
+      "D": "工作票签发人"
+    },
+    "correctAnswer": "AD",
+    "sourcePage": 24,
+    "sourcePages": [
+      24
+    ],
+    "images": [
+      "/question-images/q0154.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9752
+  },
+  {
+    "id": "q-0155",
+    "originalNumber": 155,
+    "type": "multiple",
+    "stem": "依据变电安规。 供电单位或施工单位到用户变电站内施工时，工作票应白有权签发工作票的（）签发。",
+    "options": {
+      "A": "用户单位",
+      "B": "施工单位",
+      "C": "供电单位",
+      "D": "安监部门"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 24,
+    "sourcePages": [
+      24
+    ],
+    "images": [
+      "/question-images/q0155.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9753
+  },
+  {
+    "id": "q-0156",
+    "originalNumber": 156,
+    "type": "multiple",
+    "stem": "依据变电安规，在工作间断期间，若有紧急需要，运维人员可在工作票未交回的情况下合闸送电，但应先通知工作负责人，在得到工作班全体人员已经离开工作地点、可以送电的答复后方可执行，并应采取下列（）措施。",
+    "options": {
+      "A": "拆除临时遮栏、接地线和标示牌",
+      "B": "恢复常设遮栏，换挂“止步，高压危险！”的标示牌",
+      "C": "应在所有道路派专人守候，以便告诉工作班人员“设备已经合间送电，不得继续工作",
+      "D": "守候人员在工作票未交回以前，不得离开守候地点"
+    },
+    "correctAnswer": "ABCD",
+    "sourcePage": 24,
+    "sourcePages": [
+      24
+    ],
+    "images": [
+      "/question-images/q0156.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9787
+  },
+  {
+    "id": "q-0157",
+    "originalNumber": 157,
+    "type": "multiple",
+    "stem": "依据变电安规，工作票签发人应是（）的生产领导人、技术人员或经本单位批准的人员。",
+    "options": {
+      "A": "熟悉工作班成员的工作能力",
+      "B": "熟悉人员技术水平",
+      "C": "熟悉设备情况",
+      "D": "熟悉本规程"
+    },
+    "correctAnswer": "BCD",
+    "sourcePage": 24,
+    "sourcePages": [
+      24
+    ],
+    "images": [
+      "/question-images/q0157.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9761
+  },
+  {
+    "id": "q-0158",
+    "originalNumber": 158,
+    "type": "multiple",
+    "stem": "依据变电安规，工作许可手续完成后，工作负责人、专责监护人应向工作班成员交待（），进行危险点告知，并履行确认手续，工作班方可开始工作。",
+    "options": {
+      "A": "工作内容",
+      "B": "人员分工",
+      "C": "带电部位",
+      "D": "现场安全措施"
+    },
+    "correctAnswer": "ABCD",
+    "sourcePage": 24,
+    "sourcePages": [
+      24
+    ],
+    "images": [
+      "/question-images/q0158.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9842
+  },
+  {
+    "id": "q-0159",
+    "originalNumber": 159,
+    "type": "multiple",
+    "stem": "依据变电安规，若工作间断后所有（）保持不变，作业票可由工作负责人执存。",
+    "options": {
+      "A": "安全措施",
+      "B": "工作时间",
+      "C": "接线方式",
+      "D": "工作班成员"
+    },
+    "correctAnswer": "AC",
+    "sourcePage": 24,
+    "sourcePages": [
+      24,
+      25
+    ],
+    "images": [
+      "/question-images/q0159-p24.jpg",
+      "/question-images/q0159-p25.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9916
+  },
+  {
+    "id": "q-0160",
+    "originalNumber": 160,
+    "type": "multiple",
+    "stem": "依据变电安规，工作票可由（）签发。",
+    "options": {
+      "A": "经设备运维管理单位审核合格且经批准的检修单位",
+      "B": "设备运维管理单位",
+      "C": "电力调度控制中心",
+      "D": "经设备运维管理单位审核合格且经批准的基建单位"
+    },
+    "correctAnswer": "ABD",
+    "sourcePage": 25,
+    "sourcePages": [
+      25
+    ],
+    "images": [
+      "/question-images/q0160.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9883
+  },
+  {
+    "id": "q-0161",
+    "originalNumber": 161,
+    "type": "multiple",
+    "stem": "依据变电安规，以下属于专责监护人的安全责任是（",
+    "options": {
+      "A": "负责检查工作票所列安全措施是否正确完备，是否符合现场实际条件，必要时予以补充",
+      "B": "确认被监护人员和监护范围ACI",
+      "C": "工作前，对被监护人员交待监护范围内的安全措施、告知危险点和安全注意事项",
+      "D": "监督被监护人员遵守本规程和现场安全措施，及时纠正被监护人员的不安全行为"
+    },
+    "correctAnswer": "BCD",
+    "sourcePage": 25,
+    "sourcePages": [
+      25
+    ],
+    "images": [
+      "/question-images/q0161.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9753
+  },
+  {
+    "id": "q-0162",
+    "originalNumber": 162,
+    "type": "multiple",
+    "stem": "依据变电安规，第一种工作票应在工作前一日预先送达运维人员，可（）。但传真传送的工作票许可应待正式工作票到达后履行。运维人负，可（）。但传真传送的",
+    "options": {
+      "A": "直接送达",
+      "B": "通过传真传送",
+      "C": "通过电话传达",
+      "D": "通过局域网传送"
+    },
+    "correctAnswer": "ABD",
+    "sourcePage": 25,
+    "sourcePages": [
+      25
+    ],
+    "images": [
+      "/question-images/q0162.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9569
+  },
+  {
+    "id": "q-0163",
+    "originalNumber": 163,
+    "type": "multiple",
+    "stem": "依据变电安规，第一种工作票（）时，可采用总工作票和分工作票。",
+    "options": {
+      "A": "所列工作地点超过两个",
+      "B": "有两个及以上不同的工作单位（班组）在一起工作",
+      "C": "工作时间较长",
+      "D": "工作人数较多"
+    },
+    "correctAnswer": "AB",
+    "sourcePage": 25,
+    "sourcePages": [
+      25
+    ],
+    "images": [
+      "/question-images/q0163.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9907
+  },
+  {
+    "id": "q-0164",
+    "originalNumber": 164,
+    "type": "multiple",
+    "stem": "依据变电安规，在原工作票的停电及安全措施范围内增加工作任务时，应由工作负责人征得BC（）同意，并在工作票上增填工作项目。",
+    "options": {
+      "A": "工作票签发人",
+      "B": "单位主管领导",
+      "C": "工作许可人",
+      "D": "值班调控人员"
+    },
+    "correctAnswer": "AC",
+    "sourcePage": 25,
+    "sourcePages": [
+      25
+    ],
+    "images": [
+      "/question-images/q0164.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9859
+  },
+  {
+    "id": "q-0165",
+    "originalNumber": 165,
+    "type": "multiple",
+    "stem": "依据变电安规，工作终结后，还需完成以下（）工作，工作票方告终结。BcD",
+    "options": {
+      "A": "拆除工作票上的临时遮栏",
+      "B": "取下标示牌",
+      "C": "拆除常设遮栏",
+      "D": "未拆除的接地线、未拉开的接地刀闸（装置）等设备运行方式汇报调控人员"
+    },
+    "correctAnswer": "ABD",
+    "sourcePage": 25,
+    "sourcePages": [
+      25
+    ],
+    "images": [
+      "/question-images/q0165.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9669
+  },
+  {
+    "id": "q-0166",
+    "originalNumber": 166,
+    "type": "multiple",
+    "stem": "依据变电安规，在电气设备上工作，保证安全的组织措施有（",
+    "options": {
+      "A": "现场勘察制度",
+      "B": "工作票制度",
+      "C": "工作许可制度",
+      "D": "停电、验电、接地停电、验电、"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 25,
+    "sourcePages": [
+      25,
+      26
+    ],
+    "images": [
+      "/question-images/q0166-p25.jpg",
+      "/question-images/q0166-p26.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9942
+  },
+  {
+    "id": "q-0167",
+    "originalNumber": 167,
+    "type": "multiple",
+    "stem": "依指支主安报，工作进入，厂遇行线路、也缆等工作。GB虚墙填工作票份数，由变电站或发电厂工作许可人许可，并留存。上选单位的线路关运维单位备案。送有关运维单位备案。",
+    "options": {
+      "A": "工作票签发人",
+      "B": "工作负责人",
+      "C": "工作班成员",
+      "D": "专责监护人"
+    },
+    "correctAnswer": "AB",
+    "sourcePage": 26,
+    "sourcePages": [
+      26
+    ],
+    "images": [
+      "/question-images/q0167.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9034
+  },
+  {
+    "id": "q-0168",
+    "originalNumber": 168,
+    "type": "multiple",
+    "stem": "AcD 16 据变电安数规 检作工作结束以前、 若需将设备试加工作电压， 应按下列 ( ± ) 条件进行:",
+    "options": {
+      "A": "全体作业人员撤离工作地点",
+      "B": "将该系统的所有工作票全部终结",
+      "C": "拆除临时遮栏、接地线和标示牌，恢复常设遮栏",
+      "D": "应在工作负责人和运维人员进行全面检查无误后，由运维人员进行加压试验"
+    },
+    "correctAnswer": "ACD",
+    "sourcePage": 26,
+    "sourcePages": [
+      26
+    ],
+    "images": [
+      "/question-images/q0168.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9494
+  },
+  {
+    "id": "q-0169",
+    "originalNumber": 169,
+    "type": "multiple",
+    "stem": "依据变电安规，关于现场人员变更，下列说法正确的是（",
+    "options": {
+      "A": "工作负责人允许变更一次",
+      "B": "非特殊情况不得变更工作负责人",
+      "C": "变更工作班成员时，应经工作票签发人同意",
+      "D": "原、现工作负责人应对工作任务和安全措施进行交接"
+    },
+    "correctAnswer": "ABD",
+    "sourcePage": 26,
+    "sourcePages": [
+      26
+    ],
+    "images": [
+      "/question-images/q0169.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9906
+  },
+  {
+    "id": "q-0170",
+    "originalNumber": 170,
+    "type": "multiple",
+    "stem": "依据变电安规，在原工作票的停电及安全措施范围内增加工作任务时，应（）。",
+    "options": {
+      "A": "由工作负责人征得工作班成员同意",
+      "B": "由工作负责人征得工作票签发人和工作许可人同意",
+      "C": "在工作票上增填工作项目",
+      "D": "在工作票上增填安全措施"
+    },
+    "correctAnswer": "BC",
+    "sourcePage": 26,
+    "sourcePages": [
+      26
+    ],
+    "images": [
+      "/question-images/q0170.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9885
+  },
+  {
+    "id": "q-0171",
+    "originalNumber": 171,
+    "type": "multiple",
+    "stem": "依据变电安规，专责监护人不得兼做其他工作。专责监护人临时离开时，应通知被监护人员（），待专责监护人回来后方可恢复工作。",
+    "options": {
+      "A": "注意安全",
+      "B": "停止工作",
+      "C": "离开工作现场",
+      "D": "相互监督"
+    },
+    "correctAnswer": "BC",
+    "sourcePage": 26,
+    "sourcePages": [
+      26
+    ],
+    "images": [
+      "/question-images/q0171.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9871
+  },
+  {
+    "id": "q-0172",
+    "originalNumber": 172,
+    "type": "multiple",
+    "stem": "依据变电安规，工作许可人在完成施工现场的安全措施后，还应完成（）手续，工作班方可开始工作。",
+    "options": {
+      "A": "交代工作负责人到现场再次检查所做的安全措施",
+      "B": "对具体的设备指明实际的隔离措施，证明检修设备确无电压",
+      "C": "对工作负责人指明带电设备的位置和注意事项",
+      "D": "和工作负责人在工作票上分别确认、签名"
+    },
+    "correctAnswer": "BCD",
+    "sourcePage": 26,
+    "sourcePages": [
+      26
+    ],
+    "images": [
+      "/question-images/q0172.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9938
+  },
+  {
+    "id": "q-0173",
+    "originalNumber": 173,
+    "type": "multiple",
+    "stem": "依据变电安规，工作票签发人的安全责任有（",
+    "options": {
+      "A": "确认工作必要性和安全性工作必要性和安全性",
+      "B": "确认工作票上所填安全措施是否正确完备",
+      "C": "确认所派工作负责人和工作班人员是否适当和充足",
+      "D": "确认工作班成员的工作能力"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 26,
+    "sourcePages": [
+      26,
+      27
+    ],
+    "images": [
+      "/question-images/q0173-p26.jpg",
+      "/question-images/q0173-p27.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9701
+  },
+  {
+    "id": "q-0174",
+    "originalNumber": 174,
+    "type": "multiple",
+    "stem": "依据变电安规、在同一电气连接部分用同一张工作票依次在几个工作地点转移工作时，工作负责人应向作业人员交待（",
+    "options": {
+      "A": "带电范围",
+      "B": "安全措施",
+      "C": "技术措施",
+      "D": "注意事项"
+    },
+    "correctAnswer": "ABD",
+    "sourcePage": 27,
+    "sourcePages": [
+      27
+    ],
+    "images": [
+      "/question-images/q0174.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9896
+  },
+  {
+    "id": "q-0175",
+    "originalNumber": 175,
+    "type": "multiple",
+    "stem": "依据变电安规，以下属于工作负责人（监护人）的安全责任是（）。",
+    "options": {
+      "A": "正确组织工作",
+      "B": "检查工作票所列安全措施是否正确完备，是否符合现场实际条件，必要时予以补充完善",
+      "C": "确认工作的必要性",
+      "D": "工作前，对工作班成员进行工作任务、安全措施、技术措施交底和危险点告知，并确认每个工作班成员都已签名"
+    },
+    "correctAnswer": "ABD",
+    "sourcePage": 27,
+    "sourcePages": [
+      27
+    ],
+    "images": [
+      "/question-images/q0175.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.8942
+  },
+  {
+    "id": "q-0176",
+    "originalNumber": 176,
+    "type": "multiple",
+    "stem": "依据变电安规，下列（）工作需填用变电站（发电厂）第二种工作票。",
+    "options": {
+      "A": "控制盘和低压配电盘、配电箱、电源干线上的",
+      "B": "高压设备上工作需要部分停电者",
+      "C": "二次系统和照明等回路上的工作，无需将高压设备停电者或做安全措施者",
+      "D": "高压电力电缆不需停电的"
+    },
+    "correctAnswer": "ACD",
+    "sourcePage": 27,
+    "sourcePages": [
+      27
+    ],
+    "images": [
+      "/question-images/q0176.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9887
+  },
+  {
+    "id": "q-0177",
+    "originalNumber": 177,
+    "type": "multiple",
+    "stem": "依据变电安规，所有工作人员（包括工作负责人）不许单独进入、滞留在（",
+    "options": {
+      "A": "高压室",
+      "B": "室外高压设备区内",
+      "C": "阀厅内",
+      "D": "控制室内"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 27,
+    "sourcePages": [
+      27
+    ],
+    "images": [
+      "/question-images/q0177.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9506
+  },
+  {
+    "id": "q-0178",
+    "originalNumber": 178,
+    "type": "multiple",
+    "stem": "依据变电安规，下列关于工作票的有效期与延期，正确的叙述包括（",
+    "options": {
+      "A": "第一、二种工作票和带电作业工作票的有效时间，以批准的检修期为限",
+      "B": "第一种工作票只能延期一次A.",
+      "C": "第二种工作票只能延期一次",
+      "D": "带电作业工作票可以延期一次"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 27,
+    "sourcePages": [
+      27
+    ],
+    "images": [
+      "/question-images/q0178.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9758
+  },
+  {
+    "id": "q-0179",
+    "originalNumber": 179,
+    "type": "multiple",
+    "stem": "依据变电安规，在电气设备上的工作，应填用工作票或事故紧急抢修单，其方式有以下（）。",
+    "options": {
+      "A": "变电站（发电厂）第一种、第二种工作票",
+      "B": "电力电缆第一种、第二种工作票A.",
+      "C": "变电站（发电厂）带电作业工作票B.ABCD",
+      "D": "变电站（发电厂）事故紧急抢修单"
+    },
+    "correctAnswer": "ABCD",
+    "sourcePage": 27,
+    "sourcePages": [
+      27
+    ],
+    "images": [
+      "/question-images/q0179.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9587
+  },
+  {
+    "id": "q-0180",
+    "originalNumber": 180,
+    "type": "multiple",
+    "stem": "依据变电安规，关于总、分工作票下列说法正确的是（）。",
+    "options": {
+      "A": "总工作票上所列的安全措施应包括所有分工作票上所列的安全措施",
+      "B": "总、分工作票在格式上与第一种工作票一致",
+      "C": "分工作票的许可和终结，由分工作票负责人与总工作票负责人办理",
+      "D": "几个班同时进行工作时，总工作票的工作班成员栏内，需填写全部工作班人员姓名"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 27,
+    "sourcePages": [
+      27,
+      28
+    ],
+    "images": [
+      "/question-images/q0180-p27.jpg",
+      "/question-images/q0180-p28.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9295
+  },
+  {
+    "id": "q-0181",
+    "originalNumber": 181,
+    "type": "multiple",
+    "stem": "依据变电安规，以下属于工作班成员的安全责任是（）。",
+    "options": {
+      "A": "正确使用施工器具、安全工器具和劳动防护用品",
+      "B": "熟悉工作内容、工作流程，掌握安全措施，明确工作中的危险点，并在工作票上履行交底签名确认手续",
+      "C": "正确组织工作",
+      "D": "服从工作负责人（监护人）、专责监护人的指挥，严格遵守本规程和劳动纪律，在确定的作业范围内工作，对自己在工作中的行为负责，互相关心工作安全"
+    },
+    "correctAnswer": "ABD",
+    "sourcePage": 28,
+    "sourcePages": [
+      28
+    ],
+    "images": [
+      "/question-images/q0181.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9497
+  },
+  {
+    "id": "q-0182",
+    "originalNumber": 182,
+    "type": "multiple",
+    "stem": "依据变电安规， 参与公司系统所承担电气工作的外单位或外来工作人员工作前，设备运维管理单位应告知（",
+    "options": {
+      "A": "作业时间",
+      "B": "现场电气设备接线情况",
+      "C": "危险点",
+      "D": "安全注意事项"
+    },
+    "correctAnswer": "BCD",
+    "sourcePage": 28,
+    "sourcePages": [
+      28
+    ],
+    "images": [
+      "/question-images/q0182.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.987
+  },
+  {
+    "id": "q-0183",
+    "originalNumber": 183,
+    "type": "multiple",
+    "stem": "依据变电安规，各类作业人员应接受相应的（），经考试合格上岗。",
+    "options": {
+      "A": "安全生产教育",
+      "B": "安全警示教育",
+      "C": "岗位技能培训",
+      "D": "岗位职责培训"
+    },
+    "correctAnswer": "AC",
+    "sourcePage": 28,
+    "sourcePages": [
+      28
+    ],
+    "images": [
+      "/question-images/q0183.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9936
+  },
+  {
+    "id": "q-0184",
+    "originalNumber": 184,
+    "type": "multiple",
+    "stem": "依据变电安规，各类作业人员应被告知其作业现场和工作岗位（1",
+    "options": {
+      "A": "存在的危险因素",
+      "B": "反事故措施",
+      "C": "防范措施",
+      "D": "事故紧急处理措施"
+    },
+    "correctAnswer": "ACD",
+    "sourcePage": 28,
+    "sourcePages": [
+      28
+    ],
+    "images": [
+      "/question-images/q0184.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9697
+  },
+  {
+    "id": "q-0185",
+    "originalNumber": 185,
+    "type": "multiple",
+    "stem": "依据变电安规，各类作业人员有权拒绝（",
+    "options": {
+      "A": "违章指挥",
+      "B": "强令冒险作业",
+      "C": "加班工作",
+      "D": "带电工作"
+    },
+    "correctAnswer": "AB",
+    "sourcePage": 28,
+    "sourcePages": [
+      28
+    ],
+    "images": [
+      "/question-images/q0185.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9793
+  },
+  {
+    "id": "q-0186",
+    "originalNumber": 186,
+    "type": "multiple",
+    "stem": "依据变电安规，各类作业人员在发现直接危及人身、电网和设备安全的紧急情况时，有权（），并立即报告。",
+    "options": {
+      "A": "停止作业",
+      "B": "在采取可能的紧急措施后撤离作业场所",
+      "C": "结京工作票",
+      "D": "立即离开作业现场"
+    },
+    "correctAnswer": "AB",
+    "sourcePage": 28,
+    "sourcePages": [
+      28,
+      29
+    ],
+    "images": [
+      "/question-images/q0186-p28.jpg",
+      "/question-images/q0186-p29.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9873
+  },
+  {
+    "id": "q-0187",
+    "originalNumber": 187,
+    "type": "multiple",
+    "stem": "依据变电安规，运用中的电气设备，系指（）的电气设备。",
+    "options": {
+      "A": "全部带有电压",
+      "B": "一部分带有电压",
+      "C": "一经操作即带有电压",
+      "D": "检修中"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 29,
+    "sourcePages": [
+      29
+    ],
+    "images": [
+      "/question-images/q0187.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9779
+  },
+  {
+    "id": "q-0188",
+    "originalNumber": 188,
+    "type": "multiple",
+    "stem": "依据变电安规，设备双重名称即设备（",
+    "options": {
+      "A": "名称",
+      "B": "状态",
+      "C": "称号",
+      "D": "编号"
+    },
+    "correctAnswer": "AD",
+    "sourcePage": 29,
+    "sourcePages": [
+      29
+    ],
+    "images": [
+      "/question-images/q0188.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9911
+  },
+  {
+    "id": "q-0189",
+    "originalNumber": 189,
+    "type": "multiple",
+    "stem": "依据变电安规，工作地点，应停电的设备包括：带电部分在作业人员（），且无可靠安全），且无可靠安全措施的设备",
+    "options": {
+      "A": "前面",
+      "B": "后面",
+      "C": "两侧",
+      "D": "上下"
+    },
+    "correctAnswer": "BCD",
+    "sourcePage": 29,
+    "sourcePages": [
+      29
+    ],
+    "images": [
+      "/question-images/q0189.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9692
+  },
+  {
+    "id": "q-0190",
+    "originalNumber": 190,
+    "type": "multiple",
+    "stem": "依据变电安规，验电时，以下做法正确的是（）。",
+    "options": {
+      "A": "应使用相应电压等级且合格的接触式验电器",
+      "B": "在装设接地线或合接地刀闸（装置）处对其中一相验电",
+      "C": "验电前，应先在有电设备上进行试验，确认验电器良好",
+      "D": "无法在有电设备上进行试验时，可用工频高压发生器等确认验电器良好"
+    },
+    "correctAnswer": "ACD",
+    "sourcePage": 29,
+    "sourcePages": [
+      29
+    ],
+    "images": [
+      "/question-images/q0190.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.8881
+  },
+  {
+    "id": "q-0191",
+    "originalNumber": 191,
+    "type": "multiple",
+    "stem": "依据变电安规，若室外配电装置的大部分设备停电，只有个别地点保留有带电设备而其他设备无触及带电导体的可能时，以下做法正确的是（）",
+    "options": {
+      "A": "在带电设各四周装设全封闭围栏",
+      "B": "围栏上悬挂适当数量的“止步，高压危险！”标示牌AcD",
+      "C": "标示牌应朝向围栏外面",
+      "D": "标示牌应朝向围栏里面"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 29,
+    "sourcePages": [
+      29
+    ],
+    "images": [
+      "/question-images/q0191.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9005
+  },
+  {
+    "id": "q-0192",
+    "originalNumber": 192,
+    "type": "multiple",
+    "stem": "依据变电安规，当验明设备确已无电压后，应立即将检修设备（",
+    "options": {
+      "A": "挂标示牌ABCPJC",
+      "B": "装设围栏",
+      "C": "接地",
+      "D": "三相短路"
+    },
+    "correctAnswer": "CD",
+    "sourcePage": 29,
+    "sourcePages": [
+      29
+    ],
+    "images": [
+      "/question-images/q0192.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9092
+  },
+  {
+    "id": "q-0193",
+    "originalNumber": 193,
+    "type": "multiple",
+    "stem": "依据变电安规，在电气设备上工作，保证安全的技术措施有停电、（）。",
+    "options": {
+      "A": "办理工作票",
+      "B": "验电",
+      "C": "接地",
+      "D": "悬挂标示牌和装设遮栏（围栏）"
+    },
+    "correctAnswer": "BCD",
+    "sourcePage": 29,
+    "sourcePages": [
+      29,
+      30
+    ],
+    "images": [
+      "/question-images/q0193-p29.jpg",
+      "/question-images/q0193-p30.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9604
+  },
+  {
+    "id": "q-0194",
+    "originalNumber": 194,
+    "type": "multiple",
+    "stem": "依据以进行间接验电，即通过设备的（）及各种遥测、遥信等信号的变化来判断。设备和雨雪天气时的户外设备，可",
+    "options": {
+      "A": "机械指示位置",
+      "B": "电气指示",
+      "C": "带电显示装置",
+      "D": "仪表"
+    },
+    "correctAnswer": "ABCD",
+    "sourcePage": 30,
+    "sourcePages": [
+      30
+    ],
+    "images": [
+      "/question-images/q0194.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9719
+  },
+  {
+    "id": "q-0195",
+    "originalNumber": 195,
+    "type": "multiple",
+    "stem": "依据变电安规，在电气设备上工作， 保证安全的技术措施白（）执行。",
+    "options": {
+      "A": "调控人员",
+      "B": "检修人员",
+      "C": "运维人员",
+      "D": "有权执行操作的人员"
+    },
+    "correctAnswer": "CD",
+    "sourcePage": 30,
+    "sourcePages": [
+      30
+    ],
+    "images": [
+      "/question-images/q0195.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9846
+  },
+  {
+    "id": "q-0196",
+    "originalNumber": 196,
+    "type": "multiple",
+    "stem": "依据变电安规，电气设备上工作，检修设备和可能来电侧的断路器（开关）、隔离开关（刀闸）应断开（），隔离开关（刀间）操作把手应锁住，确保不会误送电。",
+    "options": {
+      "A": "控制电源和保护出口压板",
+      "B": "合闸电源和保护出口压板",
+      "C": "控制电源",
+      "D": "合闸能源"
+    },
+    "correctAnswer": "CD",
+    "sourcePage": 30,
+    "sourcePages": [
+      30
+    ],
+    "images": [
+      "/question-images/q0196.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9855
+  },
+  {
+    "id": "q-0197",
+    "originalNumber": 197,
+    "type": "multiple",
+    "stem": "依据变电安规，在无绝缘隔板，安全遮拦措施的35kv设备处工作，工作人员工作中正常活动范围与设备带电部分的距离为（））m时，设备应停电。",
+    "options": {
+      "A": "1",
+      "B": "0.9",
+      "C": "0.8",
+      "D": "0.7"
+    },
+    "correctAnswer": "BCD",
+    "sourcePage": 30,
+    "sourcePages": [
+      30
+    ],
+    "images": [
+      "/question-images/q0197.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9836
+  },
+  {
+    "id": "q-0198",
+    "originalNumber": 198,
+    "type": "multiple",
+    "stem": "依据变电安规，装拆接地线，以下做法正确的是（）",
+    "options": {
+      "A": "装设接地线应先接接地端，后接导体端，接地线应接触良好，连接应可靠",
+      "B": "装设接地线应先接导体端，后接接地端，接地线应接触良好，连接应可靠",
+      "C": "装、拆接地线导体端均应使用绝缘棒和戴绝缘手套",
+      "D": "人体不得碰触接地线或未接地的导线，以防止触电"
+    },
+    "correctAnswer": "ACD",
+    "sourcePage": 30,
+    "sourcePages": [
+      30
+    ],
+    "images": [
+      "/question-images/q0198.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9888
+  },
+  {
+    "id": "q-0199",
+    "originalNumber": 199,
+    "type": "multiple",
+    "stem": "依据变电安规，在室内高压设备上工作，应在（）悬挂“止步，高压危险！”的标示牌。",
+    "options": {
+      "A": "工作地点两旁运行设各间隔的遮栏（围栏）上",
+      "B": "工作地点对面运行设备间隔的遮栏（围栏）上",
+      "C": "禁止通行的过道遮栏（围栏）上",
+      "D": "检修设备上"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 30,
+    "sourcePages": [
+      30
+    ],
+    "images": [
+      "/question-images/q0199.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.968
+  },
+  {
+    "id": "q-0200",
+    "originalNumber": 200,
+    "type": "multiple",
+    "stem": "依据变电安规，室内母线分段部分、母线交叉部分及部分停电检修易误碰有电设备的，应设有）。",
+    "options": {
+      "A": "明显标志的永久性隔离挡板",
+      "B": "明显标志的永久性隔离护网",
+      "C": "临时隔离挡板",
+      "D": "临时护网"
+    },
+    "correctAnswer": "AB",
+    "sourcePage": 30,
+    "sourcePages": [
+      30,
+      31
+    ],
+    "images": [
+      "/question-images/q0200-p30.jpg",
+      "/question-images/q0200-p31.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9436
+  },
+  {
+    "id": "q-0201",
+    "originalNumber": 201,
+    "type": "multiple",
+    "stem": "依据变电安规，（管理）位泥石流等灾害发生后，如要对设备进行巡视时，应制定必要的安全措施，得到设备运维管理单位批准，并至少两人一组，巡视人员应与派出部门之间保持通信联络。",
+    "options": {
+      "A": "地震Bc",
+      "B": "台风",
+      "C": "洪水",
+      "D": "雷电"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 31,
+    "sourcePages": [
+      31
+    ],
+    "images": [
+      "/question-images/q0201.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9717
+  },
+  {
+    "id": "q-0202",
+    "originalNumber": 202,
+    "type": "multiple",
+    "stem": "依据变电安规，室内（），应设有明显标志的永久性隔离挡板（护网）。",
+    "options": {
+      "A": "母线分段部分",
+      "B": "母线交叉部分",
+      "C": "部分停电检修易误碰有电设备的",
+      "D": "母线引下部分ABc"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 31,
+    "sourcePages": [
+      31
+    ],
+    "images": [
+      "/question-images/q0202.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9598
+  },
+  {
+    "id": "q-0203",
+    "originalNumber": 203,
+    "type": "multiple",
+    "stem": "依据变电安规，高压设备符合下列（）条件，可由单人值班或单人操作。",
+    "options": {
+      "A": "室内高压设备的隔离室设有遮栏遮栏的高度在1.7m以上，安装牢固并加锁者安表牛商开加锁者",
+      "B": "室内高压断路器（开关）的操动机构（操作机构）用墙或金属板与该断路器（开关）隔离",
+      "C": "室内高压断路器（开关）装有远方操动机构（操作机构）者",
+      "D": "室内高压设备的隔离室设有遮栏，遮栏的高度在1.5m以上，安装牢固并加锁者3c7"
+    },
+    "correctAnswer": "ABC",
+    "sourcePage": 31,
+    "sourcePages": [
+      31
+    ],
+    "images": [
+      "/question-images/q0203.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9044
+  },
+  {
+    "id": "q-0204",
+    "originalNumber": 204,
+    "type": "multiple",
+    "stem": "依据变电安规，在运用中的高压设备上工作，分为（）",
+    "options": {
+      "A": "计划停电的工作",
+      "B": "部分停电的工作",
+      "C": "不停电的工作",
+      "D": "全部停电的工作"
+    },
+    "correctAnswer": "BCD",
+    "sourcePage": 31,
+    "sourcePages": [
+      31
+    ],
+    "images": [
+      "/question-images/q0204.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9872
+  },
+  {
+    "id": "q-0205",
+    "originalNumber": 205,
+    "type": "multiple",
+    "stem": "依据变电安规，雷雨天气，需要巡视室外高压设备时，应穿绝缘靴，并不准靠近（）。",
+    "options": {
+      "A": "互感器",
+      "B": "避雷针",
+      "C": "避雷器",
+      "D": "设备构架2在在"
+    },
+    "correctAnswer": "BC",
+    "sourcePage": 31,
+    "sourcePages": [
+      31
+    ],
+    "images": [
+      "/question-images/q0205.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9363
+  },
+  {
+    "id": "q-0206",
+    "originalNumber": 206,
+    "type": "multiple",
+    "stem": "依据变电安规，骨折急救时，肢体骨折可用（，）等将断骨上、下方两个关节固定，也可利十天节回是，也可利用伤员身体进行固定，避免骨折部位移动，以减少疼痛，防止伤势恶化。",
+    "options": {
+      "A": "夹板",
+      "B": "木棍2A",
+      "C": "废纸板",
+      "D": "竹竿"
+    },
+    "correctAnswer": "ABD",
+    "sourcePage": 31,
+    "sourcePages": [
+      31
+    ],
+    "images": [
+      "/question-images/q0206.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9438
+  },
+  {
+    "id": "q-0207",
+    "originalNumber": 207,
+    "type": "multiple",
+    "stem": "依据变电安规，心肺复苏术操作是否正确，主要靠平时严格训练，掌握正确的方法。而在急效2AB中判断复苏是否有效，可以根据以下（）、出现自主呼吸几方面综合考虑。B.",
+    "options": {
+      "A": "瞳孔",
+      "B": "面色（口唇）216",
+      "C": "颈动脉搏动票。",
+      "D": "神志"
+    },
+    "correctAnswer": "ABCD",
+    "sourcePage": 31,
+    "sourcePages": [
+      31,
+      32
+    ],
+    "images": [
+      "/question-images/q0207-p31.jpg",
+      "/question-images/q0207-p32.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9568
+  },
+  {
+    "id": "q-0208",
+    "originalNumber": 208,
+    "type": "multiple",
+    "stem": "依据变电安规。 脱离电源后，触电伤员如意识丧失, 应在开放气道后 105 用 (BCD判定伤员有无呼吸。）的方法",
+    "options": {
+      "A": "叫",
+      "B": "看",
+      "C": "听",
+      "D": "试"
+    },
+    "correctAnswer": "BCD",
+    "sourcePage": 32,
+    "sourcePages": [
+      32
+    ],
+    "images": [
+      "/question-images/q0208.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9027
+  },
+  {
+    "id": "q-0209",
+    "originalNumber": 209,
+    "type": "judgment",
+    "stem": "依据变电安规、一个电气连接部分是指： 电气装置中。 可以用断路器(（开关） 同其他电气装置分开的部分。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 32,
+    "sourcePages": [
+      32
+    ],
+    "images": [
+      "/question-images/q0209.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.963
+  },
+  {
+    "id": "q-0210",
+    "originalNumber": 210,
+    "type": "judgment",
+    "stem": "依据变电安规，总工作票应在分工作票许可后才可许可；总工作票应在所有分工作票终结后才可终结。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 32,
+    "sourcePages": [
+      32
+    ],
+    "images": [
+      "/question-images/q0210.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9889
+  },
+  {
+    "id": "q-0211",
+    "originalNumber": 211,
+    "type": "judgment",
+    "stem": "依据变电安规，承发包工程中，工作票可实行“双签发”形式。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 32,
+    "sourcePages": [
+      32
+    ],
+    "images": [
+      "/question-images/q0211.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9829
+  },
+  {
+    "id": "q-0212",
+    "originalNumber": 212,
+    "type": "judgment",
+    "stem": "依据变电安规，工作票有破损不能继续使用时，应补填新的工作票。补填的工作票不需再次履行签发许可手续。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 32,
+    "sourcePages": [
+      32
+    ],
+    "images": [
+      "/question-images/q0212.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9829
+  },
+  {
+    "id": "q-0213",
+    "originalNumber": 213,
+    "type": "judgment",
+    "stem": "依据变电安规，第一种工作票所列工作地点超过两个，或有两个及以上不同的工作单位（班组）在一起工作时，可采用总工作票和分工作票。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 32,
+    "sourcePages": [
+      32
+    ],
+    "images": [
+      "/question-images/q0213.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9839
+  },
+  {
+    "id": "q-0214",
+    "originalNumber": 214,
+    "type": "judgment",
+    "stem": "依据变电安规，全站停电可不使用工作票。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 32,
+    "sourcePages": [
+      32
+    ],
+    "images": [
+      "/question-images/q0214.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9815
+  },
+  {
+    "id": "q-0215",
+    "originalNumber": 215,
+    "type": "judgment",
+    "stem": "依据变电安规，第二种工作票和带电作业工作票应在工作前一日预先交给工作许可人。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 32,
+    "sourcePages": [
+      32
+    ],
+    "images": [
+      "/question-images/q0215.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9668
+  },
+  {
+    "id": "q-0216",
+    "originalNumber": 216,
+    "type": "judgment",
+    "stem": "依据变电安规， 在同一变电站内， 依次进行的同一类型的带电作业可以使用一张常电作业工作票。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 32,
+    "sourcePages": [
+      32,
+      33
+    ],
+    "images": [
+      "/question-images/q0216-p32.jpg",
+      "/question-images/q0216-p33.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9302
+  },
+  {
+    "id": "q-0217",
+    "originalNumber": 217,
+    "type": "judgment",
+    "stem": "依据变电安规，工作票应使用黑色或蓝色的钢（水）笔或圆珠笔填写与签发，一式两份，内容应正确，填写应清楚，不得任意涂改。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 33,
+    "sourcePages": [
+      33
+    ],
+    "images": [
+      "/question-images/q0217.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9929
+  },
+  {
+    "id": "q-0218",
+    "originalNumber": 218,
+    "type": "judgment",
+    "stem": "依据变电安规，专责监护人临时离开时，应指定一名工作人员担任临时监护人。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 33,
+    "sourcePages": [
+      33
+    ],
+    "images": [
+      "/question-images/q0218.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9822
+  },
+  {
+    "id": "q-0219",
+    "originalNumber": 219,
+    "type": "judgment",
+    "stem": "依据变电安规，用户变、配电站的工作许可人应是持有效证书的高压电气工作人员。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 33,
+    "sourcePages": [
+      33
+    ],
+    "images": [
+      "/question-images/q0219.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.984
+  },
+  {
+    "id": "q-0220",
+    "originalNumber": 220,
+    "type": "judgment",
+    "stem": "依据变电安规，运维人员实施不需高压设备停电或做安全措施的变电运维一体化业务项目时，可不使用工作票，但应以书面形式记录相应的操作和工作等内容。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 33,
+    "sourcePages": [
+      33
+    ],
+    "images": [
+      "/question-images/q0220.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9841
+  },
+  {
+    "id": "q-0221",
+    "originalNumber": 221,
+    "type": "judgment",
+    "stem": "依据变电安规，事故紧急抢修应填用工作票，或事故紧急抢修单。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 33,
+    "sourcePages": [
+      33
+    ],
+    "images": [
+      "/question-images/q0221.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9852
+  },
+  {
+    "id": "q-0222",
+    "originalNumber": 222,
+    "type": "judgment",
+    "stem": "依据变电安规，一台变压器停电检修，其断路器（开关）也配合检修，且同时停、送电，可使用同一张工作票。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 33,
+    "sourcePages": [
+      33
+    ],
+    "images": [
+      "/question-images/q0222.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9877
+  },
+  {
+    "id": "q-0223",
+    "originalNumber": 223,
+    "type": "judgment",
+    "stem": "专责监护人应是具有相关工作经验，熟悉设备情况和《电力安全工作规程变电部分》的人员。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 33,
+    "sourcePages": [
+      33
+    ],
+    "images": [
+      "/question-images/q0223.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9887
+  },
+  {
+    "id": "q-0224",
+    "originalNumber": 224,
+    "type": "judgment",
+    "stem": "依据变电安规，在同一电气连接部分用同一张工作票依次在几个工作地点转移工作时，全部安全措施由运维人员在开工前一次做完，不需再办理转移手续。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 33,
+    "sourcePages": [
+      33
+    ],
+    "images": [
+      "/question-images/q0224.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9887
+  },
+  {
+    "id": "q-0225",
+    "originalNumber": 225,
+    "type": "judgment",
+    "stem": "依据变电安规，只有在同一停电系统的所有工作票都已终结，并得到值班调控人员或运维负责人的许可指令后，方可合闸送电。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 33,
+    "sourcePages": [
+      33,
+      34
+    ],
+    "images": [
+      "/question-images/q0225-p33.jpg",
+      "/question-images/q0225-p34.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9865
+  },
+  {
+    "id": "q-0226",
+    "originalNumber": 226,
+    "type": "judgment",
+    "stem": "依据变电安规，一个工作负责人可以同时执行多张工作票，工作票上所列的工作地点，以一个电气连接部分为限。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 34,
+    "sourcePages": [
+      34
+    ],
+    "images": [
+      "/question-images/q0226.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9422
+  },
+  {
+    "id": "q-0227",
+    "originalNumber": 227,
+    "type": "judgment",
+    "stem": "依据变电安规，新参加电气工作的人员、实习人员和临时参加劳动的人员（管理人员、非全日制用工等），应经过安全知识教育后，方可到现场单独工作。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 34,
+    "sourcePages": [
+      34
+    ],
+    "images": [
+      "/question-images/q0227.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9148
+  },
+  {
+    "id": "q-0228",
+    "originalNumber": 228,
+    "type": "judgment",
+    "stem": "依据变电安规，事故紧急抢修工作，指电气设备发生故障被迫紧急停止运行，需按计划恢复的抢修和排除故障的工作。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 34,
+    "sourcePages": [
+      34
+    ],
+    "images": [
+      "/question-images/q0228.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9808
+  },
+  {
+    "id": "q-0229",
+    "originalNumber": 229,
+    "type": "judgment",
+    "stem": "依据变电安规，降压变电站全部停电时，应将各个可能来电侧的部分断开，其余部分不必每段都装设接地线或合上接地刀闸（装置）。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 34,
+    "sourcePages": [
+      34
+    ],
+    "images": [
+      "/question-images/q0229.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9819
+  },
+  {
+    "id": "q-0230",
+    "originalNumber": 230,
+    "type": "judgment",
+    "stem": "依据变电安规，所有配电装置的适当地点，均应设有与接地网相连的接地端，接地电阻应合格。",
+    "options": {
+      "A": "正确",
+      "B": "错误使"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 34,
+    "sourcePages": [
+      34
+    ],
+    "images": [
+      "/question-images/q0230.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9745
+  },
+  {
+    "id": "q-0231",
+    "originalNumber": 231,
+    "type": "judgment",
+    "stem": "依据变电安规，高压回路上的工作，必须要拆除全部或一部分接地线后始能进行工作者，如果是根据调控人员指令装设的接地线，应征得工作负责人的许可，方可进行。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 34,
+    "sourcePages": [
+      34
+    ],
+    "images": [
+      "/question-images/q0231.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9808
+  },
+  {
+    "id": "q-0232",
+    "originalNumber": 232,
+    "type": "judgment",
+    "stem": "依据变电安规，在电气设备上工作，对难以做到与电源完全断开的检修设备，可以不拆除设备与电源之间的电气连接。",
+    "options": {
+      "A": "正确",
+      "B": "错误安"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 34,
+    "sourcePages": [
+      34
+    ],
+    "images": [
+      "/question-images/q0232.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9794
+  },
+  {
+    "id": "q-0233",
+    "originalNumber": 233,
+    "type": "judgment",
+    "stem": "依据变电安规，接地线应使用专用的线夹固定在导体上，也可用缠绕的方法进行接地或短路。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 34,
+    "sourcePages": [
+      34
+    ],
+    "images": [
+      "/question-images/q0233.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.8259
+  },
+  {
+    "id": "q-0234",
+    "originalNumber": 234,
+    "type": "judgment",
+    "stem": "依据变电安规，禁止在只经断路器（开关）断开电源或只经换流器闭锁隔离电源的设备上工作。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 34,
+    "sourcePages": [
+      34,
+      35
+    ],
+    "images": [
+      "/question-images/q0234-p34.jpg",
+      "/question-images/q0234-p35.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.982
+  },
+  {
+    "id": "q-0235",
+    "originalNumber": 235,
+    "type": "judgment",
+    "stem": "依据变电安规，表示设备断开和允许进入间隔的信号、经常接入的电压表等，如果指示有电，235、依据变电安规，表示设备断开和充许进入间隔的信号、经带按八木指水有电，在排除异常情况前，禁止在设备上工作。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 35,
+    "sourcePages": [
+      35
+    ],
+    "images": [
+      "/question-images/q0235.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9631
+  },
+  {
+    "id": "q-0236",
+    "originalNumber": 236,
+    "type": "judgment",
+    "stem": "依据变电安规，由于设备原因，接地刀闸与检修设备之间连有断路器（开关），在接地刀闸和断路器（开关）合上后，应有保证断路器（开关）不会分闸的措施。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 35,
+    "sourcePages": [
+      35
+    ],
+    "images": [
+      "/question-images/q0236.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9898
+  },
+  {
+    "id": "q-0237",
+    "originalNumber": 237,
+    "type": "judgment",
+    "stem": "依据变电安规，每组接地线及其存放位置均应编号，接地线号码与存放位置号码应一致。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 35,
+    "sourcePages": [
+      35
+    ],
+    "images": [
+      "/question-images/q0237.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9884
+  },
+  {
+    "id": "q-0238",
+    "originalNumber": 238,
+    "type": "judgment",
+    "stem": "依据变电安规，装设接地线应由两人进行（经批准可以单人装设接地线的项目及运维人员除外）。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 35,
+    "sourcePages": [
+      35
+    ],
+    "images": [
+      "/question-images/q0238.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.955
+  },
+  {
+    "id": "q-0239",
+    "originalNumber": 239,
+    "type": "judgment",
+    "stem": "依据变电安规，禁止作业人员擅自移动或拆除遮栏（围栏）、标示牌。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 35,
+    "sourcePages": [
+      35
+    ],
+    "images": [
+      "/question-images/q0239.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9802
+  },
+  {
+    "id": "q-0240",
+    "originalNumber": 240,
+    "type": "judgment",
+    "stem": "依据变电安规，在工作地点应设置“从此进出！”的标示牌。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 35,
+    "sourcePages": [
+      35
+    ],
+    "images": [
+      "/question-images/q0240.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9834
+  },
+  {
+    "id": "q-0241",
+    "originalNumber": 241,
+    "type": "judgment",
+    "stem": "依据变电安规，装、拆接地线，应作好记录，交接班时应交待清楚。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 35,
+    "sourcePages": [
+      35
+    ],
+    "images": [
+      "/question-images/q0241.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9903
+  },
+  {
+    "id": "q-0242",
+    "originalNumber": 242,
+    "type": "judgment",
+    "stem": "依据变电安规，巡视室内设备，应随手关门。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 35,
+    "sourcePages": [
+      35
+    ],
+    "images": [
+      "/question-images/q0242.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9858
+  },
+  {
+    "id": "q-0243",
+    "originalNumber": 243,
+    "type": "judgment",
+    "stem": "依据变电安规，地震、台风、洪水、泥石流等灾害发生后，如需要对设备进行巡视时，应制定必要的安全措施，得到设备运维管理单位批准，可单人巡视，但巡视人员应与派出部门之间保持通信联络。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 35,
+    "sourcePages": [
+      35
+    ],
+    "images": [
+      "/question-images/q0243.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9878
+  },
+  {
+    "id": "q-0244",
+    "originalNumber": 244,
+    "type": "judgment",
+    "stem": "依据变电安规，待用间隔的隔离开关（刀闸）操作手柄、网门可不加锁。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 35,
+    "sourcePages": [
+      35,
+      36
+    ],
+    "images": [
+      "/question-images/q0244-p35.jpg",
+      "/question-images/q0244-p36.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9849
+  },
+  {
+    "id": "q-0245",
+    "originalNumber": 245,
+    "type": "judgment",
+    "stem": "依据变电安规，经本单位批准允许单独巡视高压设备的人员巡视高压设备时，如果确因工作需要，可临时移开或越过遮栏，事后应立即恢复。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 36,
+    "sourcePages": [
+      36
+    ],
+    "images": [
+      "/question-images/q0245.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.8663
+  },
+  {
+    "id": "q-0246",
+    "originalNumber": 246,
+    "type": "judgment",
+    "stem": "依据变电安规，换流站不允许单人值班或单人操作。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 36,
+    "sourcePages": [
+      36
+    ],
+    "images": [
+      "/question-images/q0246.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9717
+  },
+  {
+    "id": "q-0247",
+    "originalNumber": 247,
+    "type": "judgment",
+    "stem": "依据变电安规，解锁工具（钥匙） 使用后应在所有工作结束后再封存并作好记录。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 36,
+    "sourcePages": [
+      36
+    ],
+    "images": [
+      "/question-images/q0247.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9663
+  },
+  {
+    "id": "q-0248",
+    "originalNumber": 248,
+    "type": "judgment",
+    "stem": "依据变电安规。 在运行中若必须进行中性点接地点断开的工作时。 应先建立有效的务路接地方可进行断开工作。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 36,
+    "sourcePages": [
+      36
+    ],
+    "images": [
+      "/question-images/q0248.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.953
+  },
+  {
+    "id": "q-0249",
+    "originalNumber": 249,
+    "type": "judgment",
+    "stem": "依据变电安规，高压设备上工作，在手车开关拉出后，应观察隔离档板是否可靠封闭。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 36,
+    "sourcePages": [
+      36
+    ],
+    "images": [
+      "/question-images/q0249.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9857
+  },
+  {
+    "id": "q-0250",
+    "originalNumber": 250,
+    "type": "judgment",
+    "stem": "依据变电安规，部分停电的工作，是指高压设备部分停电，或室内虽全部停电，而通至邻接高压室的门并未全部闭锁的工作。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 36,
+    "sourcePages": [
+      36
+    ],
+    "images": [
+      "/question-images/q0250.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9871
+  },
+  {
+    "id": "q-0251",
+    "originalNumber": 251,
+    "type": "judgment",
+    "stem": "依据变电安规，创伤急救时，如果伤员颅脑外伤，应使伤员采取平卧位，保持气道通畅，若有呕吐，应扶好头部和身体，使头部和身体同时侧转，防止呕吐物造成室息。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 36,
+    "sourcePages": [
+      36
+    ],
+    "images": [
+      "/question-images/q0251.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9878
+  },
+  {
+    "id": "q-0252",
+    "originalNumber": 252,
+    "type": "judgment",
+    "stem": "依据变电安规，怀疑可能存在有害气体时，应立即将人员撤离现场，转移到通风良好处休息。抢救人员进入险区应戴防毒面具。应戴初每面共。",
+    "options": {
+      "A": "正确制定",
+      "B": "错误通"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 36,
+    "sourcePages": [
+      36
+    ],
+    "images": [
+      "/question-images/q0252.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9335
+  },
+  {
+    "id": "q-0253",
+    "originalNumber": 253,
+    "type": "judgment",
+    "stem": "依据变电安规，平地搬运时伤员头部在前，上楼、下楼时、下坡时头部都在下， 搬运中应严密观察伤员，防止伤情突变。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 36,
+    "sourcePages": [
+      36
+    ],
+    "images": [
+      "/question-images/q0253.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9756
+  },
+  {
+    "id": "q-0254",
+    "originalNumber": 254,
+    "type": "judgment",
+    "stem": "依据变电安规，触电者神志不清，判断意识无，有心跳，但呼吸停止或极微弱时，应立即用仰头抬颏法，使气道开放，并对触电者施行心脏按压。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 36,
+    "sourcePages": [
+      36,
+      37
+    ],
+    "images": [
+      "/question-images/q0254-p36.jpg",
+      "/question-images/q0254-p37.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.8706
+  },
+  {
+    "id": "q-0255",
+    "originalNumber": 255,
+    "type": "judgment",
+    "stem": "依据变电安规，可用电线、铁丝、细绳等作止血带使用。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 37,
+    "sourcePages": [
+      37
+    ],
+    "images": [
+      "/question-images/q0255.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9925
+  },
+  {
+    "id": "q-0256",
+    "originalNumber": 256,
+    "type": "judgment",
+    "stem": "依据变电安规，低压触电时，因触电者的身体是带电的，其鞋的绝缘也可能遭到破坏，救护人不得接触触电者的皮肤，也不能抓他的鞋。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 37,
+    "sourcePages": [
+      37
+    ],
+    "images": [
+      "/question-images/q0256.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.986
+  },
+  {
+    "id": "q-0257",
+    "originalNumber": 257,
+    "type": "judgment",
+    "stem": "依据变电安规，救护者在救护过程中特别是在杆上或高处抢救伤者时，要注意自身和被救者不要触及附近带电体，防止再次触及带电设备。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 37,
+    "sourcePages": [
+      37
+    ],
+    "images": [
+      "/question-images/q0257.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9898
+  },
+  {
+    "id": "q-0258",
+    "originalNumber": 258,
+    "type": "judgment",
+    "stem": "依据变电安规，开放性骨折，伴有大出血者，先固定、再止血，并用干净布片覆盖伤口，然后速送医院救治。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 37,
+    "sourcePages": [
+      37
+    ],
+    "images": [
+      "/question-images/q0258.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9887
+  },
+  {
+    "id": "q-0259",
+    "originalNumber": 259,
+    "type": "judgment",
+    "stem": "依据变电安规，伤员脱离电源后，当发现触电者呼吸微弱或停止时，应立即通畅触电者的气道以促进触电者呼吸或便于抢救。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 37,
+    "sourcePages": [
+      37
+    ],
+    "images": [
+      "/question-images/q0259.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9853
+  },
+  {
+    "id": "q-0260",
+    "originalNumber": 260,
+    "type": "judgment",
+    "stem": "依据变电安规，冻伤急救时，应将伤员身上潮湿的衣服剪去后用干燥柔软的衣服覆盖，并立即烤火或搓雪。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "B",
+    "sourcePage": 37,
+    "sourcePages": [
+      37
+    ],
+    "images": [
+      "/question-images/q0260.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9894
+  },
+  {
+    "id": "q-0261",
+    "originalNumber": 261,
+    "type": "judgment",
+    "stem": "依据变电安规，创伤急救时，外部出血立即采取止血措施，防止失血过多休克。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 37,
+    "sourcePages": [
+      37
+    ],
+    "images": [
+      "/question-images/q0261.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9822
+  },
+  {
+    "id": "q-0262",
+    "originalNumber": 262,
+    "type": "judgment",
+    "stem": "依据变电安规，毒蛇咬伤后，不要惊慌、奔跑、饮酒，以免加速蛇毒在人体内扩散。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "correctAnswer": "A",
+    "sourcePage": 37,
+    "sourcePages": [
+      37
+    ],
+    "images": [
+      "/question-images/q0262.jpg"
+    ],
+    "needsReview": false,
+    "reviewNotes": [],
+    "ocrConfidence": 0.9864
+  }
+]

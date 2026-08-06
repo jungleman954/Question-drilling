@@ -74,11 +74,14 @@ def _ocr_page(page_path: str, force: bool = False) -> dict:
     if image is None:
         raise RuntimeError(f"Could not read {path}")
     height, width = image.shape[:2]
-    engine = RapidOCR(
-        det_limit_side_len=1024,
+    full_engine = RapidOCR(
+        # Keep the full photographed page close to native resolution.  At
+        # 1024px the inner-page curve collapsed punctuation and short blanks,
+        # causing stems/options to be joined or truncated.
+        det_limit_side_len=2500,
         max_side_len=3000,
         det_box_thresh=0.25,
-        intra_op_num_threads=2,
+        intra_op_num_threads=4,
         inter_op_num_threads=1,
     )
 
@@ -88,12 +91,12 @@ def _ocr_page(page_path: str, force: bool = False) -> dict:
     starts = list(range(0, height, strip_step))
     if starts and starts[-1] + 180 >= height:
         starts.pop()
-    for pass_name, y0, y1 in [("full", 0, height)] + [
-        (f"strip-{idx + 1}", y0, min(height, y0 + strip_height))
-        for idx, y0 in enumerate(starts)
-    ]:
+    # Native-resolution full-page OCR now retains the curved-margin text that
+    # previously required overlapping strips.  A single pass also prevents
+    # duplicate lines from adjacent strip windows.
+    for pass_name, y0, y1 in [("full", 0, height)]:
         crop = image[y0:y1]
-        result, _ = engine(crop, box_thresh=0.2, text_score=0.3)
+        result, _ = full_engine(crop, box_thresh=0.2, text_score=0.3)
         for box, text, score in result or []:
             adjusted = [[float(x), float(y) + y0] for x, y in box]
             raw_lines.append(
@@ -125,32 +128,51 @@ def main() -> None:
     parser.add_argument("--force-render", action="store_true")
     parser.add_argument("--force-ocr", action="store_true")
     parser.add_argument("--workers", type=int, default=max(1, min(2, (os.cpu_count() or 2) // 2)))
+    parser.add_argument(
+        "--pages",
+        type=str,
+        help="Optional comma-separated physical PDF page numbers to OCR.",
+    )
     args = parser.parse_args()
 
     pdf_path = args.pdf.resolve()
     if not pdf_path.exists():
         raise FileNotFoundError(pdf_path)
     pages = render_pages(pdf_path, args.force_render)
+    if args.pages:
+        selected = {int(value.strip()) for value in args.pages.split(",") if value.strip()}
+        pages = [page for page in pages if page_number(page) in selected]
     OCR_DIR.mkdir(parents=True, exist_ok=True)
 
     results: list[dict] = []
-    with ProcessPoolExecutor(max_workers=max(1, args.workers)) as pool:
-        futures = {pool.submit(_ocr_page, str(page), args.force_ocr): page for page in pages}
-        for done_index, future in enumerate(as_completed(futures), start=1):
-            page = futures[future]
-            payload = future.result()
-            results.append(payload)
+    if args.workers == 1:
+        # On Windows, repeatedly starting ONNX inside a spawned pool can be
+        # substantially slower than a direct sequential pass.
+        for done_index, page in enumerate(pages, start=1):
+            results.append(_ocr_page(str(page), args.force_ocr))
             print(f"OCR {done_index:02d}/{len(pages):02d}: page {page_number(page):02d}", flush=True)
+    else:
+        with ProcessPoolExecutor(max_workers=max(1, args.workers)) as pool:
+            futures = {pool.submit(_ocr_page, str(page), args.force_ocr): page for page in pages}
+            for done_index, future in enumerate(as_completed(futures), start=1):
+                page = futures[future]
+                payload = future.result()
+                results.append(payload)
+                print(f"OCR {done_index:02d}/{len(pages):02d}: page {page_number(page):02d}", flush=True)
 
     results.sort(key=lambda item: item["page"])
+    all_payloads = [
+        json.loads(path.read_text(encoding="utf-8"))
+        for path in sorted(OCR_DIR.glob("page-*.json"))
+    ]
     index = {
         "sourceFile": pdf_path.name,
-        "sourcePages": len(pages),
-        "ocrPages": len(results),
-        "rawLineCount": sum(len(item["lines"]) for item in results),
+        "sourcePages": len(PdfReader(str(pdf_path)).pages),
+        "ocrPages": len(all_payloads),
+        "rawLineCount": sum(len(item["lines"]) for item in all_payloads),
         "pages": [
             {"page": item["page"], "width": item["width"], "height": item["height"], "lines": len(item["lines"])}
-            for item in results
+            for item in all_payloads
         ],
     }
     (ROOT / "reports" / "ocr_index.json").write_text(

@@ -2,7 +2,10 @@
   "summary": {
     "count": 0,
     "missingNumbers": [],
-    "duplicateNumbers": []
+    "duplicateNumbers": [],
+    "sourceVerifiedDuplicateOptions": [
+      40
+    ]
   },
   "questions": []
 }

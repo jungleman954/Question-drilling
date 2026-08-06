@@ -28,8 +28,25 @@ MANUAL_ANCHORS = {
     # These four number lines are visibly present but the detector merged or
     # dropped their curved left edge.  The y values are PDF-page coordinates.
     100: (16, 418),
+    6: (1, 1176),
+    33: (5, 1698),
+    88: (15, 524),
+    113: (17, 1468),
+    114: (18, 496),
+    115: (18, 653),
+    126: (19, 1462),
+    127: (20, 524),
+    140: (22, 484),
+    141: (22, 632),
+    153: (24, 400),
+    167: (26, 466),
+    168: (26, 662),
+    194: (30, 436),
+    208: (32, 449),
     226: (34, 464),
     227: (34, 583),
+    247: (36, 632),
+    253: (36, 1330),
     254: (36, 1458),
 }
 
@@ -55,9 +72,15 @@ class MergedLine:
 
     @property
     def primary(self) -> dict:
-        # Long lines are usually more complete; confidence breaks close ties.
+        # The full-page pass preserves the printed line boundary.  Strip OCR
+        # can be more detailed near curved margins, but its overlapping crops
+        # sometimes concatenate the same text twice or attach a neighbouring
+        # question.  Prefer full-page text whenever that line was detected;
+        # fall back to strip variants only for lines the full pass missed.
+        full_page = [item for item in self.variants if item.get("pass") == "full"]
+        candidates = full_page or self.variants
         return max(
-            self.variants,
+            candidates,
             key=lambda item: (len(item["text"]) + item["score"] * 12, item["score"]),
         )
 
@@ -76,23 +99,71 @@ class MergedLine:
 
 def merge_page(payload: dict) -> list[MergedLine]:
     raw = [item for item in payload["lines"] if item["text"].strip()]
-    raw.sort(key=lambda item: (center(item)[1], center(item)[0]))
-    y_groups: list[list[dict]] = []
-    for item in raw:
-        item_y = center(item)[1]
-        if not y_groups:
-            y_groups.append([item])
-            continue
-        group_y = sum(center(existing)[1] for existing in y_groups[-1]) / len(y_groups[-1])
-        # Six pixels keeps duplicate passes together without merging adjacent
-        # curved text lines whose detector boxes overlap vertically.
-        if abs(item_y - group_y) <= 6:
-            y_groups[-1].append(item)
+
+    def group_by_y(
+        items: list[dict], tolerance: int, require_horizontal_fragment: bool = False
+    ) -> list[list[dict]]:
+        items = sorted(items, key=lambda item: (center(item)[1], center(item)[0]))
+        groups: list[list[dict]] = []
+        for item in items:
+            item_y = center(item)[1]
+            if not groups:
+                groups.append([item])
+                continue
+            group_y = sum(center(existing)[1] for existing in groups[-1]) / len(groups[-1])
+            shares_row = abs(item_y - group_y) <= tolerance
+            if shares_row and require_horizontal_fragment:
+                x0, _, x1, _ = bounds(item)
+                for existing in groups[-1]:
+                    e0, _, e1, _ = bounds(existing)
+                    overlap = max(0, min(x1, e1) - max(x0, e0))
+                    if overlap > 0.18 * min(x1 - x0, e1 - e0):
+                        shares_row = False
+                        break
+            if shares_row:
+                groups[-1].append(item)
+            else:
+                groups.append([item])
+        return groups
+
+    # Build printed lines from the full-page pass first.  Overlapping strip
+    # crops are only admitted when the full-page detector missed an entire
+    # line; mixing both passes before grouping was the main cause of repeated
+    # options and text leaking in from neighbouring questions.
+    # A photographed line can slope enough for left/right detector boxes to
+    # have centres 10-18 px apart.  Join those fragments before sorting by x.
+    # Strip crops need the tighter tolerance because they overlap vertically.
+    full_groups = group_by_y(
+        [item for item in raw if item.get("pass") == "full"],
+        18,
+        require_horizontal_fragment=True,
+    )
+    strip_groups = group_by_y([item for item in raw if item.get("pass") != "full"], 6)
+    full_centres = [
+        sum(center(item)[1] for item in group) / len(group)
+        for group in full_groups
+    ]
+    fallback_groups: list[list[dict]] = []
+    for group in strip_groups:
+        group_y = sum(center(item)[1] for item in group) / len(group)
+        nearby = [
+            (abs(group_y - full_y), index)
+            for index, full_y in enumerate(full_centres)
+            if abs(group_y - full_y) <= 18
+        ]
+        if nearby:
+            # Keep strip variants on the same logical line so they can repair
+            # a misread number token. MergedLine.primary still selects the
+            # clean full-page wording for the actual stem/option text.
+            _, index = min(nearby)
+            full_groups[index].extend(group)
         else:
-            y_groups.append([item])
+            fallback_groups.append(group)
+    raw_groups = full_groups + fallback_groups
+    raw_groups.sort(key=lambda group: sum(center(item)[1] for item in group) / len(group))
 
     merged: list[MergedLine] = []
-    for group in y_groups:
+    for group in raw_groups:
         by_pass: dict[str, list[dict]] = defaultdict(list)
         for item in group:
             by_pass[item["pass"]].append(item)
@@ -232,6 +303,27 @@ def clean_text(text: str) -> str:
     return text
 
 
+def repair_common_ocr_artifacts(
+    stem: str, options: dict[str, str]
+) -> tuple[str, dict[str, str]]:
+    """Repair only deterministic blank/punctuation artifacts from the scan."""
+    stem = stem.replace("(）", "（）").replace("（)", "（）")
+    stem = stem.replace("（（）", "（）").replace("（））", "（）")
+    stem = stem.replace("（β）", "（）")
+    stem = re.sub(r"（(?:[A-D]{1,4}|1)$", "（）", stem)
+    if stem.endswith("（"):
+        stem += "）"
+    # A question stem in this booklet always ends with printed punctuation.
+    if stem.endswith("（）"):
+        stem += "。"
+    cleaned_options = dict(options)
+    for key, value in cleaned_options.items():
+        value = re.sub(r"(?<=kV)[A-D]+$", "", value)
+        value = re.sub(r"(?<=\d)[A-D]{2,4}$", "", value)
+        cleaned_options[key] = value
+    return stem, cleaned_options
+
+
 def strip_question_prefix(text: str, number: int) -> str:
     # Prefer the printed number, tolerating a recognized handwritten answer.
     pattern = re.compile(rf"^\s*[A-D]{{0,4}}\s*{number}\s*[、,，.．]\s*")
@@ -324,7 +416,12 @@ def crop_question(anchor: dict, next_anchor: dict | None, page_meta: dict[int, d
             crop = crop.resize((1400, max(1, target_h)), Image.Resampling.LANCZOS)
         suffix = "" if len(crop_pages) == 1 else f"-p{page:02d}"
         filename = f"q{anchor['number']:04d}{suffix}.jpg"
-        crop.save(IMAGE_DIR / filename, "JPEG", quality=78, optimize=True)
+        target = IMAGE_DIR / filename
+        # Existing source crops remain valid when only OCR text merging rules
+        # change. Avoid repeatedly rewriting hundreds of JPEGs (and Windows
+        # file-sharing failures while the local Vite server is serving them).
+        if not target.exists():
+            crop.save(target, "JPEG", quality=78, optimize=True)
         assets.append(f"/question-images/{filename}")
     return assets
 
@@ -353,6 +450,7 @@ def main() -> None:
         override = overrides.get(number_key, {})
         stem = override.get("stem", stem)
         options = override.get("options", options)
+        stem, options = repair_common_ocr_artifacts(stem, options)
         answer = override.get("answer", verified_answers.get(number_key, ""))
         if not answer and len(anchor["answerHints"]) == 1:
             answer = anchor["answerHints"][0]

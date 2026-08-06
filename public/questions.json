@@ -20,13 +20,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.979
+    "ocrConfidence": 0.9551
   },
   {
     "id": "q-0002",
     "originalNumber": 2,
     "type": "single",
-    "stem": "依据变电变规、变电站（发电厂）第二种工作果可采取电活许可方式，但应（）、并各作），并各自作好记录。",
+    "stem": "依据变电安规，变电站（发电厂）第二种工作票可采取电话许可方式，但应（），并各自作好记录。",
     "options": {
       "A": "汇报",
       "B": "双方确认",
@@ -43,7 +43,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9682
+    "ocrConfidence": 0.9484
   },
   {
     "id": "q-0003",
@@ -66,7 +66,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9911
+    "ocrConfidence": 0.9864
   },
   {
     "id": "q-0004",
@@ -89,7 +89,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.8712
+    "ocrConfidence": 0.9658
   },
   {
     "id": "q-0005",
@@ -112,13 +112,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9948
+    "ocrConfidence": 0.9931
   },
   {
     "id": "q-0006",
     "originalNumber": 6,
     "type": "single",
-    "stem": "依据变电安规，只有在同一停电系统的所有工作票都已终结，并得（）或运维负责人的许可指令后，方可合闸送电。",
+    "stem": "依据变电安规，只有在同一停电系统的所有工作票都已终结，并得到（）或运维负责人的许可指令后，方可合闸送电。",
     "options": {
       "A": "工作负责人",
       "B": "专责监护人",
@@ -135,7 +135,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9933
+    "ocrConfidence": 0.9828
   },
   {
     "id": "q-0007",
@@ -160,13 +160,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9928
+    "ocrConfidence": 0.988
   },
   {
     "id": "q-0008",
     "originalNumber": 8,
     "type": "single",
-    "stem": "依据变电安规，第一种工作票所列工作地点超过两个，或有两个及以上不同的工作单位（班组）在一起工作时，可采用总工作票和分工作票。总、分工作票应由（）签发。）签发。",
+    "stem": "依据变电安规，第一种工作票所列工作地点超过两个，或有两个及以上不同的工作单位（班组）在一起工作时，可采用总工作票和分工作票。总、分工作票应由（）签发。",
     "options": {
       "A": "值班调控人员和工作票签发人",
       "B": "同一个工作票签发人",
@@ -183,13 +183,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9901
+    "ocrConfidence": 0.9943
   },
   {
     "id": "q-0009",
     "originalNumber": 9,
     "type": "single",
-    "stem": "依据变电安规，工作许可人在完成施工现场的安全措施后，会同工作负责人到现场（）安全）安全措施，对具体的设备指明实际的隔离措施，证明检修设备确无电压。",
+    "stem": "依据变电安规，工作许可人在完成施工现场的安全措施后，会同工作负责人到现场（）安全措施，对具体的设备指明实际的隔离措施，证明检修设备确无电压。",
     "options": {
       "A": "分别做",
       "B": "共同做",
@@ -206,7 +206,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9876
+    "ocrConfidence": 0.9869
   },
   {
     "id": "q-0010",
@@ -229,7 +229,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9932
+    "ocrConfidence": 0.993
   },
   {
     "id": "q-0011",
@@ -240,7 +240,7 @@
       "A": "值班调控人员",
       "B": "专责监护人",
       "C": "工作许可人",
-      "D": "运维负责人·运维贝员人"
+      "D": "运维负责人"
     },
     "correctAnswer": "C",
     "sourcePage": 2,
@@ -252,7 +252,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9433
+    "ocrConfidence": 0.9945
   },
   {
     "id": "q-0012",
@@ -263,7 +263,7 @@
       "A": "审核合格",
       "B": "授权",
       "C": "批准",
-      "D": "审核合格且经批准）、专责监护人应始终在工作现场，对工作班人员的安全认真监护，及"
+      "D": "审核合格且经批准"
     },
     "correctAnswer": "D",
     "sourcePage": 2,
@@ -275,15 +275,15 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9909
+    "ocrConfidence": 0.987
   },
   {
     "id": "q-0013",
     "originalNumber": 13,
     "type": "single",
-    "stem": "依据变电安规，（时纠正不安全的行为。",
+    "stem": "依据变电安规，（）、专责监护人应始终在工作现场，对工作班人员的安全认真监护，及时纠正不安全的行为。",
     "options": {
-      "A": "工作负责人工作负责人",
+      "A": "工作负责人",
       "B": "工作许可人",
       "C": "工作票签发人",
       "D": "安监人员"
@@ -300,13 +300,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9796
+    "ocrConfidence": 0.9922
   },
   {
     "id": "q-0014",
     "originalNumber": 14,
     "type": "single",
-    "stem": "依据变电安规，变电检修（施工）作业勘客记票）认为有必要现场勘察的，检修（施工）单位应根据工作任务组织现场勘察，并填写现场勘察记录。",
+    "stem": "依据变电安规，变电检修（施工）作业，（）认为有必要现场勘察的，检修（施工）单位应根据工作任务组织现场勘察，并填写现场勘察记录。",
     "options": {
       "A": "工作票签发人或工作负责人",
       "B": "工作票签发人或工作许可人",
@@ -323,7 +323,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9835
+    "ocrConfidence": 0.9879
   },
   {
     "id": "q-0015",
@@ -346,16 +346,16 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9865
+    "ocrConfidence": 0.9853
   },
   {
     "id": "q-0016",
     "originalNumber": 16,
     "type": "single",
-    "stem": "依据变电安规，与邻近带电设备距离小于表1（设备不停电时的安全距离）、大于表4（带电作业时人身与带电体间的安全距离）规定的工作应填用（）",
+    "stem": "依据变电安规，与邻近带电设备距离小于表1（设备不停电时的安全距离）、大于表4（带电作业时人身与带电体间的安全距离）规定的工作应填用（）。",
     "options": {
       "A": "带电作业工作票",
-      "B": "第一种工作票第一种工作票",
+      "B": "第一种工作票",
       "C": "第二种工作票",
       "D": "事故紧急抢修单"
     },
@@ -369,7 +369,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9097
+    "ocrConfidence": 0.9888
   },
   {
     "id": "q-0017",
@@ -392,7 +392,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9868
+    "ocrConfidence": 0.9822
   },
   {
     "id": "q-0018",
@@ -415,7 +415,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9919
+    "ocrConfidence": 0.9916
   },
   {
     "id": "q-0019",
@@ -438,13 +438,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.8965
+    "ocrConfidence": 0.9935
   },
   {
     "id": "q-0020",
     "originalNumber": 20,
     "type": "single",
-    "stem": "依据变电安规左线路式口20、依据变电安规，持线路或电缆工作票进入变电站或发电厂升压站进行架空线路、电缆等工作，应增填工作票份数，由（）许可，并留存。）许可，并留存。",
+    "stem": "依据变电安规，持线路或电缆工作票进入变电站或发电厂升压站进行架空线路、电缆等工作，应增填工作票份数，由（）许可，并留存。",
     "options": {
       "A": "变电站或发电厂工作许可人",
       "B": "值班调控人员",
@@ -463,7 +463,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.958
+    "ocrConfidence": 0.9959
   },
   {
     "id": "q-0021",
@@ -474,7 +474,7 @@
       "A": "二次工作安全措施",
       "B": "第二种",
       "C": "第一种",
-      "D": "带电作业依据变电安规作票苦系预宗时间部分工作尚去宗成震学特工作"
+      "D": "带电作业"
     },
     "correctAnswer": "B",
     "sourcePage": 4,
@@ -486,7 +486,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9657
+    "ocrConfidence": 0.993
   },
   {
     "id": "q-0022",
@@ -515,7 +515,7 @@
     "id": "q-0023",
     "originalNumber": 23,
     "type": "single",
-    "stem": "依据变电安规，同一变电站内在几个电气连接部分上依次进行不停电的同一类型的工作，可以B使用一张（）工作票。",
+    "stem": "依据变电安规，同一变电站内在几个电气连接部分上依次进行不停电的同一类型的工作，可以使用一张（）工作票。",
     "options": {
       "A": "第一种",
       "B": "第二种",
@@ -532,7 +532,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9666
+    "ocrConfidence": 0.9696
   },
   {
     "id": "q-0024",
@@ -555,7 +555,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9889
+    "ocrConfidence": 0.9887
   },
   {
     "id": "q-0025",
@@ -578,13 +578,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9795
+    "ocrConfidence": 0.9751
   },
   {
     "id": "q-0026",
     "originalNumber": 26,
     "type": "single",
-    "stem": "依据变电安规，工作期间，若工作负责人必须长时间离开工作现场时，应由（）变更工作负责人，履行变更手续，并告知全体作业人员及工作许可人。原、现工作负责人应做好必要的交负责人，履行受史子续，开告知生体作业人员及工作计可八。你、免工作员员人应以为人支时人接。",
+    "stem": "依据变电安规，工作期间，若工作负责人必须长时间离开工作现场时，应由（）变更工作负责人，履行变更手续，并告知全体作业人员及工作许可人。原、现工作负责人应做好必要的交接。",
     "options": {
       "A": "原工作票签发人",
       "B": "工区领导",
@@ -603,13 +603,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.952
+    "ocrConfidence": 0.993
   },
   {
     "id": "q-0027",
     "originalNumber": 27,
     "type": "single",
-    "stem": "依据变电安规，承发包工程中，工作票（",
+    "stem": "依据变电安规，承发包工程中，工作票（）。",
     "options": {
       "A": "必须由设备运维单位签发",
       "B": "必须由承包单位签发",
@@ -626,7 +626,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9955
+    "ocrConfidence": 0.994
   },
   {
     "id": "q-0028",
@@ -634,7 +634,7 @@
     "type": "single",
     "stem": "依据变电安规，高压设备上工作需要全部停电或部分停电者应填用（）工作票。",
     "options": {
-      "A": "第一种七百应套用工作票。",
+      "A": "第一种",
       "B": "第二种",
       "C": "事故紧急抢修单",
       "D": "带电作业"
@@ -649,13 +649,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9593
+    "ocrConfidence": 0.9846
   },
   {
     "id": "q-0029",
     "originalNumber": 29,
     "type": "single",
-    "stem": "依据变电安规，现场勘察工作应由（“）组织。",
+    "stem": "依据变电安规，现场勘察工作应由（）组织。",
     "options": {
       "A": "工作票签发人或工作负责人",
       "B": "工作票签发人或工作许可人",
@@ -672,7 +672,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.99
+    "ocrConfidence": 0.9915
   },
   {
     "id": "q-0030",
@@ -695,7 +695,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9795
+    "ocrConfidence": 0.9839
   },
   {
     "id": "q-0031",
@@ -705,8 +705,8 @@
     "options": {
       "A": "二次工作安全措施",
       "B": "第二种",
-      "C": "第一种带电作业",
-      "D": "带电作业Y"
+      "C": "第一种",
+      "D": "带电作业"
     },
     "correctAnswer": "C",
     "sourcePage": 5,
@@ -718,7 +718,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9447
+    "ocrConfidence": 0.9801
   },
   {
     "id": "q-0032",
@@ -741,7 +741,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9929
+    "ocrConfidence": 0.9927
   },
   {
     "id": "q-0033",
@@ -766,7 +766,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9853
+    "ocrConfidence": 0.9748
   },
   {
     "id": "q-0034",
@@ -777,7 +777,7 @@
       "A": "原工作票",
       "B": "送电后现场设备带电情况",
       "C": "工作票签发人要求",
-      "D": "运维值班员要求运维值"
+      "D": "运维值班员要求"
     },
     "correctAnswer": "B",
     "sourcePage": 6,
@@ -789,7 +789,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9432
+    "ocrConfidence": 0.9875
   },
   {
     "id": "q-0035",
@@ -812,7 +812,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9931
+    "ocrConfidence": 0.9929
   },
   {
     "id": "q-0036",
@@ -822,7 +822,7 @@
     "options": {
       "A": "工作负责人",
       "B": "工作票签发人",
-      "C": "运维负责人工区领导",
+      "C": "运维负责人",
       "D": "工区领导"
     },
     "correctAnswer": "B",
@@ -835,7 +835,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9876
+    "ocrConfidence": 0.9924
   },
   {
     "id": "q-0037",
@@ -858,13 +858,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9783
+    "ocrConfidence": 0.9781
   },
   {
     "id": "q-0038",
     "originalNumber": 38,
     "type": "single",
-    "stem": "依据变电安规，在原工作票的停电及安全措施范围内增加工作任务时，应由工作负责人征得工作票签发人和工作许可人同意，并在工作票上增填（宁人世效",
+    "stem": "依据变电安规，在原工作票的停电及安全措施范围内增加工作任务时，应由工作负责人征得工作票签发人和工作许可人同意，并在工作票上增填（）。",
     "options": {
       "A": "安全措施",
       "B": "工作地点",
@@ -881,13 +881,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9108
+    "ocrConfidence": 0.9366
   },
   {
     "id": "q-0039",
     "originalNumber": 39,
     "type": "single",
-    "stem": "依据变电安规，若工作需要（如测量极性、回路导通实验、光纤回路检查等），而且现场设备允许时，可以准许工作班中有实际经验的一个人或几人同时在它室进行工作，但（（）应在事前将有关安全注意事项予以详尽的告知。",
+    "stem": "依据变电安规，若工作需要（如测量极性、回路导通实验、光纤回路检查等），而且现场设备允许时，可以准许工作班中有实际经验的一个人或几人同时在它室进行工作，但（）应在事前将有关安全注意事项予以详尽的告知。",
     "options": {
       "A": "专责监护人",
       "B": "工作许可人",
@@ -906,16 +906,16 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9902
+    "ocrConfidence": 0.9908
   },
   {
     "id": "q-0040",
     "originalNumber": 40,
     "type": "single",
-    "stem": "依据变电安规，间断后继续工作，若无（40、依据变电安规，间断后继续工作，若无（）带领，作业人员不得进入工作地点。",
+    "stem": "依据变电安规，间断后继续工作，若无（）带领，作业人员不得进入工作地点。",
     "options": {
-      "A": "工作票签发人和专责监护人）带领，作业人员不得进入工作地点。血护入",
-      "B": "工作负责人和专责监护人负个得进入工作地点。",
+      "A": "工作票签发人和专责监护人",
+      "B": "工作负责人和专责监护人",
       "C": "工作负责人和工作许可人",
       "D": "工作票签发人和专责监护人"
     },
@@ -929,13 +929,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9457
+    "ocrConfidence": 0.9946
   },
   {
     "id": "q-0041",
     "originalNumber": 41,
     "type": "single",
-    "stem": "依据变电安规，用计算机生成或打印的工作票应使用统一的票面格式，由（）审核无误，手工或电子签名后方可执行。）审核无误，",
+    "stem": "依据变电安规，用计算机生成或打印的工作票应使用统一的票面格式，由（）审核无误，手工或电子签名后方可执行。",
     "options": {
       "A": "工作许可人",
       "B": "工作负责人",
@@ -952,13 +952,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9938
+    "ocrConfidence": 0.9955
   },
   {
     "id": "q-0042",
     "originalNumber": 42,
     "type": "single",
-    "stem": "依据变电安规，变更工作负责人或增加工作任务，如（）无法当面办理，应通过电话联系，并在工作票登记薄和工作票上注明。",
+    "stem": "依据变电安规，变更工作负责人或增加工作任务，如（）无法当面办理，应通过电话联系，并在工作票登记簿和工作票上注明。",
     "options": {
       "A": "工作票签发人和工作许可人",
       "B": "工作票签发人或工作许可人",
@@ -975,13 +975,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9944
+    "ocrConfidence": 0.9951
   },
   {
     "id": "q-0043",
     "originalNumber": 43,
     "type": "single",
-    "stem": "依据变电安规，持线路或电缆工作票进入变电站或发电厂升压站进行架空线路、电缆等工作，应（）），由变电站或发电厂工作许可人许可，并留存。",
+    "stem": "依据变电安规，持线路或电缆工作票进入变电站或发电厂升压站进行架空线路、电缆等工作，应（），由变电站或发电厂工作许可人许可，并留存。",
     "options": {
       "A": "重新办理工作票",
       "B": "增添工作票份数",
@@ -998,7 +998,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9859
+    "ocrConfidence": 0.993
   },
   {
     "id": "q-0044",
@@ -1021,7 +1021,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.8696
+    "ocrConfidence": 0.9851
   },
   {
     "id": "q-0045",
@@ -1044,7 +1044,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.8822
+    "ocrConfidence": 0.9926
   },
   {
     "id": "q-0046",
@@ -1092,7 +1092,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.992
+    "ocrConfidence": 0.9919
   },
   {
     "id": "q-0048",
@@ -1115,7 +1115,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9874
+    "ocrConfidence": 0.9889
   },
   {
     "id": "q-0049",
@@ -1124,7 +1124,7 @@
     "stem": "依据变电安规，换流阀冷却系统、阀厅空调系统、火灾报警系统及图像监视系统等工作，需要将高压直流系统停用者应填用（）工作票。",
     "options": {
       "A": "二次工作安全措施",
-      "B": "第二种来一利",
+      "B": "第二种",
       "C": "第一种",
       "D": "带电作业"
     },
@@ -1138,7 +1138,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9249
+    "ocrConfidence": 0.9812
   },
   {
     "id": "q-0050",
@@ -1161,13 +1161,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9925
+    "ocrConfidence": 0.9924
   },
   {
     "id": "q-0051",
     "originalNumber": 51,
     "type": "single",
-    "stem": "依据变电安规，检修工作结束以前，对设备进行加压试验后，工作班若需继续工作时，应(）。",
+    "stem": "依据变电安规，检修工作结束以前，对设备进行加压试验后，工作班若需继续工作时，应（）。",
     "options": {
       "A": "重新履行工作许可手续",
       "B": "办理新的工作票",
@@ -1184,7 +1184,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9469
+    "ocrConfidence": 0.9923
   },
   {
     "id": "q-0052",
@@ -1207,7 +1207,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.992
+    "ocrConfidence": 0.9935
   },
   {
     "id": "q-0053",
@@ -1232,13 +1232,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9582
+    "ocrConfidence": 0.9922
   },
   {
     "id": "q-0054",
     "originalNumber": 54,
     "type": "single",
-    "stem": "依据变电安规，承发包工程中，工作票可实行“双签发”形式，签发A54、依据变电安规，承发包工程中，工作票可实行“双签发”形式。签发工作票时，双方（在工作票上分别签名，各自承担在工作票上分别签名，各自承担本部分工作票签发人相应的安全责任。",
+    "stem": "依据变电安规，承发包工程中，工作票可实行“双签发”形式。签发工作票时，双方（）在工作票上分别签名，各自承担本部分工作票签发人相应的安全责任。",
     "options": {
       "A": "工作票签发人",
       "B": "工作负责人",
@@ -1255,7 +1255,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9882
+    "ocrConfidence": 0.9933
   },
   {
     "id": "q-0055",
@@ -1278,7 +1278,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9767
+    "ocrConfidence": 0.9924
   },
   {
     "id": "q-0056",
@@ -1301,7 +1301,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9818
+    "ocrConfidence": 0.9801
   },
   {
     "id": "q-0057",
@@ -1324,13 +1324,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9934
+    "ocrConfidence": 0.993
   },
   {
     "id": "q-0058",
     "originalNumber": 58,
     "type": "single",
-    "stem": "依据变电安规，已终结的工作票、事故紧急抢修单应保存（）",
+    "stem": "依据变电安规，已终结的工作票、事故紧急抢修单应保存（）。",
     "options": {
       "A": "1个季度",
       "B": "半年",
@@ -1347,13 +1347,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.986
+    "ocrConfidence": 0.9256
   },
   {
     "id": "q-0059",
     "originalNumber": 59,
     "type": "single",
-    "stem": "依据变电安规，工作许可人在完成施工现场的安全措施后，还应对工作负责人指明（",
+    "stem": "依据变电安规，工作许可人在完成施工现场的安全措施后，还应对工作负责人指明（）。",
     "options": {
       "A": "注意事项",
       "B": "不带电设备位置",
@@ -1372,13 +1372,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9941
+    "ocrConfidence": 0.9911
   },
   {
     "id": "q-0060",
     "originalNumber": 60,
     "type": "single",
-    "stem": "依据变电安规，在 220kV 设备检修中，作业人员与邻近带电设备距离为 2. 5m时，应填用（）。",
+    "stem": "依据变电安规，在220kV设备检修中，作业人员与邻近带电设备距离为 2.5m时，应填用（）。",
     "options": {
       "A": "带电作业工作票",
       "B": "第一种工作票",
@@ -1395,13 +1395,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9555
+    "ocrConfidence": 0.9561
   },
   {
     "id": "q-0061",
     "originalNumber": 61,
     "type": "single",
-    "stem": "据变电安规第一、二种工作果和带电作业工作果的有效时间,以 ( β） 为限。",
+    "stem": "依据变电安规，第一、二种工作票和带电作业工作票的有效时间，以（）为限。",
     "options": {
       "A": "周计划指定的检修期",
       "B": "申请的检修期",
@@ -1418,7 +1418,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9752
+    "ocrConfidence": 0.9888
   },
   {
     "id": "q-0062",
@@ -1441,7 +1441,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9896
+    "ocrConfidence": 0.9904
   },
   {
     "id": "q-0063",
@@ -1452,7 +1452,7 @@
       "A": "批评教育",
       "B": "严肃指出",
       "C": "立即制止",
-      "D": "立即汇报）个月以上者，应重新学习《电力安全工作规程"
+      "D": "立即汇报"
     },
     "correctAnswer": "C",
     "sourcePage": 10,
@@ -1464,13 +1464,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9892
+    "ocrConfidence": 0.9858
   },
   {
     "id": "q-0064",
     "originalNumber": 64,
     "type": "single",
-    "stem": "依据变电安规，因故间断电气工作连续（变电部分》，并经考试合格后，方能恢复工作。",
+    "stem": "依据变电安规，因故间断电气工作连续（）个月以上者，应重新学习《电力安全工作规程变电部分》，并经考试合格后，方能恢复工作。",
     "options": {
       "A": "—",
       "B": "二",
@@ -1487,7 +1487,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9503
+    "ocrConfidence": 0.9433
   },
   {
     "id": "q-0065",
@@ -1510,7 +1510,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9935
+    "ocrConfidence": 0.9931
   },
   {
     "id": "q-0066",
@@ -1535,7 +1535,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9436
+    "ocrConfidence": 0.9508
   },
   {
     "id": "q-0067",
@@ -1558,15 +1558,15 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9928
+    "ocrConfidence": 0.9724
   },
   {
     "id": "q-0068",
     "originalNumber": 68,
     "type": "single",
-    "stem": "依据变电安规，作业人员应经医师鉴定，无妨碍工作的病症，[体格检查每（）至少一",
+    "stem": "依据变电安规，作业人员应经医师鉴定，无妨碍工作的病症，［体格检查每（）至少一次］。",
     "options": {
-      "A": "半年）至少一",
+      "A": "半年",
       "B": "一年",
       "C": "两年",
       "D": "三年"
@@ -1581,7 +1581,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9658
+    "ocrConfidence": 0.9784
   },
   {
     "id": "q-0069",
@@ -1604,7 +1604,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9505
+    "ocrConfidence": 0.991
   },
   {
     "id": "q-0070",
@@ -1627,7 +1627,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9908
+    "ocrConfidence": 0.9918
   },
   {
     "id": "q-0071",
@@ -1650,7 +1650,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.985
+    "ocrConfidence": 0.9326
   },
   {
     "id": "q-0072",
@@ -1698,7 +1698,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9907
+    "ocrConfidence": 0.9902
   },
   {
     "id": "q-0074",
@@ -1721,7 +1721,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9412
+    "ocrConfidence": 0.9295
   },
   {
     "id": "q-0075",
@@ -1767,13 +1767,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.989
+    "ocrConfidence": 0.9858
   },
   {
     "id": "q-0077",
     "originalNumber": 77,
     "type": "single",
-    "stem": "作业人员应具备必要的电气知识和业务技能，且按工作性质，熟悉《电力安全工作规程变电部分》的相关部分，并经（）",
+    "stem": "作业人员应具备必要的电气知识和业务技能，且按工作性质，熟悉《电力安全工作规程变电部分》的相关部分，并经（）。",
     "options": {
       "A": "专业培训",
       "B": "考试合格",
@@ -1790,7 +1790,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9923
+    "ocrConfidence": 0.9921
   },
   {
     "id": "q-0078",
@@ -1813,7 +1813,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9872
+    "ocrConfidence": 0.9895
   },
   {
     "id": "q-0079",
@@ -1836,7 +1836,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.984
+    "ocrConfidence": 0.9846
   },
   {
     "id": "q-0080",
@@ -1847,7 +1847,7 @@
       "A": "35kV",
       "B": "110kV",
       "C": "220kV",
-      "D": "330kV330KVBBCC"
+      "D": "330kV"
     },
     "correctAnswer": "D",
     "sourcePage": 12,
@@ -1861,18 +1861,18 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9538
+    "ocrConfidence": 0.9841
   },
   {
     "id": "q-0081",
     "originalNumber": 81,
     "type": "single",
-    "stem": "依据变电安规，如果线路上有人工作，应在线路断路器（开关）和隔离开关（刀闸）操作把手",
+    "stem": "依据变电安规，如果线路上有人工作，应在线路断路器（开关）和隔离开关（刀闸）操作把手1上悬挂（）的标示牌。",
     "options": {
       "A": "“止步，高压危险！”",
       "B": "“禁止合闸，有人工作！”",
-      "C": "“禁止合闸，线路有人工作！”",
-      "D": "“在此工作！”Y"
+      "C": "“禁止合闸，线路有人工作！",
+      "D": "“在此工作！”"
     },
     "correctAnswer": "C",
     "sourcePage": 13,
@@ -1884,7 +1884,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9155
+    "ocrConfidence": 0.9262
   },
   {
     "id": "q-0082",
@@ -1907,17 +1907,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9849
+    "ocrConfidence": 0.9854
   },
   {
     "id": "q-0083",
     "originalNumber": 83,
     "type": "single",
-    "stem": "依据变电安规，在室外高压设备上工作，工作地点四周围栏上悬挂适当数量的（）标示牌，标示牌应朝向围栏里面。你小牌应朝向围栏里面。同国仁上意挂适当数量的（）标示",
+    "stem": "依据变电安规，在室外高压设备上工作，工作地点四周围栏上悬挂适当数量的（）标示牌，标示牌应朝向围栏里面。",
     "options": {
       "A": "“从此进出！”",
       "B": "“在此工作！”",
-      "C": "“止步，高压危险！”",
+      "C": "“止步，高压危险！",
       "D": "“从此上下！”"
     },
     "correctAnswer": "C",
@@ -1930,13 +1930,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9023
+    "ocrConfidence": 0.9639
   },
   {
     "id": "q-0084",
     "originalNumber": 84,
     "type": "single",
-    "stem": "依据变电安规，任何运行中的星形接线设备的中性点，应视为（",
+    "stem": "依据变电安规，任何运行中的星形接线设备的中性点，应视为（）。",
     "options": {
       "A": "不带电设备",
       "B": "带电设备",
@@ -1953,7 +1953,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9918
+    "ocrConfidence": 0.9917
   },
   {
     "id": "q-0085",
@@ -1976,7 +1976,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.8271
+    "ocrConfidence": 0.9572
   },
   {
     "id": "q-0086",
@@ -1986,7 +1986,7 @@
     "options": {
       "A": "禁止开启",
       "B": "必须专人看守",
-      "C": "立即接地",
+      "C": "立即接地3",
       "D": "应填写在运行记录内"
     },
     "correctAnswer": "A",
@@ -1999,18 +1999,18 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9764
+    "ocrConfidence": 0.9742
   },
   {
     "id": "q-0087",
     "originalNumber": 87,
     "type": "single",
-    "stem": "0 879 体据变电安规,装、拆控地线时， 人体不得(） 接地线或未接地的导线。以防止触电。）接地线或未接地的导线，以防止触电。",
+    "stem": "依据变电安规，装、拆接地线时，人体不得（）接地线或未接地的导线，以防止触电。",
     "options": {
       "A": "靠近",
       "B": "碰触",
       "C": "临近",
-      "D": "贴近左配电装置培城线"
+      "D": "贴近"
     },
     "correctAnswer": "B",
     "sourcePage": 13,
@@ -2024,13 +2024,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.918
+    "ocrConfidence": 0.9566
   },
   {
     "id": "q-0088",
     "originalNumber": 88,
     "type": "single",
-    "stem": "C B、依据变电安挥制有配电装置上,接地线应装在该装置导电部分的规定池点。应去除这些地点的油漆或绝缘层，并划有（）标记。",
+    "stem": "依据变电安规，在配电装置上，接地线应装在该装置导电部分的规定地点，应去除这些地点的油漆或绝缘层，并划有（）标记。",
     "options": {
       "A": "红色",
       "B": "绿色",
@@ -2047,18 +2047,18 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9677
+    "ocrConfidence": 0.9742
   },
   {
     "id": "q-0089",
     "originalNumber": 89,
     "type": "single",
-    "stem": "依据变电安规，在室外商压设备上工作，若室外配电装置的大部分设备停电，只有个别地点保留有带电设备而其他设备无触及带电导体的可能时，可以在带电设备四周装设全封闭围栏，围栏上悬挂适当数量的（）标示牌，标示牌应朝向围栏外面。",
+    "stem": "依据变电安规，在室外高压设备上工作，若室外配电装置的大部分设备停电，只有个别地点保留有带电设备而其他设备无触及带电导体的可能时，可以在带电设备四周装设全封闭围栏，围栏上悬挂适当数量的（）标示牌，标示牌应朝向围栏外面。",
     "options": {
       "A": "“从此进出！”",
       "B": "“在此工作！”",
-      "C": "“止步，高压危险！”",
-      "D": "“禁止攀登，高压危险！”"
+      "C": "“止步，高压危险！",
+      "D": "“禁止攀登，高压危险！"
     },
     "correctAnswer": "C",
     "sourcePage": 15,
@@ -2070,7 +2070,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.968
+    "ocrConfidence": 0.9735
   },
   {
     "id": "q-0090",
@@ -2093,7 +2093,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9879
+    "ocrConfidence": 0.9846
   },
   {
     "id": "q-0091",
@@ -2116,17 +2116,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9675
+    "ocrConfidence": 0.9539
   },
   {
     "id": "q-0092",
     "originalNumber": 92,
     "type": "single",
-    "stem": "依据变电安规，对由于设备原因，接地刀间（装置）与检修设备之间连有断路器（开关），在接地刀闸（装置）和断路器（开关）合上后，在断路器（开关）操作把手上，应悬挂（）的标示牌。",
+    "stem": "依据变电安规，对由于设备原因，接地刀闸（装置）与检修设备之间连有断路器（开关），在接地刀闸（装置）和断路器（开关）合上后，在断路器（开关）操作把手上，应悬挂（）的标示牌。",
     "options": {
       "A": "“禁止合闸，有人工作！”",
-      "B": "“禁止分间！”",
-      "C": "“禁止合间，线路有人工作！”",
+      "B": "“禁止分闸！”",
+      "C": "“禁止合闸，线路有人工作！”",
       "D": "“止步，高压危险！”"
     },
     "correctAnswer": "B",
@@ -2139,7 +2139,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9732
+    "ocrConfidence": 0.966
   },
   {
     "id": "q-0093",
@@ -2164,13 +2164,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9902
+    "ocrConfidence": 0.9879
   },
   {
     "id": "q-0094",
     "originalNumber": 94,
     "type": "single",
-    "stem": "依据变电安规，对由于设备原因，（路）与检修设备之间连有断路器（开关），在接地刀闸（装置）和断路器（开关）合上后，在断路器（开关）操作把手上，应悬挂“禁止分闸！”的标示",
+    "stem": "依据变电安规，对由于设备原因，（）与检修设备之间连有断路器（开关），在接地刀闸（装置）和断路器（开关）合上后，在断路器（开关）操作把手上，应悬挂“禁止分闸！”的标示牌。",
     "options": {
       "A": "停电设备",
       "B": "接地刀闸（装置）",
@@ -2187,17 +2187,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.986
+    "ocrConfidence": 0.9897
   },
   {
     "id": "q-0095",
     "originalNumber": 95,
     "type": "single",
-    "stem": "依据变电安规，作业人员工作中正常活动范围与35kV设备带电部分的安全距离小于（时，设备应停电。）m",
+    "stem": "依据变电安规，作业人员工作中正常活动范围与35kV设备带电部分的安全距离小于（）m时，设备应停电。",
     "options": {
       "A": "1.5",
       "B": "1",
-      "C": "0.75A",
+      "C": "0.75",
       "D": "0.6"
     },
     "correctAnswer": "D",
@@ -2210,13 +2210,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.957
+    "ocrConfidence": 0.987
   },
   {
     "id": "q-0096",
     "originalNumber": 96,
     "type": "single",
-    "stem": "依据变电安规，与停电设备有关的变压器和电压互感器，应将设备（）断开，防止向停电检修设备反送电。中电议备有天的变压器和电压互感器，应将设备（）断开，防止向停电",
+    "stem": "依据变电安规，与停电设备有关的变压器和电压互感器，应将设备（）断开，防止向停电检修设备反送电。",
     "options": {
       "A": "各侧",
       "B": "高压侧",
@@ -2233,13 +2233,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9853
+    "ocrConfidence": 0.9868
   },
   {
     "id": "q-0097",
     "originalNumber": 97,
     "type": "single",
-    "stem": "依据变电安规，停电接地时，检修部分若分为几个在电气上不相连接的部分[如分段母线以隔离开关（刀闸）或断路器（开关）隔开分成几段]，则各段应（A）",
+    "stem": "依据变电安规，停电接地时，检修部分若分为几个在电气上不相连接的部分［如分段母线以隔离开关（刀闸）或断路器（开关）隔开分成几段］，则各段应（）。",
     "options": {
       "A": "分别验电接地短路",
       "B": "在来电侧接地短路",
@@ -2256,17 +2256,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9128
+    "ocrConfidence": 0.8916
   },
   {
     "id": "q-0098",
     "originalNumber": 98,
     "type": "single",
-    "stem": "依据变电安规，对于因平行或邻近带电设备导致检修设备可能产生感应电压时，应加装A10（）。",
+    "stem": "依据变电安规，对于因平行或邻近带电设备导致检修设备可能产生感应电压时，应加装（）。",
     "options": {
       "A": "标示牌",
       "B": "围栏",
-      "C": "隔离挡板D.",
+      "C": "隔离挡板",
       "D": "工作接地线或使用个人保安线"
     },
     "correctAnswer": "D",
@@ -2279,17 +2279,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9028
+    "ocrConfidence": 0.9354
   },
   {
     "id": "q-0099",
     "originalNumber": 99,
     "type": "single",
-    "stem": "依据变电安规，220kV设备验电时，人体应与验电设备保持（）m安全距离。A.",
+    "stem": "依据变电安规，220kV设备验电时，人体应与验电设备保持（）m安全距离。",
     "options": {
-      "A": "3B.ABCD",
-      "B": "2.8C.",
-      "C": "2.7D.",
+      "A": "3",
+      "B": "2.8",
+      "C": "2.7",
       "D": "2.55"
     },
     "correctAnswer": "A",
@@ -2304,7 +2304,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.965
+    "ocrConfidence": 0.9764
   },
   {
     "id": "q-0100",
@@ -2327,7 +2327,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9332
+    "ocrConfidence": 0.9786
   },
   {
     "id": "q-0101",
@@ -2335,9 +2335,9 @@
     "type": "single",
     "stem": "依据变电安规，室外构架上工作，在作业人员上下铁架或梯子上，应悬挂（）的标示牌。",
     "options": {
-      "A": "“禁止攀登，高压危险！”",
+      "A": "“禁止攀登，高压危险！",
       "B": "“在此工作！”",
-      "C": "“止步，高压危险！”",
+      "C": "“止步，高压危险！",
       "D": "“从此上下！”"
     },
     "correctAnswer": "D",
@@ -2350,13 +2350,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9695
+    "ocrConfidence": 0.9653
   },
   {
     "id": "q-0102",
     "originalNumber": 102,
     "type": "single",
-    "stem": "依据变电安规，接地线、接地刀闸与检修设备之间不得连有（",
+    "stem": "依据变电安规，接地线、接地刀闸与检修设备之间不得连有（）。",
     "options": {
       "A": "断路器（开关）或熔断器",
       "B": "断路器（开关）或隔离开关（刀闸）",
@@ -2373,7 +2373,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9835
+    "ocrConfidence": 0.9828
   },
   {
     "id": "q-0103",
@@ -2396,16 +2396,16 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9862
+    "ocrConfidence": 0.9861
   },
   {
     "id": "q-0104",
     "originalNumber": 104,
     "type": "single",
-    "stem": "依据变电安规，在一经合闸即可送电到工作地点的断路器（开关）和隔离开关（刀闸）的操作A把手上，均应悬挂（）的标示牌。",
+    "stem": "依据变电安规，在一经合闸即可送电到工作地点的断路器（开关）和隔离开关（刀闸）的操作把手上，均应悬挂（）的标示牌。",
     "options": {
       "A": "“禁止合闸，有人工作！”",
-      "B": "“禁止合闸，线路有人工作！”",
+      "B": "“禁止合闸，线路有人工作！",
       "C": "“禁止分闸！”",
       "D": "“禁止攀登，高压危险！”"
     },
@@ -2419,7 +2419,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9811
+    "ocrConfidence": 0.976
   },
   {
     "id": "q-0105",
@@ -2442,13 +2442,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9915
+    "ocrConfidence": 0.9907
   },
   {
     "id": "q-0106",
     "originalNumber": 106,
     "type": "single",
-    "stem": "依据变电安规，装设接地线应（",
+    "stem": "依据变电安规，装设接地线应（）。",
     "options": {
       "A": "先接电源侧，后接负荷侧",
       "B": "先接导体端，后接接地端",
@@ -2467,13 +2467,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9843
+    "ocrConfidence": 0.9772
   },
   {
     "id": "q-0107",
     "originalNumber": 107,
     "type": "single",
-    "stem": "依据变电安规，在配电装置上，接地线应装在该装置（油漆或绝缘层，并划有黑色标记。）的规定地点，应去除这些地点的",
+    "stem": "依据变电安规，在配电装置上，接地线应装在该装置（）的规定地点，应去除这些地点的油漆或绝缘层，并划有黑色标记。",
     "options": {
       "A": "导电部分",
       "B": "绝缘部分",
@@ -2490,18 +2490,18 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9941
+    "ocrConfidence": 0.9929
   },
   {
     "id": "q-0108",
     "originalNumber": 108,
     "type": "single",
-    "stem": "依据变电安规，直流换流站单极停电工作，应在双极公共区域设备与停电区域之间设置围栏，在围栏面向停电设备及运行阀厅门口悬挂（）标示牌。）标示牌。",
+    "stem": "依据变电安规，直流换流站单极停电工作，应在双极公共区域设备与停电区域之间设置围栏，在围栏面向停电设备及运行阀厅门口悬挂（）标示牌。",
     "options": {
       "A": "“止步、高压危险！”",
       "B": "“从此进出！”",
       "C": "“在此工作！”",
-      "D": "“禁止攀登，高压危险！”"
+      "D": "“禁止攀登，高压危险！"
     },
     "correctAnswer": "A",
     "sourcePage": 17,
@@ -2513,7 +2513,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9806
+    "ocrConfidence": 0.9761
   },
   {
     "id": "q-0109",
@@ -2536,13 +2536,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9915
+    "ocrConfidence": 0.9918
   },
   {
     "id": "q-0110",
     "originalNumber": 110,
     "type": "single",
-    "stem": "依据变电安规，室外构架上工作，在邻近其他可能误登的带电构架上，应悬挂（）的标示牌。）的标示",
+    "stem": "依据变电安规，室外构架上工作，在邻近其他可能误登的带电构架上，应悬挂（）的标示牌。",
     "options": {
       "A": "“禁止攀登，高压危险！”",
       "B": "“在此工作！”",
@@ -2559,7 +2559,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9781
+    "ocrConfidence": 0.977
   },
   {
     "id": "q-0111",
@@ -2582,7 +2582,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9705
+    "ocrConfidence": 0.9658
   },
   {
     "id": "q-0112",
@@ -2605,18 +2605,18 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9915
+    "ocrConfidence": 0.9922
   },
   {
     "id": "q-0113",
     "originalNumber": 113,
     "type": "single",
-    "stem": "别3依据变电安规，验电时，应使用（β），在装设接地线或合接地线刀闸（装置） 处对各相分别验电。",
+    "stem": "依据变电安规，验电时，应使用（），在装设接地线或合接地线刀闸（装置）处对各相分别验电。",
     "options": {
       "A": "不小于相应电压等级且合格的感应式验电器",
       "B": "相应电压等级且合格的接触式验电器",
-      "D": "不小于相应电压等级且合格的接触式验电器",
-      "C": "相应电压等级且合格的感应式验电器"
+      "C": "相应电压等级且合格的感应式验电器",
+      "D": "不小于相应电压等级且合格的接触式验电器"
     },
     "correctAnswer": "B",
     "sourcePage": 17,
@@ -2630,17 +2630,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9517
+    "ocrConfidence": 0.9785
   },
   {
     "id": "q-0114",
     "originalNumber": 114,
     "type": "single",
-    "stem": "依据变电安规。高压开关柜内手车开关拉出后。隔离带电部位的挡板封闭后禁止开启。并设置（）的标示牌。",
+    "stem": "依据变电安规，高压开关柜内手车开关拉出后，隔离带电部位的挡板封闭后禁止开启，并设置（）的标示牌。",
     "options": {
       "A": "“止步，高压危险！”",
       "B": "“禁止合闸，有人工作！”",
-      "C": "“禁止合间，线路有人工作！”",
+      "C": "“禁止合闸，线路有人工作！”",
       "D": "“在此工作！”"
     },
     "correctAnswer": "A",
@@ -2653,7 +2653,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9585
+    "ocrConfidence": 0.9643
   },
   {
     "id": "q-0115",
@@ -2676,13 +2676,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.987
+    "ocrConfidence": 0.9798
   },
   {
     "id": "q-0116",
     "originalNumber": 116,
     "type": "single",
-    "stem": "依据变电安规，个人保安线由（",
+    "stem": "依据变电安规，个人保安线由（）。",
     "options": {
       "A": "作业人员自装自拆",
       "B": "工作许可人装拆",
@@ -2699,7 +2699,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9893
+    "ocrConfidence": 0.9919
   },
   {
     "id": "q-0117",
@@ -2722,13 +2722,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9887
+    "ocrConfidence": 0.99
   },
   {
     "id": "q-0118",
     "originalNumber": 118,
     "type": "single",
-    "stem": "依据变电安规，高压验电应（",
+    "stem": "依据变电安规，高压验电应（）。",
     "options": {
       "A": "戴线手套",
       "B": "穿防电弧服",
@@ -2745,7 +2745,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9794
+    "ocrConfidence": 0.9854
   },
   {
     "id": "q-0119",
@@ -2753,9 +2753,9 @@
     "type": "single",
     "stem": "依据变电安规，在室外构架上工作，则应在工作地点邻近带电部分的横梁上，悬挂（）的标示牌。",
     "options": {
-      "A": "“禁止攀登，高压危险！”",
+      "A": "“禁止攀登，高压危险！",
       "B": "“在此工作！”",
-      "C": "“止步，高压危险！”",
+      "C": "“止步，高压危险！",
       "D": "“从此上下！”"
     },
     "correctAnswer": "C",
@@ -2770,13 +2770,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9763
+    "ocrConfidence": 0.9675
   },
   {
     "id": "q-0120",
     "originalNumber": 120,
     "type": "single",
-    "stem": "依据变电安规，在室外高压设备上工作，应在工作地点四周装设围栏，其出入口要围至临近道路旁边，并设有（）的标示牌。在工作地点四局表设围栏，其出入口要围至临近道",
+    "stem": "依据变电安规，在室外高压设备上工作，应在工作地点四周装设围栏，其出入口要围至临近道路旁边，并设有（）的标示牌。",
     "options": {
       "A": "“在此工作！”",
       "B": "“从此进出！”",
@@ -2793,13 +2793,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9742
+    "ocrConfidence": 0.9639
   },
   {
     "id": "q-0121",
     "originalNumber": 121,
     "type": "single",
-    "stem": "依据变电安规，直流换流站单极停电工作，在检修阀厅和直流场设备处设置（牌。）的标示",
+    "stem": "依据变电安规，直流换流站单极停电工作，在检修阀厅和直流场设备处设置（）的标示牌。",
     "options": {
       "A": "“止步、高压危险！”",
       "B": "“从此进出！”",
@@ -2816,13 +2816,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9778
+    "ocrConfidence": 0.9742
   },
   {
     "id": "q-0122",
     "originalNumber": 122,
     "type": "single",
-    "stem": "依据变电安规，作业人员工作中正常活动范围与110kV设备带电部分的安全距离小于（m时，设备应停电。",
+    "stem": "依据变电安规，作业人员工作中正常活动范围与110kV设备带电部分的安全距离小于（）m时，设备应停电。",
     "options": {
       "A": "1.5",
       "B": "1.75",
@@ -2839,13 +2839,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9899
+    "ocrConfidence": 0.9892
   },
   {
     "id": "q-0123",
     "originalNumber": 123,
     "type": "single",
-    "stem": "依据变电安规，降压变电站全部停电时，应将各个可能来电侧的部分接地短路，其余部分不必每段都装设接地线或（",
+    "stem": "依据变电安规，降压变电站全部停电时，应将各个可能来电侧的部分接地短路，其余部分不必每段都装设接地线或（）。",
     "options": {
       "A": "合上隔离开关",
       "B": "合上断路器",
@@ -2862,7 +2862,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9917
+    "ocrConfidence": 0.9928
   },
   {
     "id": "q-0124",
@@ -2885,18 +2885,18 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9517
+    "ocrConfidence": 0.993
   },
   {
     "id": "q-0125",
     "originalNumber": 125,
     "type": "single",
-    "stem": "依据变电安规，作业人员工作中正常活动范围与 220kV 设备带电部分的安全距离小于（BBCm时，设备应停电。",
+    "stem": "依据变电安规，作业人员工作中正常活动范围与220kV设备带电部分的安全距离小于（）m时，设备应停电。",
     "options": {
-      "A": "3要",
+      "A": "3",
       "B": "3.35",
-      "C": "3.5B13",
-      "D": "4要"
+      "C": "3.5",
+      "D": "4B要"
     },
     "correctAnswer": "A",
     "sourcePage": 19,
@@ -2908,18 +2908,18 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9664
+    "ocrConfidence": 0.9797
   },
   {
     "id": "q-0126",
     "originalNumber": 126,
     "type": "single",
-    "stem": "据变电安规，检信设备停电，应拉开隔离开关（刀闸） 。 （） 应拉至试验或检修位量。",
+    "stem": "依据变电安规，检修设备停电，应拉开隔离开关（刀闸），（）应拉至试验或检修位置，应使各方面有一个明显的断开点。",
     "options": {
-      "C": "应使各方面有一个明显的断开点。手车开关",
-      "A": "隔离开关（刀闸）D.",
+      "A": "隔离开关（刀闸）",
       "B": "断路器（开关）",
-      "D": "保护切换开关进行福作站新股服"
+      "C": "手车开关",
+      "D": "保护切换开关"
     },
     "correctAnswer": "C",
     "sourcePage": 19,
@@ -2933,13 +2933,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9064
+    "ocrConfidence": 0.9787
   },
   {
     "id": "q-0127",
     "originalNumber": 127,
     "type": "single",
-    "stem": "依据变电安规、在显示展上进行操作的路易（开关）和隔离开关（刀用）的操作处应设置12条止合围，有人工作!”或“禁止合闸，线路有人工作！”和以及开”）的标记。",
+    "stem": "依据变电安规，在显示屏上进行操作的断路器（开关）和隔离开关（刀闸）的操作处均应设置“禁止合闸，有人工作！”或“禁止合闸，线路有人工作！”以及（）的标记。",
     "options": {
       "A": "“止步，高压危险！”",
       "B": "“禁止分闸！”",
@@ -2956,13 +2956,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9307
+    "ocrConfidence": 0.9065
   },
   {
     "id": "q-0128",
     "originalNumber": 128,
     "type": "single",
-    "stem": "依据变电安规，在手车开关拉出后，应观察隔离挡板是否可靠封闭。封闭式组合电器引出电缆。备用孔或母线的终端备用孔应用（）封闭。",
+    "stem": "依据变电安规，在手车开关拉出后，应观察隔离挡板是否可靠封闭。封闭式组合电器引出电缆备用孔或母线的终端备用孔应用（）封闭。",
     "options": {
       "A": "专用器具",
       "B": "临时隔板",
@@ -2979,13 +2979,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.984
+    "ocrConfidence": 0.9713
   },
   {
     "id": "q-0129",
     "originalNumber": 129,
     "type": "single",
-    "stem": "依据变电安规，全部停电的工作，是指室内高压设备全部停电（包括架空线路与电缆引入线在）的门全部闭锁，以及室外高压设备全部停电（包括架空线路与电缆引内），并且通至邻接（入线在内）的工作。",
+    "stem": "依据变电安规，全部停电的工作，是指室内高压设备全部停电（包括架空线路与电缆引入线在内），并且通至邻接（）的门全部闭锁，以及室外高压设备全部停电（包括架空线路与电缆引入线在内）的工作。",
     "options": {
       "A": "保护室",
       "B": "蓄电池室",
@@ -3002,7 +3002,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9875
+    "ocrConfidence": 0.9894
   },
   {
     "id": "q-0130",
@@ -3025,7 +3025,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9797
+    "ocrConfidence": 0.9911
   },
   {
     "id": "q-0131",
@@ -3048,7 +3048,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9841
+    "ocrConfidence": 0.984
   },
   {
     "id": "q-0132",
@@ -3073,13 +3073,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9808
+    "ocrConfidence": 0.9837
   },
   {
     "id": "q-0133",
     "originalNumber": 133,
     "type": "single",
-    "stem": "依据变电安规，在高压设备上工作，应至少由（正商应以街工工作，应至少亩（术措施。）进行，并完成保证安全的组织措施和技",
+    "stem": "依据变电安规，在高压设备上工作，应至少由（）进行，并完成保证安全的组织措施和技术措施。",
     "options": {
       "A": "一人",
       "B": "两人",
@@ -3096,13 +3096,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9362
+    "ocrConfidence": 0.9779
   },
   {
     "id": "q-0134",
     "originalNumber": 134,
     "type": "single",
-    "stem": "依据变电安规，无论高压设备是否带电，作业人员不得单独移开或越过遮栏进行工作；若有必要移开遮栏时，应有监护人在场，并符合（）的安全距离。",
+    "stem": "依据变电安规，无论高压设备是否带电，作业人员不得单独移开或越过速栏进行工作；若有必要移开遮栏时，应有监护人在场，并符合（）的安全距离。",
     "options": {
       "A": "设备停电时",
       "B": "设备不停电时",
@@ -3119,7 +3119,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9913
+    "ocrConfidence": 0.9894
   },
   {
     "id": "q-0135",
@@ -3127,7 +3127,7 @@
     "type": "single",
     "stem": "依据变电安规，高压设备发生接地时，室内人员应距离故障点（）m以外。",
     "options": {
-      "A": "1)m以外。",
+      "A": "1",
       "B": "2",
       "C": "3",
       "D": "4"
@@ -3142,13 +3142,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9793
+    "ocrConfidence": 0.9873
   },
   {
     "id": "q-0136",
     "originalNumber": 136,
     "type": "single",
-    "stem": "依据变电安规，待用间隔（母线连接排、引线已接上母线的备用问隔）应有（），并列入调度控制中心管辖范围。",
+    "stem": "依据变电安规，待用间隔（母线连接排、引线已接上母线的备用间隔）应有（），并列入调度控制中心管辖范围。",
     "options": {
       "A": "名称",
       "B": "编号",
@@ -3165,13 +3165,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9834
+    "ocrConfidence": 0.9758
   },
   {
     "id": "q-0137",
     "originalNumber": 137,
     "type": "single",
-    "stem": "依据变电安规，高压设备发生接地时，室外人员应距离故障点（)m以外。",
+    "stem": "依据变电安规，高压设备发生接地时，室外人员应距离故障点（）m以外。",
     "options": {
       "A": "2",
       "B": "4",
@@ -3188,13 +3188,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9719
+    "ocrConfidence": 0.988
   },
   {
     "id": "q-0138",
     "originalNumber": 138,
     "type": "single",
-    "stem": "依据变电安规，户外220kV 高压配电装置场所的行车通道上，车辆（包括装载物）外廓至无遮拦带电部分之间的安全距离为（)m。",
+    "stem": "依据变电安规，户外220kV高压配电装置场所的行车通道上，车辆（包括装载物）外廓至无遮拦带电部分之间的安全距离为（）m。",
     "options": {
       "A": "2.55",
       "B": "2.35",
@@ -3211,17 +3211,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9674
+    "ocrConfidence": 0.9629
   },
   {
     "id": "q-0139",
     "originalNumber": 139,
     "type": "single",
-    "stem": "依据变电安规，运行中的高压设备，其中性点接地系统的中性点应视作（",
+    "stem": "依据变电安规，运行中的高压设备，其中性点接地系统的中性点应视作（）。",
     "options": {
       "A": "带电体",
       "B": "停电设备",
-      "C": "检修设备检修议",
+      "C": "检修设备",
       "D": "试验设备"
     },
     "correctAnswer": "A",
@@ -3236,13 +3236,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9882
+    "ocrConfidence": 0.9762
   },
   {
     "id": "q-0140",
     "originalNumber": 140,
     "type": "single",
-    "stem": "依据变电安规。 在高压设备上工作，应至少由两人进行，并完成保证安全的（",
+    "stem": "依据变电安规。 在高压设备上工作，应至少由两人进行，并完成保证安全的（）。",
     "options": {
       "A": "技术措施和应急措施",
       "B": "组织措施和现场措施",
@@ -3259,13 +3259,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.987
+    "ocrConfidence": 0.9839
   },
   {
     "id": "q-0141",
     "originalNumber": 141,
     "type": "single",
-    "stem": "依据变电安规， 雷雨天气，需要巡视室外高压设备时，应穿（β），并不准靠近避雷器和避雷针。",
+    "stem": "依据变电安规，雷雨天气，需要巡视室外高压设备时，应穿（），并不准靠近避雷器和避雷针。",
     "options": {
       "A": "雨鞋",
       "B": "绝缘靴",
@@ -3282,7 +3282,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.977
+    "ocrConfidence": 0.9751
   },
   {
     "id": "q-0142",
@@ -3305,13 +3305,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.972
+    "ocrConfidence": 0.968
   },
   {
     "id": "q-0143",
     "originalNumber": 143,
     "type": "single",
-    "stem": "依据变电安规，待用间隔（母线连接排、引线已接上母线的备用间隔）应有名称、编号，并列入调度控制中心管辖范围。其隔离开关（刀闸）操作手柄、网门应（",
+    "stem": "依据变电安规，待用间隔（母线连接排、引线已接上母线的备用间隔）应有名称、编号，并列入调度控制中心管辖范围。其隔离开关（刀闸）操作手柄、网门应（）。",
     "options": {
       "A": "加锁",
       "B": "悬挂标示牌",
@@ -3328,13 +3328,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9849
+    "ocrConfidence": 0.9356
   },
   {
     "id": "q-0144",
     "originalNumber": 144,
     "type": "single",
-    "stem": "依据变电安规，换流站内，运行中高压直流系统直流场中性区域设备、站内临时接地极、接地极线路及接地极均应视为（）",
+    "stem": "依据变电安规，换流站内，运行中高压直流系统直流场中性区域设备、站内临时接地极、接地极线路及接地极均应视为（）。",
     "options": {
       "A": "非带电体",
       "B": "带电体",
@@ -3351,7 +3351,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9916
+    "ocrConfidence": 0.9903
   },
   {
     "id": "q-0145",
@@ -3374,7 +3374,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9917
+    "ocrConfidence": 0.9922
   },
   {
     "id": "q-0146",
@@ -3384,8 +3384,8 @@
     "options": {
       "A": "60",
       "B": "80",
-      "D": "00.120",
-      "C": "100"
+      "C": "100",
+      "D": "120"
     },
     "correctAnswer": "C",
     "sourcePage": 22,
@@ -3399,13 +3399,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9329
+    "ocrConfidence": 0.9907
   },
   {
     "id": "q-0147",
     "originalNumber": 147,
     "type": "single",
-    "stem": "依据变电安规触电伤员脱离成147、依据变电安规，触电伤员脱离电源后，正确的抢救体位是（",
+    "stem": "依据变电安规，触电伤员脱离电源后，正确的抢救体位是（）。",
     "options": {
       "A": "左侧卧位",
       "B": "右侧卧位",
@@ -3422,7 +3422,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9777
+    "ocrConfidence": 0.9923
   },
   {
     "id": "q-0148",
@@ -3430,10 +3430,10 @@
     "type": "single",
     "stem": "依据变电安规，触电急救应分秒必争，一经明确心跳、呼吸停止的，立即就地迅速用（）进行抢救，并坚持不断地进行，同时及早与医疗急救中心（医疗部门）联系，争取医务人员接替救治。",
     "options": {
-      "A": "心脏按压法",
+      "A": "心胆按压法",
       "B": "口对口呼吸法",
       "C": "口对鼻呼吸法",
-      "D": "心肺复苏法人心肺复苏法"
+      "D": "心肺复苏法"
     },
     "correctAnswer": "D",
     "sourcePage": 23,
@@ -3445,13 +3445,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9851
+    "ocrConfidence": 0.9792
   },
   {
     "id": "q-0149",
     "originalNumber": 149,
     "type": "single",
-    "stem": "依据变电安规，触电急救脱离电源，就是要把电者接触的那一部分带电设备的（）断路）断路器（开关）、隔离开关（刀间）或其他断路设备断开；或设法将触电者与带电设备脱离开。",
+    "stem": "依据变电安规，触电急救脱离电源，就是要把触电者接触的那一部分带电设备的（）断路器（开关）、隔离开关（刀闸）或其他断路设备断开；或设法将触电者与带电设备脱离开。",
     "options": {
       "A": "有关",
       "B": "所有",
@@ -3468,7 +3468,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9792
+    "ocrConfidence": 0.9824
   },
   {
     "id": "q-0150",
@@ -3491,17 +3491,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9706
+    "ocrConfidence": 0.9581
   },
   {
     "id": "q-0151",
     "originalNumber": 151,
     "type": "single",
-    "stem": "依据变电安规，进行心肺复苏法时，如有担架搬运伤员，应该持续做心肺复苏，中断时间不超居受电安规，进行心肿爱办法的，如有担架搬运伤员，应该持续微心肺复办，中断时间不超过（）s。",
+    "stem": "依据变电安规，进行心肺复苏法时，如有担架搬运伤员，应该持续做心肺复苏，中断时间不超过（）s。",
     "options": {
       "A": "5",
       "B": "10",
-      "C": "30AB0",
+      "C": "30",
       "D": "60"
     },
     "correctAnswer": "A",
@@ -3514,7 +3514,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9438
+    "ocrConfidence": 0.9498
   },
   {
     "id": "q-0152",
@@ -3539,17 +3539,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9803
+    "ocrConfidence": 0.9837
   },
   {
     "id": "q-0153",
     "originalNumber": 153,
     "type": "single",
-    "stem": "依据交电安规，触电急效，在医务人员（）前，不得放弃现场抢救，更不能只根据没有呼吸或脉搏的表现，擅自判定伤员死亡，放弃抢救。又并现场抢效，更不能只粮据没有呼",
+    "stem": "依据变电安规，触电急救，在医务人员（）前，不得放弃现场抢救，更不能只根据没有呼吸或脉搏的表现，擅自判定伤员死亡，放弃抢救。",
     "options": {
       "A": "未到达",
       "B": "未接替救治",
-      "C": "作出死亡诊断吸或脉搏表现",
+      "C": "作出死亡诊断",
       "D": "判断呼吸或脉搏表现"
     },
     "correctAnswer": "B",
@@ -3562,7 +3562,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9548
+    "ocrConfidence": 0.8787
   },
   {
     "id": "q-0154",
@@ -3585,13 +3585,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9752
+    "ocrConfidence": 0.9897
   },
   {
     "id": "q-0155",
     "originalNumber": 155,
     "type": "multiple",
-    "stem": "依据变电安规。 供电单位或施工单位到用户变电站内施工时，工作票应白有权签发工作票的（）签发。",
+    "stem": "依据变电安规，供电单位或施工单位到用户变电站内施工时，工作票应由有权签发工作票的（）签发。",
     "options": {
       "A": "用户单位",
       "B": "施工单位",
@@ -3608,7 +3608,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9753
+    "ocrConfidence": 0.9693
   },
   {
     "id": "q-0156",
@@ -3631,7 +3631,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9787
+    "ocrConfidence": 0.9774
   },
   {
     "id": "q-0157",
@@ -3654,7 +3654,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9761
+    "ocrConfidence": 0.9768
   },
   {
     "id": "q-0158",
@@ -3677,7 +3677,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9842
+    "ocrConfidence": 0.983
   },
   {
     "id": "q-0159",
@@ -3725,16 +3725,16 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9883
+    "ocrConfidence": 0.9687
   },
   {
     "id": "q-0161",
     "originalNumber": 161,
     "type": "multiple",
-    "stem": "依据变电安规，以下属于专责监护人的安全责任是（",
+    "stem": "依据变电安规，以下属于专责监护人的安全责任是（）。",
     "options": {
       "A": "负责检查工作票所列安全措施是否正确完备，是否符合现场实际条件，必要时予以补充",
-      "B": "确认被监护人员和监护范围ACI",
+      "B": "确认被监护人员和监护范围",
       "C": "工作前，对被监护人员交待监护范围内的安全措施、告知危险点和安全注意事项",
       "D": "监督被监护人员遵守本规程和现场安全措施，及时纠正被监护人员的不安全行为"
     },
@@ -3748,13 +3748,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9753
+    "ocrConfidence": 0.9727
   },
   {
     "id": "q-0162",
     "originalNumber": 162,
     "type": "multiple",
-    "stem": "依据变电安规，第一种工作票应在工作前一日预先送达运维人员，可（）。但传真传送的工作票许可应待正式工作票到达后履行。运维人负，可（）。但传真传送的",
+    "stem": "依据变电安规，第一种工作票应在工作前一日预先送达运维人员，可（）。但传真传送的工作票许可应待正式工作票到达后履行。",
     "options": {
       "A": "直接送达",
       "B": "通过传真传送",
@@ -3771,7 +3771,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9569
+    "ocrConfidence": 0.9773
   },
   {
     "id": "q-0163",
@@ -3794,13 +3794,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9907
+    "ocrConfidence": 0.9815
   },
   {
     "id": "q-0164",
     "originalNumber": 164,
     "type": "multiple",
-    "stem": "依据变电安规，在原工作票的停电及安全措施范围内增加工作任务时，应由工作负责人征得BC（）同意，并在工作票上增填工作项目。",
+    "stem": "依据变电安规，在原工作票的停电及安全措施范围内增加工作任务时，应由工作负责人征得（）同意，并在工作票上增填工作项目。",
     "options": {
       "A": "工作票签发人",
       "B": "单位主管领导",
@@ -3817,13 +3817,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9859
+    "ocrConfidence": 0.9868
   },
   {
     "id": "q-0165",
     "originalNumber": 165,
     "type": "multiple",
-    "stem": "依据变电安规，工作终结后，还需完成以下（）工作，工作票方告终结。BcD",
+    "stem": "依据变电安规，工作终结后，还需完成以下（）工作，工作票方告终结。",
     "options": {
       "A": "拆除工作票上的临时遮栏",
       "B": "取下标示牌",
@@ -3840,18 +3840,18 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9669
+    "ocrConfidence": 0.9493
   },
   {
     "id": "q-0166",
     "originalNumber": 166,
     "type": "multiple",
-    "stem": "依据变电安规，在电气设备上工作，保证安全的组织措施有（",
+    "stem": "依据变电安规，在电气设备上工作，保证安全的组织措施有（）。",
     "options": {
       "A": "现场勘察制度",
       "B": "工作票制度",
       "C": "工作许可制度",
-      "D": "停电、验电、接地停电、验电、"
+      "D": "停电、验电、接地"
     },
     "correctAnswer": "ABC",
     "sourcePage": 25,
@@ -3865,13 +3865,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9942
+    "ocrConfidence": 0.9837
   },
   {
     "id": "q-0167",
     "originalNumber": 167,
     "type": "multiple",
-    "stem": "依指支主安报，工作进入，厂遇行线路、也缆等工作。GB虚墙填工作票份数，由变电站或发电厂工作许可人许可，并留存。上选单位的线路关运维单位备案。送有关运维单位备案。",
+    "stem": "依据变电安规，持线路或电缆工作票进入变电站或发电厂升压站进行架空线路、电缆等工作，应增填工作票份数，由变电站或发电厂工作许可人许可，并留存。上述单位的（）名单应事先送有关运维单位备案。",
     "options": {
       "A": "工作票签发人",
       "B": "工作负责人",
@@ -3888,13 +3888,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9034
+    "ocrConfidence": 0.9046
   },
   {
     "id": "q-0168",
     "originalNumber": 168,
     "type": "multiple",
-    "stem": "AcD 16 据变电安数规 检作工作结束以前、 若需将设备试加工作电压， 应按下列 ( ± ) 条件进行:",
+    "stem": "依据变电安规，检修工作结束以前，若需将设备试加工作电压，应按下列（）条件进行：",
     "options": {
       "A": "全体作业人员撤离工作地点",
       "B": "将该系统的所有工作票全部终结",
@@ -3911,13 +3911,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9494
+    "ocrConfidence": 0.9503
   },
   {
     "id": "q-0169",
     "originalNumber": 169,
     "type": "multiple",
-    "stem": "依据变电安规，关于现场人员变更，下列说法正确的是（",
+    "stem": "依据变电安规，关于现场人员变更，下列说法正确的是（）。",
     "options": {
       "A": "工作负责人允许变更一次",
       "B": "非特殊情况不得变更工作负责人",
@@ -3934,7 +3934,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9906
+    "ocrConfidence": 0.9884
   },
   {
     "id": "q-0170",
@@ -3957,7 +3957,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9885
+    "ocrConfidence": 0.9856
   },
   {
     "id": "q-0171",
@@ -3980,7 +3980,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9871
+    "ocrConfidence": 0.9847
   },
   {
     "id": "q-0172",
@@ -4009,9 +4009,9 @@
     "id": "q-0173",
     "originalNumber": 173,
     "type": "multiple",
-    "stem": "依据变电安规，工作票签发人的安全责任有（",
+    "stem": "依据变电安规，工作票签发人的安全责任有（）。",
     "options": {
-      "A": "确认工作必要性和安全性工作必要性和安全性",
+      "A": "确认工作必要性和安全性",
       "B": "确认工作票上所填安全措施是否正确完备",
       "C": "确认所派工作负责人和工作班人员是否适当和充足",
       "D": "确认工作班成员的工作能力"
@@ -4028,13 +4028,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9701
+    "ocrConfidence": 0.9917
   },
   {
     "id": "q-0174",
     "originalNumber": 174,
     "type": "multiple",
-    "stem": "依据变电安规、在同一电气连接部分用同一张工作票依次在几个工作地点转移工作时，工作负责人应向作业人员交待（",
+    "stem": "依据变电安规，在同一电气连接部分用同一张工作票依次在几个工作地点转移工作时，工作负责人应向作业人员交待（）。",
     "options": {
       "A": "带电范围",
       "B": "安全措施",
@@ -4051,7 +4051,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9896
+    "ocrConfidence": 0.9847
   },
   {
     "id": "q-0175",
@@ -4074,7 +4074,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.8942
+    "ocrConfidence": 0.972
   },
   {
     "id": "q-0176",
@@ -4097,17 +4097,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9887
+    "ocrConfidence": 0.9893
   },
   {
     "id": "q-0177",
     "originalNumber": 177,
     "type": "multiple",
-    "stem": "依据变电安规，所有工作人员（包括工作负责人）不许单独进入、滞留在（",
+    "stem": "依据变电安规，所有工作人员（包括工作负责人）不许单独进入、滞留在（）。",
     "options": {
       "A": "高压室",
       "B": "室外高压设备区内",
-      "C": "阀厅内",
+      "C": "阀厅内出",
       "D": "控制室内"
     },
     "correctAnswer": "ABC",
@@ -4120,16 +4120,16 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9506
+    "ocrConfidence": 0.9347
   },
   {
     "id": "q-0178",
     "originalNumber": 178,
     "type": "multiple",
-    "stem": "依据变电安规，下列关于工作票的有效期与延期，正确的叙述包括（",
+    "stem": "依据变电安规，下列关于工作票的有效期与延期，正确的叙述包括（）。",
     "options": {
       "A": "第一、二种工作票和带电作业工作票的有效时间，以批准的检修期为限",
-      "B": "第一种工作票只能延期一次A.",
+      "B": "第一种工作票只能延期一次",
       "C": "第二种工作票只能延期一次",
       "D": "带电作业工作票可以延期一次"
     },
@@ -4143,7 +4143,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9758
+    "ocrConfidence": 0.9755
   },
   {
     "id": "q-0179",
@@ -4152,8 +4152,8 @@
     "stem": "依据变电安规，在电气设备上的工作，应填用工作票或事故紧急抢修单，其方式有以下（）。",
     "options": {
       "A": "变电站（发电厂）第一种、第二种工作票",
-      "B": "电力电缆第一种、第二种工作票A.",
-      "C": "变电站（发电厂）带电作业工作票B.ABCD",
+      "B": "电力电缆第一种、第二种工作票",
+      "C": "变电站（发电厂）带电作业工作票",
       "D": "变电站（发电厂）事故紧急抢修单"
     },
     "correctAnswer": "ABCD",
@@ -4166,7 +4166,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9587
+    "ocrConfidence": 0.972
   },
   {
     "id": "q-0180",
@@ -4191,7 +4191,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9295
+    "ocrConfidence": 0.9327
   },
   {
     "id": "q-0181",
@@ -4214,13 +4214,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9497
+    "ocrConfidence": 0.9563
   },
   {
     "id": "q-0182",
     "originalNumber": 182,
     "type": "multiple",
-    "stem": "依据变电安规， 参与公司系统所承担电气工作的外单位或外来工作人员工作前，设备运维管理单位应告知（",
+    "stem": "依据变电安规，参与公司系统所承担电气工作的外单位或外来工作人员工作前，设备运维管理单位应告知（）。",
     "options": {
       "A": "作业时间",
       "B": "现场电气设备接线情况",
@@ -4237,7 +4237,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.987
+    "ocrConfidence": 0.9694
   },
   {
     "id": "q-0183",
@@ -4260,13 +4260,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9936
+    "ocrConfidence": 0.9924
   },
   {
     "id": "q-0184",
     "originalNumber": 184,
     "type": "multiple",
-    "stem": "依据变电安规，各类作业人员应被告知其作业现场和工作岗位（1",
+    "stem": "依据变电安规，各类作业人员应被告知其作业现场和工作岗位（）。",
     "options": {
       "A": "存在的危险因素",
       "B": "反事故措施",
@@ -4283,13 +4283,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9697
+    "ocrConfidence": 0.9818
   },
   {
     "id": "q-0185",
     "originalNumber": 185,
     "type": "multiple",
-    "stem": "依据变电安规，各类作业人员有权拒绝（",
+    "stem": "依据变电安规，各类作业人员有权拒绝（）。",
     "options": {
       "A": "违章指挥",
       "B": "强令冒险作业",
@@ -4306,7 +4306,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9793
+    "ocrConfidence": 0.9846
   },
   {
     "id": "q-0186",
@@ -4316,7 +4316,7 @@
     "options": {
       "A": "停止作业",
       "B": "在采取可能的紧急措施后撤离作业场所",
-      "C": "结京工作票",
+      "C": "终结工作票",
       "D": "立即离开作业现场"
     },
     "correctAnswer": "AB",
@@ -4331,7 +4331,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9873
+    "ocrConfidence": 0.9761
   },
   {
     "id": "q-0187",
@@ -4354,13 +4354,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9779
+    "ocrConfidence": 0.9723
   },
   {
     "id": "q-0188",
     "originalNumber": 188,
     "type": "multiple",
-    "stem": "依据变电安规，设备双重名称即设备（",
+    "stem": "依据变电安规，设备双重名称即设备（）。",
     "options": {
       "A": "名称",
       "B": "状态",
@@ -4377,13 +4377,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9911
+    "ocrConfidence": 0.9859
   },
   {
     "id": "q-0189",
     "originalNumber": 189,
     "type": "multiple",
-    "stem": "依据变电安规，工作地点，应停电的设备包括：带电部分在作业人员（），且无可靠安全），且无可靠安全措施的设备",
+    "stem": "依据变电安规，工作地点，应停电的设备包括：带电部分在作业人员（），且无可靠安全措施的设备。",
     "options": {
       "A": "前面",
       "B": "后面",
@@ -4400,7 +4400,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9692
+    "ocrConfidence": 0.965
   },
   {
     "id": "q-0190",
@@ -4423,15 +4423,15 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.8881
+    "ocrConfidence": 0.9642
   },
   {
     "id": "q-0191",
     "originalNumber": 191,
     "type": "multiple",
-    "stem": "依据变电安规，若室外配电装置的大部分设备停电，只有个别地点保留有带电设备而其他设备无触及带电导体的可能时，以下做法正确的是（）",
+    "stem": "依据变电安规，若室外配电装置的大部分设备停电，只有个别地点保留有带电设备而其他设备无触及带电导体的可能时，以下做法正确的是（）。",
     "options": {
-      "A": "在带电设各四周装设全封闭围栏",
+      "A": "在带电设备四周装设全封闭围栏",
       "B": "围栏上悬挂适当数量的“止步，高压危险！”标示牌AcD",
       "C": "标示牌应朝向围栏外面",
       "D": "标示牌应朝向围栏里面"
@@ -4446,15 +4446,15 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9005
+    "ocrConfidence": 0.9419
   },
   {
     "id": "q-0192",
     "originalNumber": 192,
     "type": "multiple",
-    "stem": "依据变电安规，当验明设备确已无电压后，应立即将检修设备（",
+    "stem": "依据变电安规，当验明设备确已无电压后，应立即将检修设备（）。",
     "options": {
-      "A": "挂标示牌ABCPJC",
+      "A": "挂标示牌",
       "B": "装设围栏",
       "C": "接地",
       "D": "三相短路"
@@ -4469,7 +4469,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9092
+    "ocrConfidence": 0.985
   },
   {
     "id": "q-0193",
@@ -4494,13 +4494,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9604
+    "ocrConfidence": 0.8401
   },
   {
     "id": "q-0194",
     "originalNumber": 194,
     "type": "multiple",
-    "stem": "依据以进行间接验电，即通过设备的（）及各种遥测、遥信等信号的变化来判断。设备和雨雪天气时的户外设备，可",
+    "stem": "依据变电安规，对无法进行直接验电的设备、高压直流输电设备和雨雪天气时的户外设备，可进行间接验电，即通过设备的（）及各种遥测、遥信等信号的变化来判断。",
     "options": {
       "A": "机械指示位置",
       "B": "电气指示",
@@ -4517,13 +4517,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9719
+    "ocrConfidence": 0.9568
   },
   {
     "id": "q-0195",
     "originalNumber": 195,
     "type": "multiple",
-    "stem": "依据变电安规，在电气设备上工作， 保证安全的技术措施白（）执行。",
+    "stem": "依据变电安规，在电气设备上工作，保证安全的技术措施由（）执行。",
     "options": {
       "A": "调控人员",
       "B": "检修人员",
@@ -4540,13 +4540,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9846
+    "ocrConfidence": 0.9885
   },
   {
     "id": "q-0196",
     "originalNumber": 196,
     "type": "multiple",
-    "stem": "依据变电安规，电气设备上工作，检修设备和可能来电侧的断路器（开关）、隔离开关（刀闸）应断开（），隔离开关（刀间）操作把手应锁住，确保不会误送电。",
+    "stem": "依据变电安规，电气设备上工作，检修设备和可能来电侧的断路器（开关）、隔离开关（刀闸）应断开（），隔离开关（刀闸）操作把手应锁住，确保不会误送电。",
     "options": {
       "A": "控制电源和保护出口压板",
       "B": "合闸电源和保护出口压板",
@@ -4563,13 +4563,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9855
+    "ocrConfidence": 0.9886
   },
   {
     "id": "q-0197",
     "originalNumber": 197,
     "type": "multiple",
-    "stem": "依据变电安规，在无绝缘隔板，安全遮拦措施的35kv设备处工作，工作人员工作中正常活动范围与设备带电部分的距离为（））m时，设备应停电。",
+    "stem": "依据变电安规，在无绝缘隔板，安全遮拦措施的35kv设备处工作，工作人员工作中正常活动范围与设备带电部分的距离为（）m时，设备应停电。",
     "options": {
       "A": "1",
       "B": "0.9",
@@ -4586,13 +4586,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9836
+    "ocrConfidence": 0.98
   },
   {
     "id": "q-0198",
     "originalNumber": 198,
     "type": "multiple",
-    "stem": "依据变电安规，装拆接地线，以下做法正确的是（）",
+    "stem": "依据变电安规，装拆接地线，以下做法正确的是（）。",
     "options": {
       "A": "装设接地线应先接接地端，后接导体端，接地线应接触良好，连接应可靠",
       "B": "装设接地线应先接导体端，后接接地端，接地线应接触良好，连接应可靠",
@@ -4609,7 +4609,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9888
+    "ocrConfidence": 0.9829
   },
   {
     "id": "q-0199",
@@ -4617,7 +4617,7 @@
     "type": "multiple",
     "stem": "依据变电安规，在室内高压设备上工作，应在（）悬挂“止步，高压危险！”的标示牌。",
     "options": {
-      "A": "工作地点两旁运行设各间隔的遮栏（围栏）上",
+      "A": "工作地点两旁运行设备间隔的遮栏（围栏）上",
       "B": "工作地点对面运行设备间隔的遮栏（围栏）上",
       "C": "禁止通行的过道遮栏（围栏）上",
       "D": "检修设备上"
@@ -4632,13 +4632,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.968
+    "ocrConfidence": 0.974
   },
   {
     "id": "q-0200",
     "originalNumber": 200,
     "type": "multiple",
-    "stem": "依据变电安规，室内母线分段部分、母线交叉部分及部分停电检修易误碰有电设备的，应设有）。",
+    "stem": "依据变电安规，室内母线分段部分、母线交叉部分及部分停电检修易误碰有电设备的，应设有（）。",
     "options": {
       "A": "明显标志的永久性隔离挡板",
       "B": "明显标志的永久性隔离护网",
@@ -4657,15 +4657,15 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9436
+    "ocrConfidence": 0.9869
   },
   {
     "id": "q-0201",
     "originalNumber": 201,
     "type": "multiple",
-    "stem": "依据变电安规，（管理）位泥石流等灾害发生后，如要对设备进行巡视时，应制定必要的安全措施，得到设备运维管理单位批准，并至少两人一组，巡视人员应与派出部门之间保持通信联络。",
+    "stem": "依据变电安规，管理单位泥石流等灾害发生后，如要对设备进行巡视时，应制定必要的安全措施，得到设备运维管理单位批准，并至少两人一组，巡视人员应与派出部门之间保持通信联络。",
     "options": {
-      "A": "地震Bc",
+      "A": "地震",
       "B": "台风",
       "C": "洪水",
       "D": "雷电"
@@ -4680,7 +4680,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9717
+    "ocrConfidence": 0.9824
   },
   {
     "id": "q-0202",
@@ -4691,7 +4691,7 @@
       "A": "母线分段部分",
       "B": "母线交叉部分",
       "C": "部分停电检修易误碰有电设备的",
-      "D": "母线引下部分ABc"
+      "D": "母线引下部分"
     },
     "correctAnswer": "ABC",
     "sourcePage": 31,
@@ -4703,7 +4703,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9598
+    "ocrConfidence": 0.989
   },
   {
     "id": "q-0203",
@@ -4711,10 +4711,10 @@
     "type": "multiple",
     "stem": "依据变电安规，高压设备符合下列（）条件，可由单人值班或单人操作。",
     "options": {
-      "A": "室内高压设备的隔离室设有遮栏遮栏的高度在1.7m以上，安装牢固并加锁者安表牛商开加锁者",
+      "A": "室内高压设备的隔离室设有遮栏遮栏的高度在1.7m以上，安装牢固并加锁者",
       "B": "室内高压断路器（开关）的操动机构（操作机构）用墙或金属板与该断路器（开关）隔离",
       "C": "室内高压断路器（开关）装有远方操动机构（操作机构）者",
-      "D": "室内高压设备的隔离室设有遮栏，遮栏的高度在1.5m以上，安装牢固并加锁者3c7"
+      "D": "室内高压设备的隔离室设有遮栏，遮栏的高度在1.5m以上，安装牢固并加锁者"
     },
     "correctAnswer": "ABC",
     "sourcePage": 31,
@@ -4726,13 +4726,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9044
+    "ocrConfidence": 0.9661
   },
   {
     "id": "q-0204",
     "originalNumber": 204,
     "type": "multiple",
-    "stem": "依据变电安规，在运用中的高压设备上工作，分为（）",
+    "stem": "依据变电安规，在运用中的高压设备上工作，分为（）。",
     "options": {
       "A": "计划停电的工作",
       "B": "部分停电的工作",
@@ -4749,7 +4749,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9872
+    "ocrConfidence": 0.9271
   },
   {
     "id": "q-0205",
@@ -4760,7 +4760,7 @@
       "A": "互感器",
       "B": "避雷针",
       "C": "避雷器",
-      "D": "设备构架2在在"
+      "D": "设备构架"
     },
     "correctAnswer": "BC",
     "sourcePage": 31,
@@ -4772,18 +4772,18 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9363
+    "ocrConfidence": 0.9862
   },
   {
     "id": "q-0206",
     "originalNumber": 206,
     "type": "multiple",
-    "stem": "依据变电安规，骨折急救时，肢体骨折可用（，）等将断骨上、下方两个关节固定，也可利十天节回是，也可利用伤员身体进行固定，避免骨折部位移动，以减少疼痛，防止伤势恶化。",
+    "stem": "依据变电安规，骨折急救时，肢体骨折可用（）等将断骨上、下方两个关节固定，也可利用伤员身体进行固定，避免骨折部位移动，以减少疼痛，防止伤势恶化。",
     "options": {
       "A": "夹板",
-      "B": "木棍2A",
+      "B": "木棍2",
       "C": "废纸板",
-      "D": "竹竿"
+      "D": "竹竿R21"
     },
     "correctAnswer": "ABD",
     "sourcePage": 31,
@@ -4795,17 +4795,17 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9438
+    "ocrConfidence": 0.9422
   },
   {
     "id": "q-0207",
     "originalNumber": 207,
     "type": "multiple",
-    "stem": "依据变电安规，心肺复苏术操作是否正确，主要靠平时严格训练，掌握正确的方法。而在急效2AB中判断复苏是否有效，可以根据以下（）、出现自主呼吸几方面综合考虑。B.",
+    "stem": "依据变电安规，心肺复苏术操作是否正确，主要靠平时严格训练，掌握正确的方法。而在急救中判断复苏是否有效，可以根据以下（），出现自主呼吸几方面综合考虑。",
     "options": {
       "A": "瞳孔",
       "B": "面色（口唇）216",
-      "C": "颈动脉搏动票。",
+      "C": "颈动脉搏动票",
       "D": "神志"
     },
     "correctAnswer": "ABCD",
@@ -4820,13 +4820,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9568
+    "ocrConfidence": 0.9809
   },
   {
     "id": "q-0208",
     "originalNumber": 208,
     "type": "multiple",
-    "stem": "依据变电安规。 脱离电源后，触电伤员如意识丧失, 应在开放气道后 105 用 (BCD判定伤员有无呼吸。）的方法",
+    "stem": "依据变电安规，脱离电源后，触电伤员如意识丧失，应在开放气道后10s内用（）的方法判定伤员有无呼吸。",
     "options": {
       "A": "叫",
       "B": "看",
@@ -4843,13 +4843,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9027
+    "ocrConfidence": 0.8654
   },
   {
     "id": "q-0209",
     "originalNumber": 209,
     "type": "judgment",
-    "stem": "依据变电安规、一个电气连接部分是指： 电气装置中。 可以用断路器(（开关） 同其他电气装置分开的部分。",
+    "stem": "依据变电安规，一个电气连接部分是指：电气装置中，可以用断路器（开关）同其他电气装置分开的部分。",
     "options": {
       "A": "正确",
       "B": "错误"
@@ -4864,7 +4864,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.963
+    "ocrConfidence": 0.9868
   },
   {
     "id": "q-0210",
@@ -4885,7 +4885,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9889
+    "ocrConfidence": 0.9838
   },
   {
     "id": "q-0211",
@@ -4906,7 +4906,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9829
+    "ocrConfidence": 0.9777
   },
   {
     "id": "q-0212",
@@ -4927,7 +4927,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9829
+    "ocrConfidence": 0.9833
   },
   {
     "id": "q-0213",
@@ -4948,7 +4948,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9839
+    "ocrConfidence": 0.979
   },
   {
     "id": "q-0214",
@@ -4969,7 +4969,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9815
+    "ocrConfidence": 0.9789
   },
   {
     "id": "q-0215",
@@ -4990,13 +4990,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9668
+    "ocrConfidence": 0.9531
   },
   {
     "id": "q-0216",
     "originalNumber": 216,
     "type": "judgment",
-    "stem": "依据变电安规， 在同一变电站内， 依次进行的同一类型的带电作业可以使用一张常电作业工作票。",
+    "stem": "依据变电安规，在同一变电站内，依次进行的同一类型的带电作业可以使用一张带电作业工作票。",
     "options": {
       "A": "正确",
       "B": "错误"
@@ -5013,7 +5013,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9302
+    "ocrConfidence": 0.9872
   },
   {
     "id": "q-0217",
@@ -5034,7 +5034,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9929
+    "ocrConfidence": 0.989
   },
   {
     "id": "q-0218",
@@ -5055,7 +5055,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9822
+    "ocrConfidence": 0.9798
   },
   {
     "id": "q-0219",
@@ -5076,7 +5076,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.984
+    "ocrConfidence": 0.9821
   },
   {
     "id": "q-0220",
@@ -5097,7 +5097,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9841
+    "ocrConfidence": 0.9822
   },
   {
     "id": "q-0221",
@@ -5118,7 +5118,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9852
+    "ocrConfidence": 0.9858
   },
   {
     "id": "q-0222",
@@ -5139,7 +5139,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9877
+    "ocrConfidence": 0.9858
   },
   {
     "id": "q-0223",
@@ -5160,7 +5160,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9887
+    "ocrConfidence": 0.9469
   },
   {
     "id": "q-0224",
@@ -5181,7 +5181,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9887
+    "ocrConfidence": 0.988
   },
   {
     "id": "q-0225",
@@ -5204,7 +5204,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9865
+    "ocrConfidence": 0.9854
   },
   {
     "id": "q-0226",
@@ -5225,7 +5225,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9422
+    "ocrConfidence": 0.9911
   },
   {
     "id": "q-0227",
@@ -5246,7 +5246,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9148
+    "ocrConfidence": 0.9331
   },
   {
     "id": "q-0228",
@@ -5267,7 +5267,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9808
+    "ocrConfidence": 0.9787
   },
   {
     "id": "q-0229",
@@ -5288,7 +5288,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9819
+    "ocrConfidence": 0.986
   },
   {
     "id": "q-0230",
@@ -5297,7 +5297,7 @@
     "stem": "依据变电安规，所有配电装置的适当地点，均应设有与接地网相连的接地端，接地电阻应合格。",
     "options": {
       "A": "正确",
-      "B": "错误使"
+      "B": "错误"
     },
     "correctAnswer": "A",
     "sourcePage": 34,
@@ -5309,7 +5309,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9745
+    "ocrConfidence": 0.9695
   },
   {
     "id": "q-0231",
@@ -5330,7 +5330,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9808
+    "ocrConfidence": 0.9475
   },
   {
     "id": "q-0232",
@@ -5339,7 +5339,7 @@
     "stem": "依据变电安规，在电气设备上工作，对难以做到与电源完全断开的检修设备，可以不拆除设备与电源之间的电气连接。",
     "options": {
       "A": "正确",
-      "B": "错误安"
+      "B": "错误"
     },
     "correctAnswer": "B",
     "sourcePage": 34,
@@ -5351,7 +5351,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9794
+    "ocrConfidence": 0.9694
   },
   {
     "id": "q-0233",
@@ -5372,7 +5372,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.8259
+    "ocrConfidence": 0.9777
   },
   {
     "id": "q-0234",
@@ -5395,13 +5395,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.982
+    "ocrConfidence": 0.9675
   },
   {
     "id": "q-0235",
     "originalNumber": 235,
     "type": "judgment",
-    "stem": "依据变电安规，表示设备断开和允许进入间隔的信号、经常接入的电压表等，如果指示有电，235、依据变电安规，表示设备断开和充许进入间隔的信号、经带按八木指水有电，在排除异常情况前，禁止在设备上工作。",
+    "stem": "依据变电安规，表示设备断开和允许进入间隔的信号、经常接入的电压表等，如果指示有电，在排除异常情况前，禁止在设备上工作。",
     "options": {
       "A": "正确",
       "B": "错误"
@@ -5416,7 +5416,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9631
+    "ocrConfidence": 0.9913
   },
   {
     "id": "q-0236",
@@ -5437,7 +5437,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9898
+    "ocrConfidence": 0.9872
   },
   {
     "id": "q-0237",
@@ -5458,7 +5458,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9884
+    "ocrConfidence": 0.9876
   },
   {
     "id": "q-0238",
@@ -5479,7 +5479,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.955
+    "ocrConfidence": 0.9504
   },
   {
     "id": "q-0239",
@@ -5500,7 +5500,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9802
+    "ocrConfidence": 0.9734
   },
   {
     "id": "q-0240",
@@ -5521,7 +5521,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9834
+    "ocrConfidence": 0.9751
   },
   {
     "id": "q-0241",
@@ -5542,7 +5542,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9903
+    "ocrConfidence": 0.9878
   },
   {
     "id": "q-0242",
@@ -5563,13 +5563,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9858
+    "ocrConfidence": 0.9822
   },
   {
     "id": "q-0243",
     "originalNumber": 243,
     "type": "judgment",
-    "stem": "依据变电安规，地震、台风、洪水、泥石流等灾害发生后，如需要对设备进行巡视时，应制定必要的安全措施，得到设备运维管理单位批准，可单人巡视，但巡视人员应与派出部门之间保持通信联络。",
+    "stem": "依据变电安规，地震、台风、洪水、泥石流等灾害发生后，如需要对设备进行巡视时，应制定信联络。",
     "options": {
       "A": "正确",
       "B": "错误"
@@ -5584,7 +5584,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9878
+    "ocrConfidence": 0.987
   },
   {
     "id": "q-0244",
@@ -5607,7 +5607,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9849
+    "ocrConfidence": 0.9867
   },
   {
     "id": "q-0245",
@@ -5628,7 +5628,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.8663
+    "ocrConfidence": 0.9325
   },
   {
     "id": "q-0246",
@@ -5649,13 +5649,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9717
+    "ocrConfidence": 0.9793
   },
   {
     "id": "q-0247",
     "originalNumber": 247,
     "type": "judgment",
-    "stem": "依据变电安规，解锁工具（钥匙） 使用后应在所有工作结束后再封存并作好记录。",
+    "stem": "217、依据变电安规， 解锁工具（钥匙） 使用后应在所有工作结束后再封存并作好记录。",
     "options": {
       "A": "正确",
       "B": "错误"
@@ -5670,13 +5670,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9663
+    "ocrConfidence": 0.9308
   },
   {
     "id": "q-0248",
     "originalNumber": 248,
     "type": "judgment",
-    "stem": "依据变电安规。 在运行中若必须进行中性点接地点断开的工作时。 应先建立有效的务路接地方可进行断开工作。",
+    "stem": "依据变电安规， 在运行中若必须进行中性点接地点断开的工作时。 应先建立有效的旁路接地力可进行断开工作。",
     "options": {
       "A": "正确",
       "B": "错误"
@@ -5691,13 +5691,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.953
+    "ocrConfidence": 0.9657
   },
   {
     "id": "q-0249",
     "originalNumber": 249,
     "type": "judgment",
-    "stem": "依据变电安规，高压设备上工作，在手车开关拉出后，应观察隔离档板是否可靠封闭。",
+    "stem": "依据变电安规，高压设备上工作，在手车开关拉出后，应观察隔离挡板是否可靠封闭。",
     "options": {
       "A": "正确",
       "B": "错误"
@@ -5712,7 +5712,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9857
+    "ocrConfidence": 0.9804
   },
   {
     "id": "q-0250",
@@ -5733,13 +5733,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9871
+    "ocrConfidence": 0.9851
   },
   {
     "id": "q-0251",
     "originalNumber": 251,
     "type": "judgment",
-    "stem": "依据变电安规，创伤急救时，如果伤员颅脑外伤，应使伤员采取平卧位，保持气道通畅，若有呕吐，应扶好头部和身体，使头部和身体同时侧转，防止呕吐物造成室息。",
+    "stem": "依据变电安规，创伤急救时，如果伤员颅脑外伤，应使伤员采取平卧位，保持气道通畅，若有呕吐，应扶好头部和身体，使头部和身体同时侧转，防止呕吐物造成窒息。",
     "options": {
       "A": "正确",
       "B": "错误"
@@ -5754,16 +5754,16 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9878
+    "ocrConfidence": 0.9841
   },
   {
     "id": "q-0252",
     "originalNumber": 252,
     "type": "judgment",
-    "stem": "依据变电安规，怀疑可能存在有害气体时，应立即将人员撤离现场，转移到通风良好处休息。抢救人员进入险区应戴防毒面具。应戴初每面共。",
+    "stem": "依据变电安规，怀疑可能存在有害气体时，应立即将人员撤离现场，转移到通风良好处休息。抢救人员进入险区应戴防毒面具。",
     "options": {
-      "A": "正确制定",
-      "B": "错误通"
+      "A": "正确",
+      "B": "错误"
     },
     "correctAnswer": "A",
     "sourcePage": 36,
@@ -5775,13 +5775,13 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9335
+    "ocrConfidence": 0.9692
   },
   {
     "id": "q-0253",
     "originalNumber": 253,
     "type": "judgment",
-    "stem": "依据变电安规，平地搬运时伤员头部在前，上楼、下楼时、下坡时头部都在下， 搬运中应严密观察伤员，防止伤情突变。",
+    "stem": "依据变电安规，平地搬运时伤员头部在前，上楼、下楼时、下坡时头部都在下，搬运中应严密观察伤员，防止伤情突变。",
     "options": {
       "A": "正确",
       "B": "错误"
@@ -5796,7 +5796,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9756
+    "ocrConfidence": 0.9754
   },
   {
     "id": "q-0254",
@@ -5819,7 +5819,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.8706
+    "ocrConfidence": 0.8757
   },
   {
     "id": "q-0255",
@@ -5840,7 +5840,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9925
+    "ocrConfidence": 0.9859
   },
   {
     "id": "q-0256",
@@ -5861,7 +5861,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.986
+    "ocrConfidence": 0.9857
   },
   {
     "id": "q-0257",
@@ -5882,7 +5882,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9898
+    "ocrConfidence": 0.9892
   },
   {
     "id": "q-0258",
@@ -5903,7 +5903,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9887
+    "ocrConfidence": 0.9777
   },
   {
     "id": "q-0259",
@@ -5924,7 +5924,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9853
+    "ocrConfidence": 0.9866
   },
   {
     "id": "q-0260",
@@ -5945,7 +5945,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9894
+    "ocrConfidence": 0.9871
   },
   {
     "id": "q-0261",
@@ -5966,7 +5966,7 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9822
+    "ocrConfidence": 0.9716
   },
   {
     "id": "q-0262",
@@ -5987,6 +5987,6 @@
     ],
     "needsReview": false,
     "reviewNotes": [],
-    "ocrConfidence": 0.9864
+    "ocrConfidence": 0.983
   }
 ]
